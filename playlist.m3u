@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=https://i.im.ge/QMA4xn9/A_Sports.png" tvg-name="A Sports" group-title="SM BDIX",A Sports
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4xn9/A_Sports.png" tvg-name="A Sports" group-title="SM BDIX",A Sports
 http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8?token=665a0082a282ee8c3bca72d2397f4f804786e912-e28e29b2b0adcb34dcc735b4cad51009-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Arena_Sport_TV_1.png" tvg-name="ARENA-SPORTS-1" group-title="SM BDIX",ARENA-SPORTS-1
 http://180.94.28.28:8097//ARENA-SPORTS-1/index.fmp4.m3u8?token=c7c6f973817a81a0610ada735014774f9df45518-a639b079a52584c7e6307e9d014afdd9-1776169972-1776166372&remote=no_check_ip
