@@ -90,7 +90,7 @@ http://180.94.28.28:8097//Sony-Ten-3/index.fmp4.m3u8?token=526f36c79f8180dd8daca
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4mPa/Sony_Sports_Ten_5.png" tvg-name="Sony Ten 5 HD" group-title="SM BDIX",Sony Ten 5 HD
 http://180.94.28.28:8097//Sony-Ten-5/index.fmp4.m3u8?token=a88b5a9fde25cedeb5f5cb8ca202a4754fe5b034-5499b22cfe75b04843bf08ac3a7c8988-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAH1Rc/Star_Jalsha.png" tvg-name="Star Jalsha" group-title="SM BDIX",Star Jalsha
-http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8?token=eeaada9525f94e1ad69a2ecab3ce4e18e32e2966-ab0e7f5d5e47ac31007b7cd3f64b1811-1776169971-1776166371&remote=no_check_ip
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABxoW/STAR_PLUS_HD.png" tvg-name="Star Plus" group-title="SM BDIX",Star Plus
 http://180.94.28.28:8097//STAR-PLUS/index.fmp4.m3u8?token=54ec691e0faaa50f8c844bf9ef53f00028fff31b-9c4b112ad338d4e1a26fceeae11ff1e0-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4AQ6/Star_Sports_1_HD.png" tvg-name="Star Sports 1" group-title="SM BDIX",Star Sports 1
@@ -116,6 +116,6 @@ http://180.94.28.28:8097//Ten-Sports/index.fmp4.m3u8?token=72ce4652a4e42932d26c8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/WILLOW_SPORTS.png" tvg-name="WILLOW_SPORTS" group-title="SM BDIX",WILLOW_SPORTS
 http://180.94.28.28:8097//WILLOW-TV/index.fmp4.m3u8?token=6055d76fde871383221f98bb1dd55a0b96eca3f3-00a64a8486be06e5211e7b9fd64016f2-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAB9U4/ZEE_BANGLA_HD.png" tvg-name="Zee Bangla" group-title="SM BDIX",Zee Bangla
-http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8?token=f0e935f7ded22ca5ec138a8a1bdd0783c143f2f0-72abea8effadde408717c21c70ba02fa-1776169971-1776166371&remote=no_check_ip
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Zee Cinema HD .png" tvg-name="Zee Cinema HD" group-title="SM BDIX",Zee Cinema HD
 http://180.94.28.28:8097//ZEE-CINEMA/index.fmp4.m3u8?token=0e73452eabec9200801db1b31a9ec47a0808face-62fc389819392a38f719f3a9e375f563-1776169973-1776166373&remote=no_check_ip
