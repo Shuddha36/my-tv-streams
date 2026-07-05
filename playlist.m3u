@@ -18,9 +18,9 @@ http://180.94.28.28:8097//BEIN-SPORTS-ARABIC/index.fmp4.m3u8?token=919eb890a7c8d
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApzVD/BTV.png" tvg-name="BTV" group-title="SM BDIX",BTV
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApv0C/channel_24.png" tvg-name="Channel 24" group-title="SM BDIX",Channel 24
-http://180.94.28.28:8097//CHANNEL-24/index.fmp4.m3u8?token=3cf1ed172b24b2ddf480880795c5c49dd3bb2f03-b8bc5d5b81b61e912f1c7d6fc2a14073-1776169971-1776166371&remote=no_check_ip
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAppl4/channel_9.png" tvg-name="Channel 9" group-title="SM BDIX",Channel 9
-http://180.94.28.28:8097//CHANNEL-9/index.fmp4.m3u8?token=5584b50e79d470aeab64154d9164717cf5d244de-26c9120137659cadaecf27875bc1132b-1776169971-1776166371&remote=no_check_ip
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApJgq/channel_I.png" tvg-name="Channel i" group-title="SM BDIX",Channel i
 http://180.94.28.28:8097//CHANNEL-i/index.fmp4.m3u8?token=edd3c5a4856fce1c8debb946340b0c1b7136c671-53d53c09b3f212c40bad1c86d5e2f087-1776169971-1776166371&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAB5oD/CARTOON_NETWORK.png" tvg-name="CN" group-title="SM BDIX",CN
@@ -32,7 +32,7 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/DAZN-1.png" tvg-name="DAZN-1" group-title="SM BDIX",DAZN-1
 http://180.94.28.28:8097//DAZN-1/index.fmp4.m3u8?token=c55b2f7bc9be21a0b8e5d0ab8c25370c50f318b7-4ca8bd8aa3b17dfb3e541af1d9577e75-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLtGpjJ0/DBC-News.png" tvg-name="DBC News" group-title="SM BDIX",DBC News
-http://180.94.28.28:8097//DBC-NEWS/index.fmp4.m3u8?token=f15be11ef838db5c35c8249c9ece7828167f4ea3-db47749f678d3ea3d45d0eeb8b45e56c-1776169971-1776166371&remote=no_check_ip
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Deepto  TV .png" tvg-name="Deepto  TV" group-title="SM BDIX",Deepto  TV
 http://180.94.28.28:8097//DEEPTO-TV/index.fmp4.m3u8?token=5bee4ec31ea2d3ee32e609e6bbe58ae3375c0d59-be4243f7fda9d160de60366af4c15fc9-1776169971-1776166371&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABjYC/Discovery_TV.png" tvg-name="Discovery" group-title="SM BDIX",Discovery
@@ -74,7 +74,7 @@ http://180.94.28.28:8097//SKY-SPORTS-CRICKET/index.fmp4.m3u8?token=5d86b515f8a8e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvj9pDh6/Somoy-TV.png" tvg-name="Somoy TV" group-title="SM BDIX",Somoy TV
 http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8?token=4fde3d8957e50f434586227e0235025478768f0e-ed9e7afca3040a69f8179bfff33845e0-1776169971-1776166371&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAHrkW/Sony_Aath.png" tvg-name="Sony Aath" group-title="SM BDIX",Sony Aath
-http://180.94.28.28:8097//SONY-AATH/index.fmp4.m3u8?token=1da1361f5596113df8a71926e1d7831369938f93-dc2b512c88af04d4ed4ff9087e498efa-1776169972-1776166372&remote=no_check_ip
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony max 2.png" tvg-name="Sony max 2" group-title="SM BDIX",Sony max 2
 http://180.94.28.28:8097//SONY-MAX-2/index.fmp4.m3u8?token=e3612fc46a92bab0b7c1889e7fd025713ef4b9bb-118f1af1694b4ae17317a6152a1fbd3f-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABAmm/SONY_MAX_HD.png" tvg-name="Sony Max HD" group-title="SM BDIX",Sony Max HD
