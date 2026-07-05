@@ -27,7 +27,7 @@ http://180.94.28.28:8097//CHANNEL-i/index.fmp4.m3u8?token=edd3c5a4856fce1c8debb9
 http://180.94.28.28:8097//CARTOON-NETWORK/index.fmp4.m3u8?token=52636e5178ffde884455262dfbdd706f2c27950a-f06a3bb6e61cb1e4bfcd77721dda68b9-1776169973-1776166373&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Color Bangla Cinema.png" tvg-name="Color Bangla Cinema" group-title="SM BDIX",Color Bangla Cinema
 http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8?token=8ca2733bb3561762a5d9763fd28feeb9d2d359f6-4d9200a87f58f150277d9239d8ed4039-1776169972-1776166372&remote=no_check_ip
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Colors Bangla.png" tvg-name="Colors Bangla" group-title="SM BDIX",Colors Bangla
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/File:Colors_Bangla_logo.svg" tvg-name="Colors Bangla" group-title="SM BDIX",Colors Bangla
 http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8?token=429a387b63ac8a32c732fefb835365ad92425ccc-92e5b67b31a4719886a661390e8c1554-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/DAZN-1.png" tvg-name="DAZN-1" group-title="SM BDIX",DAZN-1
 http://180.94.28.28:8097//DAZN-1/index.fmp4.m3u8?token=c55b2f7bc9be21a0b8e5d0ab8c25370c50f318b7-4ca8bd8aa3b17dfb3e541af1d9577e75-1776169972-1776166372&remote=no_check_ip
