@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/A Sports.png" tvg-name="A Sports" group-title="SM BDIX",A Sports
 http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8?token=665a0082a282ee8c3bca72d2397f4f804786e912-e28e29b2b0adcb34dcc735b4cad51009-1776169972-1776166372&remote=no_check_ip
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/ARENA-SPORTS-1.png" tvg-name="ARENA-SPORTS-1" group-title="SM BDIX",ARENA-SPORTS-1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Arena_Sport_TV_1.png" tvg-name="ARENA-SPORTS-1" group-title="SM BDIX",ARENA-SPORTS-1
 http://180.94.28.28:8097//ARENA-SPORTS-1/index.fmp4.m3u8?token=c7c6f973817a81a0610ada735014774f9df45518-a639b079a52584c7e6307e9d014afdd9-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Bein Sports Xtra .png" tvg-name="Bein Sports Xtra" group-title="SM BDIX",Bein Sports Xtra
 http://180.94.28.28:8097//BEIN-SPORTS-USA/index.fmp4.m3u8?token=5af85681ece27cf6ff75c8cf98011ed963cdc921-751d86c207c94b315329edd8befafe1f-1776169972-1776166372&remote=no_check_ip
