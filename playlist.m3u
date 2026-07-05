@@ -25,7 +25,7 @@ http://180.94.28.28:8097//CHANNEL-9/index.fmp4.m3u8?token=5584b50e79d470aeab6415
 http://180.94.28.28:8097//CHANNEL-i/index.fmp4.m3u8?token=edd3c5a4856fce1c8debb946340b0c1b7136c671-53d53c09b3f212c40bad1c86d5e2f087-1776169971-1776166371&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/CN.png" tvg-name="CN" group-title="SM BDIX",CN
 http://180.94.28.28:8097//CARTOON-NETWORK/index.fmp4.m3u8?token=52636e5178ffde884455262dfbdd706f2c27950a-f06a3bb6e61cb1e4bfcd77721dda68b9-1776169973-1776166373&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/File:Colors_Bangla_Cinema.png" tvg-name="Color Bangla Cinema" group-title="SM BDIX",Color Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHdLG/Colors_Bangla_Cinema.png" tvg-name="Color Bangla Cinema" group-title="SM BDIX",Color Bangla Cinema
 http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8?token=8ca2733bb3561762a5d9763fd28feeb9d2d359f6-4d9200a87f58f150277d9239d8ed4039-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAHOjT/Colors_Bangla.png" tvg-name="Colors Bangla" group-title="SM BDIX",Colors Bangla
 http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8?token=429a387b63ac8a32c732fefb835365ad92425ccc-92e5b67b31a4719886a661390e8c1554-1776169972-1776166372&remote=no_check_ip
@@ -43,7 +43,7 @@ http://180.94.28.28:8097//DISCOVERY-KIDS/index.fmp4.m3u8?token=d588925c8e8b76efd
 http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8?token=e75fb97048890b77770eb83dbf6ba162d7146f10-0b19b41c8305385db0d73e7de5baa853-1776169973-1776166373&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Ekattur.png" tvg-name="Ekattur" group-title="SM BDIX",Ekattur
 http://180.94.28.28:8097//EKATTOR-TV/index.fmp4.m3u8?token=0d80c53c8d7a2e251432cfffe110b67fd4b8b606-c7914bdabf0e7814be276ff104f5d3ef-1776169971-1776166371&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/File:Enterr10_Bangla.jpg" tvg-name="Enter 10 Bangla" group-title="SM BDIX",Enter 10 Bangla
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHq3x/Enterr10_Bangla.png" tvg-name="Enter 10 Bangla" group-title="SM BDIX",Enter 10 Bangla
 http://180.94.28.28:8097//ENTER-10-BANGLA/index.fmp4.m3u8?token=02eef7d9345d291f15522f1bc4669e0a9f6961f3-14561c859cf15d313dca958e04ccf510-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Gazi TV.png" tvg-name="Gazi TV" group-title="SM BDIX",Gazi TV
 http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8?token=400bcae797249d11b14d2d2d7c79f420be526c6c-ddb0dcf96098de24e09d7f9a9476072e-1776169971-1776166371&remote=no_check_ip
