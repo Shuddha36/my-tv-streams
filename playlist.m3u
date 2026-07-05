@@ -27,7 +27,7 @@ http://180.94.28.28:8097//CHANNEL-i/index.fmp4.m3u8?token=edd3c5a4856fce1c8debb9
 http://180.94.28.28:8097//CARTOON-NETWORK/index.fmp4.m3u8?token=52636e5178ffde884455262dfbdd706f2c27950a-f06a3bb6e61cb1e4bfcd77721dda68b9-1776169973-1776166373&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/File:Colors_Bangla_Cinema.png" tvg-name="Color Bangla Cinema" group-title="SM BDIX",Color Bangla Cinema
 http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8?token=8ca2733bb3561762a5d9763fd28feeb9d2d359f6-4d9200a87f58f150277d9239d8ed4039-1776169972-1776166372&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/File:Colors_Bangla_HD.jpg" tvg-name="Colors Bangla" group-title="SM BDIX",Colors Bangla
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHOjT/Colors_Bangla.png" tvg-name="Colors Bangla" group-title="SM BDIX",Colors Bangla
 http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8?token=429a387b63ac8a32c732fefb835365ad92425ccc-92e5b67b31a4719886a661390e8c1554-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/DAZN-1.png" tvg-name="DAZN-1" group-title="SM BDIX",DAZN-1
 http://180.94.28.28:8097//DAZN-1/index.fmp4.m3u8?token=c55b2f7bc9be21a0b8e5d0ab8c25370c50f318b7-4ca8bd8aa3b17dfb3e541af1d9577e75-1776169972-1776166372&remote=no_check_ip
@@ -73,7 +73,7 @@ http://180.94.28.28:8097//RTV/index.fmp4.m3u8?token=3e67857b3a30b349cfcee04c568e
 http://180.94.28.28:8097//SKY-SPORTS-CRICKET/index.fmp4.m3u8?token=5d86b515f8a8ecd816ec325c3a85fbff1eaf6908-e590c66f54ad2e640f5e98fce1f1cec2-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Somoy TV.png" tvg-name="Somoy TV" group-title="SM BDIX",Somoy TV
 http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8?token=4fde3d8957e50f434586227e0235025478768f0e-ed9e7afca3040a69f8179bfff33845e0-1776169971-1776166371&remote=no_check_ip
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Aath.png" tvg-name="Sony Aath" group-title="SM BDIX",Sony Aath
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHrkW/Sony_Aath.png" tvg-name="Sony Aath" group-title="SM BDIX",Sony Aath
 http://180.94.28.28:8097//SONY-AATH/index.fmp4.m3u8?token=1da1361f5596113df8a71926e1d7831369938f93-dc2b512c88af04d4ed4ff9087e498efa-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony max 2.png" tvg-name="Sony max 2" group-title="SM BDIX",Sony max 2
 http://180.94.28.28:8097//SONY-MAX-2/index.fmp4.m3u8?token=e3612fc46a92bab0b7c1889e7fd025713ef4b9bb-118f1af1694b4ae17317a6152a1fbd3f-1776169972-1776166372&remote=no_check_ip
@@ -89,7 +89,7 @@ http://180.94.28.28:8097//Sony-Ten-2/index.fmp4.m3u8?token=326328f15ca0d37a15950
 http://180.94.28.28:8097//Sony-Ten-3/index.fmp4.m3u8?token=526f36c79f8180dd8daca779fc642c13669b3238-cf703a1bd89dcf07e7cb0fa4b566af8d-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Ten 5 HD.png" tvg-name="Sony Ten 5 HD" group-title="SM BDIX",Sony Ten 5 HD
 http://180.94.28.28:8097//Sony-Ten-5/index.fmp4.m3u8?token=a88b5a9fde25cedeb5f5cb8ca202a4754fe5b034-5499b22cfe75b04843bf08ac3a7c8988-1776169972-1776166372&remote=no_check_ip
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Jalsha.png" tvg-name="Star Jalsha" group-title="SM BDIX",Star Jalsha
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMAH1Rc/Star_Jalsha.png" tvg-name="Star Jalsha" group-title="SM BDIX",Star Jalsha
 http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8?token=eeaada9525f94e1ad69a2ecab3ce4e18e32e2966-ab0e7f5d5e47ac31007b7cd3f64b1811-1776169971-1776166371&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Plus.png" tvg-name="Star Plus" group-title="SM BDIX",Star Plus
 http://180.94.28.28:8097//STAR-PLUS/index.fmp4.m3u8?token=54ec691e0faaa50f8c844bf9ef53f00028fff31b-9c4b112ad338d4e1a26fceeae11ff1e0-1776169972-1776166372&remote=no_check_ip
@@ -103,7 +103,7 @@ http://180.94.28.28:8097//Star-Sports-3/index.fmp4.m3u8?token=02a7a97c199f968807
 http://180.94.28.28:8097//star-Sports-Select-2/index.fmp4.m3u8?token=b0d646cff7f63de4fde17ec1a1e5a01e5aea730b-6b45f5fc1d63c40458ac11a76b10b724-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/StarSports Select 1 .png" tvg-name="StarSports Select 1" group-title="SM BDIX",StarSports Select 1
 http://180.94.28.28:8097//Star-Sports-Select-1/index.fmp4.m3u8?token=ed44e1cbf1d099b4fa3eeccba3ab15dba69d98fb-d5c78afb9e4abb2133d238d30eef57ff-1776169972-1776166372&remote=no_check_ip
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sun Bangla.png" tvg-name="Sun Bangla" group-title="SM BDIX",Sun Bangla
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHSTL/Sun_Bangla.png" tvg-name="Sun Bangla" group-title="SM BDIX",Sun Bangla
 http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8?token=ddf83cdff5d2a3215579fa2d1303886e18ab6d5c-749917c00731c4d6f44b52a2cfc14557-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/SuperSportcricket.png" tvg-name="SuperSportcricket" group-title="SM BDIX",SuperSportcricket
 http://180.94.28.28:8097//SUPERSPORT-CRICKET/index.fmp4.m3u8?token=9b6f76a20021940cfcfffb622ceec7a55eb367da-831be8e0c78ea5e531a5f0947c329250-1776169972-1776166372&remote=no_check_ip
@@ -115,7 +115,7 @@ http://180.94.28.28:8097//Ten-Cricket/index.fmp4.m3u8?token=fb1dd36dc35227732853
 http://180.94.28.28:8097//Ten-Sports/index.fmp4.m3u8?token=72ce4652a4e42932d26c89cdfaa936e4a6b6e600-bf2451f2e58e4fc6df9505fb8197d33d-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/WILLOW_SPORTS.png" tvg-name="WILLOW_SPORTS" group-title="SM BDIX",WILLOW_SPORTS
 http://180.94.28.28:8097//WILLOW-TV/index.fmp4.m3u8?token=6055d76fde871383221f98bb1dd55a0b96eca3f3-00a64a8486be06e5211e7b9fd64016f2-1776169972-1776166372&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://im.ge/i/QMAHFF0" tvg-name="Zee Bangla" group-title="SM BDIX",Zee Bangla
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHFF0/Zee_Bnagla.png" tvg-name="Zee Bangla" group-title="SM BDIX",Zee Bangla
 http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8?token=f0e935f7ded22ca5ec138a8a1bdd0783c143f2f0-72abea8effadde408717c21c70ba02fa-1776169971-1776166371&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Zee Cinema HD .png" tvg-name="Zee Cinema HD" group-title="SM BDIX",Zee Cinema HD
 http://180.94.28.28:8097//ZEE-CINEMA/index.fmp4.m3u8?token=0e73452eabec9200801db1b31a9ec47a0808face-62fc389819392a38f719f3a9e375f563-1776169973-1776166373&remote=no_check_ip
