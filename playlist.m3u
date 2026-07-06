@@ -86,9 +86,9 @@ https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4P9S/PTV_Sports.png" tvg-name="PTV Sports" group-title="Sports",PTV Sports
 http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8?token=93bfc3e373ae64dfc86a2b064efcf164ab636f88-e915256d9d836a2b50774d2e1507e3b7-1776169972-1776166372&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTr5f/SKY_SPORTS_CRICKET.jpg" tvg-name="SKY-SPORTS-CRICKET" group-title="Sports",SKY-SPORTS-CRICKET
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTr5f/SKY_SPORTS_CRICKET.jpg" tvg-name="SKY SPORTS CRICKET" group-title="Sports",SKY-SPORTS-CRICKET
 http://180.94.28.28:8097//SKY-SPORTS-CRICKET/index.fmp4.m3u8?token=5d86b515f8a8ecd816ec325c3a85fbff1eaf6908-e590c66f54ad2e640f5e98fce1f1cec2-1776169972-1776166372&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTDux/SUPER_SPORTS_CRICKET.png" tvg-name="SuperSportcricket" group-title="Sports",SuperSportcricket
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTDux/SUPER_SPORTS_CRICKET.png" tvg-name="Super Sport Cricket" group-title="Sports",SuperSportcricket
 http://180.94.28.28:8097//SUPERSPORT-CRICKET/index.fmp4.m3u8?token=9b6f76a20021940cfcfffb622ceec7a55eb367da-831be8e0c78ea5e531a5f0947c329250-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABNyP/TEN_Cricket.png" tvg-name="TEN Cricket" group-title="Sports",ten cricket
 http://180.94.28.28:8097//Ten-Cricket/index.fmp4.m3u8?token=fb1dd36dc35227732853816f05dc69adf7d95585-8dde7791632553859a25b18523140d53-1776169972-1776166372&remote=no_check_ip
