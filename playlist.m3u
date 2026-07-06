@@ -76,7 +76,7 @@ http://180.94.28.28:8097//Sony-Ten-5/index.fmp4.m3u8?token=a88b5a9fde25cedeb5f5c
 http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8?token=665a0082a282ee8c3bca72d2397f4f804786e912-e28e29b2b0adcb34dcc735b4cad51009-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCTOQr/BEIN_SPORTS_1_DIRECT.png" tvg-name="BEIN SPORTS 1 Direct" group-title="Sports",Bein Sports Direct
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4bP8/Bein_SPORTS_1.png" tvg-name="BEIN SPORTS EXTRA" group-title="Sports",BEIN-SPORTS-1
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTOQr/BEIN_SPORTS_1_DIRECT.png" tvg-name="BEIN SPORTS EXTRA" group-title="Sports",BEIN-SPORTS-1
 http://180.94.28.28:8097//BEIN-SPORTS-1/index.fmp4.m3u8?token=5eab7ba95f3d335d26e3ad4491e9f668abb584ff-c1d3638421a0d5cda9d66463d271448c-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BEIN-SPORTS-1-ENG.png" tvg-name="BEIN SPORTS 1" group-title="Sports",BEIN-SPORTS-1-ENG
 http://180.94.28.28:8097//BEIN-SPORTS-1-ENG/index.fmp4.m3u8?token=101b413f9747e376a3ccb843671aa0e95823613c-de085e0ef7cc48f47932afa0e948ce19-1776169972-1776166372&remote=no_check_ip
