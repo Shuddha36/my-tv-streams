@@ -30,21 +30,21 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAppl4/channel_9.png" tvg-name="Channel 9" group-title="Bangladeshi",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApJgq/channel_I.png" tvg-name="Channel i" group-title="Bangladeshi",Channel i
-http://180.94.28.28:8097//CHANNEL-i/index.fmp4.m3u8?token=edd3c5a4856fce1c8debb946340b0c1b7136c671-53d53c09b3f212c40bad1c86d5e2f087-1776169971-1776166371&remote=no_check_ip
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLtGpjJ0/DBC-News.png" tvg-name="DBC News" group-title="Bangladeshi",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCT1IW/Deepto_TV.png" tvg-name="Deepto  TV" group-title="Bangladeshi",Deepto  TV
-http://180.94.28.28:8097//DEEPTO-TV/index.fmp4.m3u8?token=5bee4ec31ea2d3ee32e609e6bbe58ae3375c0d59-be4243f7fda9d160de60366af4c15fc9-1776169971-1776166371&remote=no_check_ip
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApBDP/Ekattur_TV.png" tvg-name="Ekattur" group-title="Bangladeshi",Ekattur
-http://180.94.28.28:8097//EKATTOR-TV/index.fmp4.m3u8?token=0d80c53c8d7a2e251432cfffe110b67fd4b8b606-c7914bdabf0e7814be276ff104f5d3ef-1776169971-1776166371&remote=no_check_ip
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApGE1/GTV.png" tvg-name="Gazi TV" group-title="Bangladeshi",Gazi TV
-http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8?token=400bcae797249d11b14d2d2d7c79f420be526c6c-ddb0dcf96098de24e09d7f9a9476072e-1776169971-1776166371&remote=no_check_ip
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApevf/Independent_TV.png" tvg-name="Independent TV" group-title="Bangladeshi",Independent TV
-http://180.94.28.28:8097//Independent-TV/index.fmp4.m3u8?token=3cf561b8857223891e679bb51abb8258d108dbd2-2b04e13f44ea8f7763a64880cd8fa166-1776169971-1776166371&remote=no_check_ip
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAvQSm/Jamuna_TV.png" tvg-name="Jamuna Tv" group-title="Bangladeshi",Jamuna Tv
-http://180.94.28.28:8097//Jamuna-TV/index.fmp4.m3u8?token=f66e6595a1b2af73b05c754ee7628968068d9d89-7dd046e803e2399c98283ab8a0827538-1776169971-1776166371&remote=no_check_ip
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAvTNr/Maasranga_TV.png" tvg-name="MAASRANGA TV HD" group-title="Bangladeshi",MAASRANGA TV HD
-http://180.94.28.28:8097//Maasranga-tv/index.fmp4.m3u8?token=77e4c138fdd20cc2c5a122caf5c8c10a7a826cd3-f75393e951173bcadf796b7cbf5c8bef-1776169971-1776166371&remote=no_check_ip
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAvoVW/Nagorik_TV.png" tvg-name="Nagorik TV" group-title="Bangladeshi",Nagorik TV
 http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8?token=544f08111346de6231cb27cc5df8d732ef8cfd3a-09a292e51717f3456b187cfccec43169-1776169971-1776166371&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43TQs7gL/RTV.png" tvg-name="Rtv" group-title="Bangladeshi",Rtv
