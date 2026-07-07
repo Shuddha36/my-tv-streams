@@ -8,13 +8,13 @@ https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAHOjT/Colors_Bangla.png" tvg-name="Colors Bangla" group-title="Kolkata Bangla",Colors Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAHSTL/Sun_Bangla.png" tvg-name="Sun Bangla" group-title="Kolkata Bangla",Sun Bangla
-http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8?token=ddf83cdff5d2a3215579fa2d1303886e18ab6d5c-749917c00731c4d6f44b52a2cfc14557-1776169972-1776166372&remote=no_check_ip
+http://103.151.60.162:2121/play/a01p/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAHq3x/Enterr10_Bangla.png" tvg-name="Enter 10 Bangla" group-title="Kolkata Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAHdLG/Colors_Bangla_Cinema.png" tvg-name="Color Bangla Cinema" group-title="Kolkata Bangla",Color Bangla Cinema
 http://66.102.126.10:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAHXqm/Jalsha_Movies_HD.png" tvg-name="Jalsha Movies" group-title="Kolkata Bangla",Jalsha Movies
-http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8?token=db2538fdd0d868b1f01d342ee7929f62a5083d97-7601b35e404354f1cb113317091539cf-1776169971-1776166371&remote=no_check_ip
+http://103.151.60.162:2121/play/a00x/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAHrkW/Sony_Aath.png" tvg-name="Sony Aath" group-title="Kolkata Bangla",Sony Aath
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
@@ -86,8 +86,8 @@ https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4P9S/PTV_Sports.png" tvg-name="PTV Sports" group-title="Sports",PTV Sports
 http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8?token=93bfc3e373ae64dfc86a2b064efcf164ab636f88-e915256d9d836a2b50774d2e1507e3b7-1776169972-1776166372&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTr5f/SKY_SPORTS_CRICKET.jpg" tvg-name="SKY SPORTS CRICKET" group-title="Sports",SKY-SPORTS-CRICKET
-http://180.94.28.28:8097//SKY-SPORTS-CRICKET/index.fmp4.m3u8?token=5d86b515f8a8ecd816ec325c3a85fbff1eaf6908-e590c66f54ad2e640f5e98fce1f1cec2-1776169972-1776166372&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCjlCS/Unite_8_Sports.png" tvg-name="Unite 8 Sports" group-title="Sports",Unite 8 Sports
+http://103.151.60.162:2121/play/a0f8/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCTDux/SUPER_SPORTS_CRICKET.png" tvg-name="Super Sport Cricket" group-title="Sports",SuperSportcricket
 http://180.94.28.28:8097//SUPERSPORT-CRICKET/index.fmp4.m3u8?token=9b6f76a20021940cfcfffb622ceec7a55eb367da-831be8e0c78ea5e531a5f0947c329250-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABNyP/TEN_Cricket.png" tvg-name="TEN Cricket" group-title="Sports",ten cricket
@@ -109,7 +109,7 @@ http://180.94.28.28:8097//STAR-PLUS/index.fmp4.m3u8?token=54ec691e0faaa50f8c844b
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABAmm/SONY_MAX_HD.png" tvg-name="Sony Max HD" group-title="Hindi",Sony Max HD
 http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=3cb50ef3d94ad1661590b7d21df6f5f56856da25-0e28ff981157c82e879c35fbff082361-1776169972-1776166372&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABCZr/SONY_PIX_HD.png" tvg-name="Sony Pix HD" group-title="Hindi",Sony Pix HD
-http://180.94.28.28:8097//SONY-PIX/index.fmp4.m3u8?token=4badf6f374c4646a88bbd2e6bed3c644389100f5-4fc7ab9f87beac766715a822dbfa108c-1776169972-1776166372&remote=no_check_ip
+http://103.151.60.162:2121/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCT2x0/Zee_Cinema_HD.png" tvg-name="Zee Cinema HD" group-title="Hindi",Zee Cinema HD
 http://180.94.28.28:8097//ZEE-CINEMA/index.fmp4.m3u8?token=0e73452eabec9200801db1b31a9ec47a0808face-62fc389819392a38f719f3a9e375f563-1776169973-1776166373&remote=no_check_ip
 
