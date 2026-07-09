@@ -68,11 +68,11 @@ https://xfireflix.my.id/mac.php?id=373203.m3u8
 https://xfireflix.my.id/mac.php?id=373202.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4ckh/Star_Sports_Select_2_HD.png" tvg-name="Star Sports Select 2" group-title="Sports",Star Sports Select 2
 https://xfireflix.my.id/mac.php?id=373201.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4Nuy/Sony_Ten_1_HD.png" tvg-name="Sony Ten 1 HD" group-title="Sports",Sony Ten 1 HD
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCnikf/SONY_SportsTen1_HD.png" tvg-name="Sony Ten 1 HD" group-title="Sports",Sony Ten 1 HD
 https://xfireflix.my.id/mac.php?id=373200.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4wfJ/Sony_Ten_2_HD.png" tvg-name="Sony Ten 2 HD" group-title="Sports",Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCn5Fm/SONY_SportsTen2_HD.png" tvg-name="Sony Ten 2 HD" group-title="Sports",Sony Ten 2 HD
 https://xfireflix.my.id/mac.php?id=373199.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvvLpHVn/SONY-TEN-3.png" tvg-name="Sony Ten 3 HD" group-title="Sports",Sony Ten 3 HD
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCnUqP/Sony_Sports_Ten_3_Hindi_HD.png" tvg-name="Sony Ten 3 HD" group-title="Sports",Sony Ten 3 HD
 https://xfireflix.my.id/mac.php?id=373198.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4mPa/Sony_Sports_Ten_5.png" tvg-name="Sony Ten 5 HD" group-title="Sports",Sony Ten 5 HD
 https://xfireflix.my.id/mac.php?id=373196.m3u8
@@ -107,7 +107,11 @@ https://xfireflix.my.id/mac.php?id=372993.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABxoW/STAR_PLUS_HD.png" tvg-name="Star Plus" group-title="Hindi",Star Plus
 https://xfireflix.my.id/mac.php?id=671571.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABAmm/SONY_MAX_HD.png" tvg-name="Sony Max HD" group-title="Hindi",Sony Max HD
-https://xfireflix.my.id/mac.php?id=373074.m3u8
+https://xfireflix.my.id/mac.php?id=1646810.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCn9jr/SONY_ENTERTAINMENT_HD.png" tvg-name="Sony Entertainment HD" group-title="Hindi",Sony Entertainment HD
+https://xfireflix.my.id/mac.php?id=943926.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCnjRW/SONY_SAB_HD.png" tvg-name="Sony Sab HD" group-title="Hindi",Sony Sab HD
+https://xfireflix.my.id/mac.php?id=944604.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABCZr/SONY_PIX_HD.png" tvg-name="Sony Pix HD" group-title="Hindi",Sony Pix HD
 https://xfireflix.my.id/mac.php?id=943971.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCT2x0/Zee_Cinema_HD.png" tvg-name="Zee Cinema HD" group-title="Hindi",Zee Cinema HD
