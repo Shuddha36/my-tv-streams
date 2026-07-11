@@ -1,4 +1,14 @@
 #EXTM3U
+#========== FIFA ==========
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMEdgiT/LIVE_SPORTS.png" tvg-name="TSN 1 HD" group-title="Sports",The Hero Live
+http://geoiptv.one:8880/live/shuddhasourav/Sourav36/95511.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMEdgiT/LIVE_SPORTS.png" tvg-name="TSN 4 HD" group-title="Sports",The Hero Live
+http://geoiptv.one:8880/live/shuddhasourav/Sourav36/95514.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCjlCS/Unite_8_Sports.png" tvg-name="Unite 8 Sports 1" group-title="Sports",Unite 8 Sports 1
+http://geoiptv.one:8880/live/shuddhasourav/Sourav36/1062249.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCjlCS/Unite_8_Sports.png" tvg-name="Unite 8 Sports 2" group-title="Sports",Unite 8 Sports 2
+http://geoiptv.one:8880/live/shuddhasourav/Sourav36/1062243.m3u8
+
 
 #========== KOLKATA BANGLA ==========
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzRgBsCf/STAR-JALSHA.png" tvg-name="Star Jalsha" group-title="Kolkata Bangla",Star Jalsha
@@ -54,12 +64,6 @@ http://180.94.28.28:8097//RTV/index.fmp4.m3u8?token=3e67857b3a30b349cfcee04c568e
 #========== SPORTS ==========
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAB6sp/T_SPORTS.jpg" tvg-name="T Sports" group-title="Sports",T Sports
 http://103.165.93.31:8095/tsports/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCjlCS/Unite_8_Sports.png" tvg-name="Unite 8 Sports 1" group-title="Sports",Unite 8 Sports 1
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/1062249.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCjlCS/Unite_8_Sports.png" tvg-name="Unite 8 Sports 2" group-title="Sports",Unite 8 Sports 2
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/1062243.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMEdgiT/LIVE_SPORTS.png" tvg-name="The Hero Live" group-title="Sports",The Hero Live
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/1062252.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4P9S/PTV_Sports.png" tvg-name="PTV Sports" group-title="Sports",PTV Sports
 https://xfireflix.my.id/mac.php?id=373120.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4AQ6/Star_Sports_1_HD.png" tvg-name="Star Sports 1" group-title="Sports",Star Sports 1
