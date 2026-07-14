@@ -122,16 +122,32 @@ http://geoiptv.one:8880/live/shuddhasourav/Sourav36/191564.m3u8
 #========== HINDI ==========
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABxoW/STAR_PLUS_HD.png" tvg-name="Star Plus" group-title="Hindi",Star Plus
 http://geoiptv.one:8880/live/shuddhasourav/Sourav36/326092.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMABAmm/SONY_MAX_HD.png" tvg-name="Sony Max HD" group-title="Hindi",Sony Max HD
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/60157.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCn9jr/SONY_ENTERTAINMENT_HD.png" tvg-name="Sony Entertainment HD" group-title="Hindi",Sony Entertainment HD
 http://geoiptv.one:8880/live/shuddhasourav/Sourav36/179098.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCnjRW/SONY_SAB_HD.png" tvg-name="Sony Sab HD" group-title="Hindi",Sony Sab HD
 http://geoiptv.one:8880/live/shuddhasourav/Sourav36/179143.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwXm0/ZEE_TV.png" tvg-name="Zee Tv" group-title="Hindi",Zee Tv
+http://shosttv.top:8880/live/shuddhasourav/Sourav36/32140.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwFhL/Colors_tv.png" tvg-name="Colors Tv" group-title="Hindi",Colors Tv
+http://shosttv.top:8880/live/shuddhasourav/Sourav36/179093.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwOYG/_TV_HD.png" tvg-name="& Tv" group-title="Hindi",& Tv
+http://shosttv.top:8880/live/shuddhasourav/Sourav36/326593.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMABAmm/SONY_MAX_HD.png" tvg-name="Sony Max HD" group-title="Hindi",Sony Max HD
+http://geoiptv.one:8880/live/shuddhasourav/Sourav36/60157.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwSaa/Colors_Cineplex.png" tvg-name="Color Cineplex" group-title="Hindi",Color Cineplex
+http://shosttv.top:8880/live/shuddhasourav/Sourav36/584456.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwlZT/Star_Gold_HD.png" tvg-name="Star Gold HD" group-title="Hindi",Star Gold HD
+http://shosttv.top:8880/live/shuddhasourav/Sourav36/32161.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwuoc/Star_Gold_2.png" tvg-name="Star Gold 2 HD" group-title="Hindi",Star Gold 2 HD
+http://shosttv.top:8880/live/shuddhasourav/Sourav36/32205.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxw1Bx/AND_PICTURES_HD.png" tvg-name="& Pictures HD" group-title="Hindi",& Pictures HD
+http://shosttv.top:8880/live/shuddhasourav/Sourav36/325319.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABCZr/SONY_PIX_HD.png" tvg-name="Sony Pix HD" group-title="Hindi",Sony Pix HD
 http://geoiptv.one:8880/live/shuddhasourav/Sourav36/586747.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCT2x0/Zee_Cinema_HD.png" tvg-name="Zee Cinema HD" group-title="Hindi",Zee Cinema HD
 http://geoiptv.one:8880/live/shuddhasourav/Sourav36/325485.m3u8
+
+
 
 #========== OTHER ==========
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABjYC/Discovery_TV.png" tvg-name="Discovery" group-title="Other",Discovery
