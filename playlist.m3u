@@ -77,7 +77,7 @@ http://180.94.28.28:8097//RTV/index.fmp4.m3u8?token=3e67857b3a30b349cfcee04c568e
 
 #========== SPORTS ==========
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAB6sp/T_SPORTS.jpg" tvg-name="T Sports" group-title="Sports",T Sports
-http://basic.nvisionbd.net/live/shuddhasourav1/Sourav36/409.ts
+http://basic.nvisionbd.net:8080/live/shuddhasourav1/Sourav36/455.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4P9S/PTV_Sports.png" tvg-name="PTV Sports" group-title="Sports",PTV Sports
 http://geoiptv.one:8880/live/shuddhasourav/Sourav36/639414.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMxSf00/Willow_Cricket.png" tvg-name="Willow Cricket" group-title="Sports",Willow Cricket
