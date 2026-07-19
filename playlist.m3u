@@ -47,9 +47,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAvTNr/Maasranga_TV.png" tvg-name="MAASRANGA TV HD" group-title="Bangladeshi",MAASRANGA TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAvoVW/Nagorik_TV.png" tvg-name="Nagorik TV" group-title="Bangladeshi",Nagorik TV
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/3802.m3u8
+http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/3802.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43TQs7gL/RTV.png" tvg-name="Rtv" group-title="Bangladeshi",Rtv
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/401.m3u8
+http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/401.ts
 
 
 #========== SPORTS ==========
@@ -100,7 +100,7 @@ http://geoiptv.one:8880/live/shuddhasourav/Sourav36/111638.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCTofP/Discovery_Kids.png" tvg-name="Discovery Kids" group-title="Cartoon",Discovery kids
 http://geoiptv.one:8880/live/shuddhasourav/Sourav36/191566.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApnep/Duronto_TV.png" tvg-name="Duronto TV" group-title="Cartoon",Duronto TV
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/433.m3u8
+http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/433.ts
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABmBq/POGO.png" tvg-name="POGO" group-title="Cartoon",POGO
 http://geoiptv.one:8880/live/shuddhasourav/Sourav36/191564.m3u8
 
