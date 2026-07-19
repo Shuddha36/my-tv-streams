@@ -39,7 +39,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApBDP/Ekattur_TV.png" tvg-name="Ekattur" group-title="Bangladeshi",Ekattur
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApGE1/GTV.png" tvg-name="Gazi TV" group-title="Bangladeshi",Gazi TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
+http://geoiptv.one:8880/live/shuddhasourav/Sourav36/324698.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApevf/Independent_TV.png" tvg-name="Independent TV" group-title="Bangladeshi",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAvQSm/Jamuna_TV.png" tvg-name="Jamuna Tv" group-title="Bangladeshi",Jamuna Tv
@@ -47,9 +47,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAvTNr/Maasranga_TV.png" tvg-name="MAASRANGA TV HD" group-title="Bangladeshi",MAASRANGA TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAvoVW/Nagorik_TV.png" tvg-name="Nagorik TV" group-title="Bangladeshi",Nagorik TV
-http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8?token=544f08111346de6231cb27cc5df8d732ef8cfd3a-09a292e51717f3456b187cfccec43169-1776169971-1776166371&remote=no_check_ip
+http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/3802.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43TQs7gL/RTV.png" tvg-name="Rtv" group-title="Bangladeshi",Rtv
-http://180.94.28.28:8097//RTV/index.fmp4.m3u8?token=3e67857b3a30b349cfcee04c568e522f823b1f98-97e413b19434555ee18530e886a6762f-1776169971-1776166371&remote=no_check_ip
+http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/401.m3u8
 
 
 #========== SPORTS ==========
@@ -100,7 +100,7 @@ http://geoiptv.one:8880/live/shuddhasourav/Sourav36/111638.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCTofP/Discovery_Kids.png" tvg-name="Discovery Kids" group-title="Cartoon",Discovery kids
 http://geoiptv.one:8880/live/shuddhasourav/Sourav36/191566.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApnep/Duronto_TV.png" tvg-name="Duronto TV" group-title="Cartoon",Duronto TV
-http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8?token=e75fb97048890b77770eb83dbf6ba162d7146f10-0b19b41c8305385db0d73e7de5baa853-1776169973-1776166373&remote=no_check_ip
+http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/433.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABmBq/POGO.png" tvg-name="POGO" group-title="Cartoon",POGO
 http://geoiptv.one:8880/live/shuddhasourav/Sourav36/191564.m3u8
 
