@@ -26,7 +26,7 @@ http://geoiptv.one:8880/live/shuddhasourav/Sourav36/522386.m3u8
 http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/358.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApzVD/BTV.png" tvg-name="BTV" group-title="Bangladeshi",BTV
 http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/357.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMYRrfz/bangla_vision_tv.png" tvg-name="Bangla Vision group-title="Bangladeshi",Bangla Vision
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMYRrfz/bangla_vision_tv.png" tvg-name="Bangla Vision" group-title="Bangladeshi",Bangla Vision
 http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/368.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMYRlPS/ATN_Bangla.png" tvg-name="ATN Bangla" group-title="Bangladeshi",ATN Bangla
 http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/24589.m3u8
