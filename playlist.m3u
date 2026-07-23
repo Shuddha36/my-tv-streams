@@ -73,6 +73,10 @@ http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/370.m3u8
 #========== SPORTS ==========
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAB6sp/T_SPORTS.jpg" tvg-name="T Sports" group-title="Sports",T Sports
 http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/409.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCjlCS/Unite_8_Sports.png" tvg-name="Unite8 Sports 1" group-title="Sports",Unite8 Sports 1
+http://shosttv.top:8880/live/shuddhasourav/Sourav36/1071337.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMbDazF/unite_sports_2.jpg" tvg-name="Unite8 Sports 2" group-title="Sports",Unite8 Sports 2
+http://shosttv.top:8880/live/shuddhasourav/Sourav36/1062141.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4P9S/PTV_Sports.png" tvg-name="PTV Sports" group-title="Sports",PTV Sports
 http://geoiptv.one:8880/live/shuddhasourav/Sourav36/1062344.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMxSf00/Willow_Cricket.png" tvg-name="Willow Cricket" group-title="Sports",Willow Cricket
