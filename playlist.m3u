@@ -1,167 +1,139 @@
 #EXTM3U
 #========== KOLKATA BANGLA ==========
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMxWAam/STAR_JALSHA.png" tvg-name="Star Jalsha" group-title="Kolkata Bangla",Star Jalsha
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/522289.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMY8Wgp/Zee_Bangla_logo.png" tvg-name="Zee Bangla" group-title="Kolkata Bangla",Zee Bangla
-http://trxx.in/live/a13d09a0ad/aa0d4b0e19d4/225786.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63525.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMY8tg9/Z_Bangla_HD.png" tvg-name="Zee Bangla" group-title="Kolkata Bangla",Zee Bangla
+http://line.lux-4k.cc/live/262318736/405431/112571.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAHOjT/Colors_Bangla.png" tvg-name="Colors Bangla" group-title="Kolkata Bangla",Colors Bangla
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/179255.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63526.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAHSTL/Sun_Bangla.png" tvg-name="Sun Bangla" group-title="Kolkata Bangla",Sun Bangla
-http://trxx.in/live/a13d09a0ad/aa0d4b0e19d4/1112198.m3u8
+http://line.lux-4k.cc/live/262318736/405431/126098.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAHq3x/Enterr10_Bangla.png" tvg-name="Enter 10 Bangla" group-title="Kolkata Bangla",Enter 10 Bangla
-http://starter.nvisionbd.net/live/shuddhasourav/Sourav36/94406.m3u8
+http://line.lux-4k.cc/live/262318736/405431/126105.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAHltr/Zee_Bangla_Cinema.png" tvg-name="Zee Bangla Cinema" group-title="Kolkata Bangla",Zee Bangla Cinema
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/111956.m3u8
+http://line.lux-4k.cc/live/262318736/405431/108845.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAHdLG/Colors_Bangla_Cinema.png" tvg-name="Colors Cinema" group-title="Kolkata Bangla",Colors Cinema
 http://geoiptv.one:8880/live/shuddhasourav/Sourav36/179362.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAHXqm/Jalsha_Movies_HD.png" tvg-name="Jalsha Movies" group-title="Kolkata Bangla",Jalsha Movies
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/179254.m3u8
+http://line.lux-4k.cc/live/262318736/405431/1458372.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAHrkW/Sony_Aath.png" tvg-name="Sony Aath" group-title="Kolkata Bangla",Sony Aath
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/522386.m3u8
+http://line.lux-4k.cc/live/262318736/405431/108839.m3u8
 
 
 
 #========== BANGLADESHI ==========
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMYRQxa/BTV_News.png" tvg-name="BTV News" group-title="Bangladeshi",BTV News
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/358.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApzVD/BTV.png" tvg-name="BTV" group-title="Bangladeshi",BTV
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/357.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMYRrfz/bangla_vision_tv.png" tvg-name="Bangla Vision" group-title="Bangladeshi",Bangla Vision
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/368.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMYRlPS/ATN_Bangla.png" tvg-name="ATN Bangla" group-title="Bangladeshi",ATN Bangla
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/24589.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMYRdLX/ATN_News_logo.png" tvg-name="ATN News" group-title="Bangladeshi",ATN News
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/362.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMYRXdy/NTV.png" tvg-name="NTV" group-title="Bangladeshi",NTV
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/369.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMYRTJJ/NEWS24.png" tvg-name="NEWS24" group-title="Bangladeshi",NEWS24
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/16884.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMYRMIx/MY_TV.png" tvg-name="My TV" group-title="Bangladeshi",My TV
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/16935.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMY8eMG/ekushe_etv.png" tvg-name="Ekushey ETV" group-title="Bangladeshi",Ekushey ETV
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/378.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMYRFu6/boishakhi-tv-logo.png" tvg-name="Boishakhi TV" group-title="Bangladeshi",Boishakhi TV
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/384.m3u8
+http://line.lux-4k.cc/live/262318736/405431/108801.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMY8YSY/SOMOY_TV.png" tvg-name="Somoy TV" group-title="Bangladeshi",Somoy TV
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/365.m3u8
+http://trxx.in/live/a13d09a0ad/aa0d4b0e19d4/225774.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApv0C/channel_24.png" tvg-name="Channel 24" group-title="Bangladeshi",Channel 24
 http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/18817.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAppl4/channel_9.png" tvg-name="Channel 9" group-title="Bangladeshi",Channel 9
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/382.m3u8
+http://line.lux-4k.cc/live/262318736/405431/108803.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApJgq/channel_I.png" tvg-name="Channel I" group-title="Bangladeshi",Channel I
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/363.m3u8
+http://line.lux-4k.cc/live/262318736/405431/108805.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMY8EEh/DBC_NEWS.png" tvg-name="DBC News" group-title="Bangladeshi",DBC News
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/16883.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCT1IW/Deepto_TV.png" tvg-name="Deepto  TV" group-title="Bangladeshi",Deepto  TV
+http://line.lux-4k.cc/live/262318736/405431/108808.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCT1IW/Deepto_TV.png" tvg-name="Deepto TV" group-title="Bangladeshi",Deepto  TV
 http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/372.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApBDP/Ekattur_TV.png" tvg-name="Ekattur" group-title="Bangladeshi",Ekattur
 http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/364.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApGE1/GTV.png" tvg-name="Gazi TV" group-title="Bangladeshi",Gazi TV
 http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/374.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApevf/Independent_TV.png" tvg-name="Independent TV" group-title="Bangladeshi",Independent TV
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/105506.m3u8
+http://line.lux-4k.cc/live/262318736/405431/108819.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAvQSm/Jamuna_TV.png" tvg-name="Jamuna Tv" group-title="Bangladeshi",Jamuna TV
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/18816.m3u8
+http://line.lux-4k.cc/live/262318736/405431/108853.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAvTNr/Maasranga_TV.png" tvg-name="Maasranga TV" group-title="Bangladeshi",Maasranga TV
 http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/376.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAvoVW/Nagorik_TV.png" tvg-name="Nagorik TV" group-title="Bangladeshi",Nagorik TV
 http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/955.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMY8xJM/RTV.png" tvg-name="RTV" group-title="Bangladeshi",RTV
-http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/370.m3u8
+http://line.lux-4k.cc/live/262318736/405431/108833.m3u8
 
 
 #========== SPORTS ==========
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAB6sp/T_SPORTS.jpg" tvg-name="T Sports" group-title="Sports",T Sports
 http://starter.nvisionbd.net:8080/live/shuddhasourav/Sourav36/409.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCjlCS/Unite_8_Sports.png" tvg-name="Unite8 Sports 1" group-title="Sports",Unite8 Sports 1
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/1071337.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMbDazF/unite_sports_2.jpg" tvg-name="Unite8 Sports 2" group-title="Sports",Unite8 Sports 2
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/1062141.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4P9S/PTV_Sports.png" tvg-name="PTV Sports" group-title="Sports",PTV Sports
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/1062344.m3u8
+http://line.lux-4k.cc/live/262318736/405431/99753.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMxSf00/Willow_Cricket.png" tvg-name="Willow Cricket" group-title="Sports",Willow Cricket
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/322113.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMY8bND/willow_extra_2.png" tvg-name="Willow Extra" group-title="Sports",Willow Extra
+http://line.lux-4k.cc/live/262318736/405431/63439.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxSVlW/Willow_Xtra.png" tvg-name="Willow Extra" group-title="Sports",Willow Extra
 http://shosttv.top:8880/live/shuddhasourav/Sourav36/638408.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4AQ6/Star_Sports_1_HD.png" tvg-name="Star Sports 1" group-title="Sports",Star Sports 1
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/390358.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63541.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4CLF/Star_Sports_2.png" tvg-name="Star Sports 2" group-title="Sports",Star Sports 2
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/907114.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63540.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4ExK/Star_Sports_3.png" tvg-name="Star Sports 3" group-title="Sports",Star Sports 3
 http://geoiptv.one:8880/live/shuddhasourav/Sourav36/907117.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4YqX/Star_Sports_Select_1_HD.png" tvg-name="Star Sports Select 1" group-title="Sports",Star Sports Select 1
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/907120.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63539.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4ckh/Star_Sports_Select_2_HD.png" tvg-name="Star Sports Select 2" group-title="Sports",Star Sports Select 2
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/907123.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63498.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCnikf/SONY_SportsTen1_HD.png" tvg-name="Sony Ten 1 HD" group-title="Sports",Sony Ten 1 HD
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/325506.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63537.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCn5Fm/SONY_SportsTen2_HD.png" tvg-name="Sony Ten 2 HD" group-title="Sports",Sony Ten 2 HD
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/32169.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63536.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCnUqP/Sony_Sports_Ten_3_Hindi_HD.png" tvg-name="Sony Ten 3 HD" group-title="Sports",Sony Ten 3 HD
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/325387.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63535.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4mPa/Sony_Sports_Ten_5.png" tvg-name="Sony Ten 5 HD" group-title="Sports",Sony Ten 5 HD
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/322114.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63499.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMEGD74/FOX_SPORTS_CRICKET.png" tvg-name="Fox 501 Cricket" group-title="Sports",Fox 501 Cricket
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/107903.m3u8
+http://line.lux-4k.cc/live/262318736/405431/113657.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4xn9/A_Sports.png" tvg-name="A Sports" group-title="Sports",A Sports
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/498899.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4bP8/Bein_SPORTS_1.png" tvg-name="BEIN SPORTS 1" group-title="Sports",BEIN SPORTS 1
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/829380.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTSnT/BEIN_SPORTS_2.png" tvg-name="BEIN SPORTS 2" group-title="Sports",BEIN SPORTS 2
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/352814.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTqdc/BEIN_SPORTS_3.png" tvg-name="BEIN SPORTS 3" group-title="Sports",BEIN SPORTS 3
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/829382.m3u8
+http://line.lux-4k.cc/live/262318736/405431/501756.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABNyP/TEN_Cricket.png" tvg-name="TEN Sports" group-title="Sports",Ten Sports
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/605589.m3u8
+http://line.lux-4k.cc/live/262318736/405431/99694.m3u8
 
 #========== CARTOON ==========
 #EXTINF:-1 tvg-logo="https://i.im.ge/QM3FTK0/SUPER_HUNGAMA.png" tvg-name="Super Hungama" group-title="Cartoon",Super Hungama
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/1043119.m3u8
+http://line.lux-4k.cc/live/262318736/405431/112886.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAB5oD/CARTOON_NETWORK.png" tvg-name="Cartoon Network" group-title="Cartoon",Cartoon Network
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/111638.m3u8
+http://line.lux-4k.cc/live/262318736/405431/112886.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCTofP/Discovery_Kids.png" tvg-name="Discovery Kids" group-title="Cartoon",Discovery kids
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/191566.m3u8
+http://line.lux-4k.cc/live/262318736/405431/112942.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMApnep/Duronto_TV.png" tvg-name="Duronto TV" group-title="Cartoon",Duronto TV
 http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/433.ts
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABmBq/POGO.png" tvg-name="POGO" group-title="Cartoon",POGO
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/191564.m3u8
+http://line.lux-4k.cc/live/262318736/405431/112864.m3u8
 
 #========== HINDI ==========
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABxoW/STAR_PLUS_HD.png" tvg-name="Star Plus" group-title="Hindi",Star Plus
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/326092.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63563.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCn9jr/SONY_ENTERTAINMENT_HD.png" tvg-name="Sony Entertainment HD" group-title="Hindi",Sony Entertainment HD
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/179098.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63588.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCnjRW/SONY_SAB_HD.png" tvg-name="Sony Sab HD" group-title="Hindi",Sony Sab HD
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/179143.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63566.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMxwXm0/ZEE_TV.png" tvg-name="Zee TV" group-title="Hindi",Zee TV
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/32140.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63561.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMxwFhL/Colors_tv.png" tvg-name="Colors TV" group-title="Hindi",Colors TV
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/179093.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63576.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMxwOYG/_TV_HD.png" tvg-name="& TV" group-title="Hindi",& TV
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/326593.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63579.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABAmm/SONY_MAX_HD.png" tvg-name="Sony Max HD" group-title="Hindi",Sony Max HD
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/60157.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63568.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMxwSaa/Colors_Cineplex.png" tvg-name="Color Cineplex" group-title="Hindi",Color Cineplex
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/584456.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63577.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMxwlZT/Star_Gold_HD.png" tvg-name="Star Gold HD" group-title="Hindi",Star Gold HD
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/32161.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63565.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMxwuoc/Star_Gold_2.png" tvg-name="Star Gold 2 HD" group-title="Hindi",Star Gold 2 HD
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/32205.m3u8
+http://line.lux-4k.cc/live/262318736/405431/143806.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMxw1Bx/AND_PICTURES_HD.png" tvg-name="& Pictures HD" group-title="Hindi",& Pictures HD
-http://shosttv.top:8880/live/shuddhasourav/Sourav36/325319.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63580.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABCZr/SONY_PIX_HD.png" tvg-name="Sony Pix HD" group-title="Hindi",Sony Pix HD
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/586747.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63582.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCT2x0/Zee_Cinema_HD.png" tvg-name="Zee Cinema HD" group-title="Hindi",Zee Cinema HD
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/325485.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63581.m3u8
 
 
 
 #========== OTHER ==========
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABjYC/Discovery_TV.png" tvg-name="Discovery" group-title="Other",Discovery
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/325213.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63315.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCTu8m/Movies_Now.png" tvg-name="Movies Now" group-title="Other",Movies Now
-https://xfireflix.my.id/mac.php?id=372981.m3u8
+http://line.lux-4k.cc/live/262318736/405431/112877.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCTlu1/National_Geography.png" tvg-name="National Geography" group-title="Other",National Geography
-http://geoiptv.one:8880/live/shuddhasourav/Sourav36/465835.m3u8
+http://line.lux-4k.cc/live/262318736/405431/63570.m3u8
 
 #==========(extra group) ==========
