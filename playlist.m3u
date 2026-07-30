@@ -1,138 +1,1365 @@
 #EXTM3U
-#========== KOLKATA BANGLA ==========
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxWAam/STAR_JALSHA.png" tvg-name="Star Jalsha" group-title="Kolkata Bangla",Star Jalsha
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/76204.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMY8Wgp/Zee_Bangla_logo.png" tvg-name="Zee Bangla" group-title="Kolkata Bangla",Zee Bangla
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72258.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHOjT/Colors_Bangla.png" tvg-name="Colors Bangla" group-title="Kolkata Bangla",Colors Bangla
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/76179.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHSTL/Sun_Bangla.png" tvg-name="Sun Bangla" group-title="Kolkata Bangla",Sun Bangla
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/510486.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHq3x/Enterr10_Bangla.png" tvg-name="Enter 10 Bangla" group-title="Kolkata Bangla",Enter 10 Bangla
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/510484.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHltr/Zee_Bangla_Cinema.png" tvg-name="Zee Bangla Cinema" group-title="Kolkata Bangla",Zee Bangla Cinema
-http://line.lux-4k.cc/live/262318736/405431/108845.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHdLG/Colors_Bangla_Cinema.png" tvg-name="Colors Cinema" group-title="Kolkata Bangla",Colors Cinema
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/510476.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHXqm/Jalsha_Movies_HD.png" tvg-name="Jalsha Movies" group-title="Kolkata Bangla",Jalsha Movies
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/78937.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHrkW/Sony_Aath.png" tvg-name="Sony Aath" group-title="Kolkata Bangla",Sony Aath
-http://line.lux-4k.cc/live/262318736/405431/108839.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMbHGcS/Aakash_Aath_Logo.png" tvg-name="Akash Bangla" group-title="Kolkata Bangla",Akash Bangla
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/78939.ts
-
-
-#========== BANGLADESHI ==========
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMApzVD/BTV.png" tvg-name="BTV" group-title="Bangladeshi",BTV
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/78946.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMYRQxa/BTV_News.png" tvg-name="BTV News" group-title="Bangladeshi",BTV News
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/928141.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMY8YSY/SOMOY_TV.png" tvg-name="Somoy TV" group-title="Bangladeshi",Somoy TV
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/809027.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMYRlPS/ATN_Bangla.png" tvg-name="ATN Bangla" group-title="Bangladeshi",ATN Bangla
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72262.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMYRdLX/ATN_News_logo.png" tvg-name="ATN News" group-title="Bangladeshi",ATN News
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/76198.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMYRXdy/NTV.png" tvg-name="NTV" group-title="Bangladeshi",NTV
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/76181.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAppl4/channel_9.png" tvg-name="Channel 9" group-title="Bangladeshi",Channel 9
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/809035.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMApJgq/channel_I.png" tvg-name="Channel I" group-title="Bangladeshi",Channel I
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/809034.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMY8EEh/DBC_NEWS.png" tvg-name="DBC News" group-title="Bangladeshi",DBC News
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/809033.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMApevf/Independent_TV.png" tvg-name="Independent TV" group-title="Bangladeshi",Independent TV
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/809031.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAvQSm/Jamuna_TV.png" tvg-name="Jamuna Tv" group-title="Bangladeshi",Jamuna TV
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/694099.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMY8xJM/RTV.png" tvg-name="RTV" group-title="Bangladeshi",RTV
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/78975.ts
-
-
-#========== SPORTS ==========
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAB6sp/T_SPORTS.jpg" tvg-name="T Sports" group-title="Sports",T Sports
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/1404538.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMbDazF/unite_sports_2.jpg" tvg-name="Unite8 Sports 2" group-title="Sports",Unite8 Sports 2
-http://opplex.org/live/irshad6833/khan8855/444333.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMEGD74/FOX_SPORTS_CRICKET.png" tvg-name="Fox 501 Cricket" group-title="Sports",Fox 501 Cricket
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/1405863.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4xn9/A_Sports.png" tvg-name="A Sports" group-title="Sports",A Sports
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/266255.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4AQ6/Star_Sports_1_HD.png" tvg-name="Star Sports 1" group-title="Sports",Star Sports 1
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/1404528.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4CLF/Star_Sports_2.png" tvg-name="Star Sports 2" group-title="Sports",Star Sports 2
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/1404530.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4ExK/Star_Sports_3.png" tvg-name="Star Sports 3" group-title="Sports",Star Sports 3
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/1404531.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4YqX/Star_Sports_Select_1_HD.png" tvg-name="Star Sports Select 1" group-title="Sports",Star Sports Select 1
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/1404532.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4ckh/Star_Sports_Select_2_HD.png" tvg-name="Star Sports Select 2" group-title="Sports",Star Sports Select 2
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/1404533.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCnikf/SONY_SportsTen1_HD.png" tvg-name="Sony Ten 1 HD" group-title="Sports",Sony Ten 1 HD
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/1090641.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCn5Fm/SONY_SportsTen2_HD.png" tvg-name="Sony Ten 2 HD" group-title="Sports",Sony Ten 2 HD
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/1090642.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCnUqP/Sony_Sports_Ten_3_Hindi_HD.png" tvg-name="Sony Ten 3 HD" group-title="Sports",Sony Ten 3 HD
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/1090643.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4mPa/Sony_Sports_Ten_5.png" tvg-name="Sony Ten 5 HD" group-title="Sports",Sony Ten 5 HD
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/1090634.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4P9S/PTV_Sports.png" tvg-name="PTV Sports" group-title="Sports",PTV Sports
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/1404537.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxSf00/Willow_Cricket.png" tvg-name="Willow Cricket" group-title="Sports",Willow Cricket
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/1404524.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxSVlW/Willow_Xtra.png" tvg-name="Willow Extra" group-title="Sports",Willow Extra
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/1404523.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMABNyP/TEN_Cricket.png" tvg-name="Ten Sports" group-title="Sports",Ten Sports
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/1406508.ts
-
-#========== CARTOON ==========
-#EXTINF:-1 tvg-logo="https://i.im.ge/QM3FTK0/SUPER_HUNGAMA.png" tvg-name="Hungama" group-title="Cartoon",Hungama
-http://opplex.org/live/irshad6833/khan8855/150480.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAB5oD/CARTOON_NETWORK.png" tvg-name="Cartoon Network" group-title="Cartoon",Cartoon Network
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/175131.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTofP/Discovery_Kids.png" tvg-name="Discovery Kids" group-title="Cartoon",Discovery kids
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/510452.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMApnep/Duronto_TV.png" tvg-name="Duronto TV" group-title="Cartoon",Duronto TV
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/433.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMABmBq/POGO.png" tvg-name="POGO" group-title="Cartoon",POGO
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/117790.ts
-
-#========== HINDI ==========
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMABxoW/STAR_PLUS_HD.png" tvg-name="Star Plus" group-title="Hindi",Star Plus
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72143.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCn9jr/SONY_ENTERTAINMENT_HD.png" tvg-name="Sony Entertainment HD" group-title="Hindi",Sony Entertainment HD
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72146.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCnjRW/SONY_SAB_HD.png" tvg-name="Sony Sab HD" group-title="Hindi",Sony Sab HD
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72150.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwXm0/ZEE_TV.png" tvg-name="Zee TV" group-title="Hindi",Zee TV
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72135.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwFhL/Colors_tv.png" tvg-name="Colors TV" group-title="Hindi",Colors TV
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72156.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwOYG/_TV_HD.png" tvg-name="& TV" group-title="Hindi",& TV
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72166.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMABAmm/SONY_MAX_HD.png" tvg-name="Sony Max HD" group-title="Hindi",Sony Max HD
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72147.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwSaa/Colors_Cineplex.png" tvg-name="Color Cineplex" group-title="Hindi",Color Cineplex
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72512.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwlZT/Star_Gold_HD.png" tvg-name="Star Gold HD" group-title="Hindi",Star Gold HD
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72141.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwuoc/Star_Gold_2.png" tvg-name="Star Gold 2 HD" group-title="Hindi",Star Gold 2 HD
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/510292.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxw1Bx/AND_PICTURES_HD.png" tvg-name="& Pictures HD" group-title="Hindi",& Pictures HD
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72165.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMABCZr/SONY_PIX_HD.png" tvg-name="Sony Pix HD" group-title="Hindi",Sony Pix HD
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72148.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCT2x0/Zee_Cinema_HD.png" tvg-name="Zee Cinema HD" group-title="Hindi",Zee Cinema HD
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72136.ts
-
-
-
-#========== OTHER ==========
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMABjYC/Discovery_TV.png" tvg-name="Discovery" group-title="Other",Discovery
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72191.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTu8m/Movies_Now.png" tvg-name="Movies Now" group-title="Other",Movies Now
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/34697.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTlu1/National_Geography.png" tvg-name="National Geography" group-title="Other",National Geography
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72220.ts
-
-#==========(extra group) ==========
+#EXTINF:-1 tvg-name="##### BANGLA - UK #####" tvg-logo="https://go4.pw/FLAGS/flag_bangladesh.png" group-title="AS | BANGLA",##### BANGLA - UK #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1225556669.m3u8
+#EXTINF:-1 tvg-id="NTV-IN" tvg-name="BANGLA -UK| NTV" tvg-logo="https://go4.pw/ASIA/BANGLA/NTV.png" group-title="AS | BANGLA",BANGLA -UK| NTV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1286592297.m3u8
+#EXTINF:-1 tvg-name="BANGLA -UK| ATN BANGLA UK" tvg-logo="https://go4.pw/ASIA/BANGLA/ATNBANGLA.png" group-title="AS | BANGLA",BANGLA -UK| ATN BANGLA UK
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1559778289.m3u8
+#EXTINF:-1 tvg-name="##### BANGLA - GENERAL #####" tvg-logo="https://go4.pw/FLAGS/flag_bangladesh.png" group-title="AS | BANGLA",##### BANGLA - GENERAL #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/873144952.m3u8
+#EXTINF:-1 tvg-name="BANGLA - STAR JALSHA MOVIES HD" tvg-logo="https://go4.pw/ASIA/BANGLA/STAR-JALSHA-MOVIESHD.png" group-title="AS | BANGLA",BANGLA - STAR JALSHA MOVIES HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/815747502.m3u8
+#EXTINF:-1 tvg-name="BANGLA - ATN" tvg-logo="https://go4.pw/ASIA/BANGLA/ATNBANGLA.png" group-title="AS | BANGLA",BANGLA - ATN
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1154148792.m3u8
+#EXTINF:-1 tvg-name="BANGLA - BANGALA ABP ANANDA" tvg-logo="https://go4.pw/ASIA/BANGLA/BANGALAABPANANDA.png" group-title="AS | BANGLA",BANGLA - BANGALA ABP ANANDA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/592546485.m3u8
+#EXTINF:-1 tvg-id="tv1.in" tvg-name="BANGLA - UK - TV ONE" tvg-logo="https://go4.pw/INDONESIA/" group-title="AS | BANGLA",BANGLA - UK - TV ONE
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2138939160.m3u8
+#EXTINF:-1 tvg-name="##### BANGLA - ASIA #####" tvg-logo="https://go4.pw/FLAGS/flag_bangladesh.png" group-title="AS | BANGLA",##### BANGLA - ASIA #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1947449142.m3u8
+#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="BANGLA - COLORS BANGLA HD" tvg-logo="https://go4.pw/ASIA/BANGLA/COLORS.png" group-title="AS | BANGLA",BANGLA - COLORS BANGLA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/726674070.m3u8
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BANGLA - JALSHA MOVIES" tvg-logo="https://go4.pw/ASIA/INDIAN/STARJALSHAMOVIES.png" group-title="AS | BANGLA",BANGLA - JALSHA MOVIES
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/495273348.m3u8
+#EXTINF:-1 tvg-id="aakashaath.in" tvg-name="BANGLA - AAKAASH BANGLA" tvg-logo="https://go4.pw/ASIA/BANGLA/AAKAASH-BANGLA.png" group-title="AS | BANGLA",BANGLA - AAKAASH BANGLA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/842278934.m3u8
+#EXTINF:-1 tvg-name="BANGLA - ATN BANGLA" tvg-logo="https://go4.pw/ASIA/BANGLA/ATNBANGLA.png" group-title="AS | BANGLA",BANGLA - ATN BANGLA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/805933515.m3u8
+#EXTINF:-1 tvg-name="BANGLA - IBTV USA" tvg-logo="https://go4.pw/ASIA/BANGLA/ibtv.usa.png" group-title="AS | BANGLA",BANGLA - IBTV USA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1514097813.m3u8
+#EXTINF:-1 tvg-name="BANGLA - ATN NEWS" tvg-logo="https://go4.pw/ASIA/BANGLA/ATNNEWS.png" group-title="AS | BANGLA",BANGLA - ATN NEWS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1659648025.m3u8
+#EXTINF:-1 tvg-id="btvi.in" tvg-name="BANGLA - BTV" tvg-logo="https://go4.pw/ASIA/BANGLA/Bangladesh.png" group-title="AS | BANGLA",BANGLA - BTV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1075059396.m3u8
+#EXTINF:-1 tvg-name="BANGLA - CHANNEL S" tvg-logo="https://go4.pw/ASIA/BANGLA/CHANNEL-S.png" group-title="AS | BANGLA",BANGLA - CHANNEL S
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1862790596.m3u8
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="BANGLA - COLORS" tvg-logo="https://go4.pw/ASIA/BANGLA/COLORS.png" group-title="AS | BANGLA",BANGLA - COLORS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1263573603.m3u8
+#EXTINF:-1 tvg-name="BANGLA - DHOOM MUSIC" tvg-logo="https://go4.pw/ASIA/BANGLA/DHOOM.png" group-title="AS | BANGLA",BANGLA - DHOOM MUSIC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/23382070.m3u8
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="BANGLA - ETV BANGLA" tvg-logo="https://go4.pw/ASIA/INDIAN/ETVHD.png" group-title="AS | BANGLA",BANGLA - ETV BANGLA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/403132271.m3u8
+#EXTINF:-1 tvg-name="BANGLA - iTV" tvg-logo="https://go4.pw/ASIA/BANGLA/ITV.png" group-title="AS | BANGLA",BANGLA - iTV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/573995109.m3u8
+#EXTINF:-1 tvg-id="NTV-IN" tvg-name="BANGLA - NTV" tvg-logo="https://go4.pw/ASIA/BANGLA/NTV.png" group-title="AS | BANGLA",BANGLA - NTV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1003102404.m3u8
+#EXTINF:-1 tvg-id="sonyaath.in" tvg-name="BANGLA - SONY AATH" tvg-logo="https://go4.pw/ASIA/INDIAN/SonyAath.png" group-title="AS | BANGLA",BANGLA - SONY AATH
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/872906747.m3u8
+#EXTINF:-1 tvg-id="Star Jalsha HD-IN" tvg-name="BANGLA - STAR JHALSA MOVIES" tvg-logo="https://go4.pw/ASIA/INDIAN/STARJALSHAMOVIES.png" group-title="AS | BANGLA",BANGLA - STAR JHALSA MOVIES
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2048006072.m3u8
+#EXTINF:-1 tvg-name="BANGLA - TIME TELEVISION" tvg-logo="https://go4.pw/ASIA/BANGLA/timetV.png" group-title="AS | BANGLA",BANGLA - TIME TELEVISION
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1229385792.m3u8
+#EXTINF:-1 tvg-name="BANGLA - ATN BANGLA USA" tvg-logo="https://go4.pw/ASIA/BANGLA/ATNBANGLA.png" group-title="AS | BANGLA",BANGLA - ATN BANGLA USA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1274083314.m3u8
+#EXTINF:-1 tvg-id="Zee Bangla-IN" tvg-name="BANGLA - ZEE BANGLA" tvg-logo="https://go4.pw/ASIA/BANGLA-COBRA/ZeeBangla.png" group-title="AS | BANGLA",BANGLA - ZEE BANGLA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/764227150.m3u8
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="BANGLA - ZEE BANGLA HD" tvg-logo="https://go4.pw/ASIA/BANGLA/ZEEBANGLA.png" group-title="AS | BANGLA",BANGLA - ZEE BANGLA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/677411908.m3u8
+#EXTINF:-1 tvg-id="Star Jalsha HD-IN" tvg-name="BANGLA - STAR JALSHA HD" tvg-logo="https://go4.pw/ASIA/BANGLA/Star_Jalsha.png" group-title="AS | BANGLA",BANGLA - STAR JALSHA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2007726764.m3u8
+#EXTINF:-1 tvg-name="BANGLA - ANANDA TV" tvg-logo="https://go4.pw/ASIA/BANGLA-COBRA/ANANDTV.png" group-title="AS | BANGLA",BANGLA - ANANDA TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1192349923.m3u8
+#EXTINF:-1 tvg-name="BANGLA - NEWS 24 HD" group-title="AS | BANGLA",BANGLA - NEWS 24 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1616424065.m3u8
+#EXTINF:-1 tvg-name="BANGLA - iTV UK" tvg-logo="https://go4.pw/ASIA/INDIA/iTV_UK.png" group-title="AS | BANGLA",BANGLA - iTV UK
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1301899766.m3u8
+#EXTINF:-1 tvg-name="BANGLA - ENTER 10 BANGLA" tvg-logo="https://go4.pw/ASIA/INDIA/ENTER_10_BANGLA.png" group-title="AS | BANGLA",BANGLA - ENTER 10 BANGLA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/776125982.m3u8
+#EXTINF:-1 tvg-name="BANGLA - DISCOVERY HD BENGALI" tvg-logo="https://go4.pw/ASIA/INDIA/DISCOVERY-WORLD-HD-1.png" group-title="AS | BANGLA",BANGLA - DISCOVERY HD BENGALI
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1222105070.m3u8
+#EXTINF:-1 tvg-name="BANGLA - T SPORTS" tvg-logo="https://go4.pw/ASIA/INDIA/T_Sports.png" group-title="AS | BANGLA",BANGLA - T SPORTS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/212287321.m3u8
+#EXTINF:-1 tvg-id="24ghante.in" tvg-name="BANGLA - 24 GHANTA TV" tvg-logo="https://go4.pw/ASIA/BANGLA/24GHANTATV.png" group-title="AS | BANGLA",BANGLA - 24 GHANTA TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1221497526.m3u8
+#EXTINF:-1 tvg-id="sangeetmarathi.in" tvg-name="BANGLA - SANGEET" tvg-logo="https://go4.pw/ASIA/BANGLA/SANGEET.png" group-title="AS | BANGLA",BANGLA - SANGEET
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/590031317.m3u8
+#EXTINF:-1 tvg-id="rupashibangla.in" tvg-name="BANGLA - RUPASHI" tvg-logo="https://go4.pw/ASIA/BANGLA/RUPASHI.png" group-title="AS | BANGLA",BANGLA - RUPASHI
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/12652505.m3u8
+#EXTINF:-1 tvg-id="Star Jalsha HD-IN" tvg-name="BANGLA - STAR JALSHA+" tvg-logo="https://go4.pw/ASIA/INDIAN/STARJALSHAMOVIES.png" group-title="AS | BANGLA",BANGLA - STAR JALSHA+
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1757658987.m3u8
+#EXTINF:-1 tvg-name="BANGLA - SUN BANGLA" tvg-logo="https://go4.pw/ASIA/INDIA/Sun_Bangla.png" group-title="AS | BANGLA",BANGLA - SUN BANGLA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1315386847.m3u8
+#EXTINF:-1 tvg-name="BANGLA -  BTV WORLD" tvg-logo="https://go4.pw/ASIA/BANGLA/BTV WORLD.png" group-title="AS | BANGLA",BANGLA -  BTV WORLD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1726001708.m3u8
+#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="BENGALI - COLORS BANGLA HD ◉" tvg-logo="https://go4.pw/ASIA/BENGALI/COLORS.png" group-title="AS | BENGALI",BENGALI - COLORS BANGLA HD ◉
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/926814999.m3u8
+#EXTINF:-1 tvg-id="nationalgeographicchannel.in" tvg-name="BENGALI - NAT GEO HD" tvg-logo="https://go4.pw/ASIA/BENGALI/NATGEOWILDHDD.png" group-title="AS | BENGALI",BENGALI - NAT GEO HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/138457581.m3u8
+#EXTINF:-1 tvg-name="BENGALI - SANGEET BANGLA" tvg-logo="https://go4.pw/ASIA/BENGALI/SangeetBangla.png" group-title="AS | BENGALI",BENGALI - SANGEET BANGLA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1611086929.m3u8
+#EXTINF:-1 tvg-id="starjalsha.in" tvg-name="BENGALI - STAR JALSHA HD ◉" tvg-logo="https://go4.pw/ASIA/BENGALI/STARJALSHA.png" group-title="AS | BENGALI",BENGALI - STAR JALSHA HD ◉
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2032710418.m3u8
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BENGALI - STAR JALSHA MOVIES HD" tvg-logo="https://go4.pw/ASIA/INDIAN/STARJALSHAMOVIES.png" group-title="AS | BENGALI",BENGALI - STAR JALSHA MOVIES HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/230419078.m3u8
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="BENGALI - ZEE BANGLA HD ◉" tvg-logo="https://go4.pw/ASIA/BENGALI/ZeeBangla.png" group-title="AS | BENGALI",BENGALI - ZEE BANGLA HD ◉
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1217713657.m3u8
+#EXTINF:-1 tvg-id="timesnowhd.in" tvg-name="ENGLISH - TIMES NOW NEWS HD" tvg-logo="https://go4.pw/ASIA/INDIAN/TIMESNOWNEWSHD.png" group-title="AS | ENGLISH",ENGLISH - TIMES NOW NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/192760996.m3u8
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="ENGLISH - AND PRIVE HD" tvg-logo="https://go4.pw/India/&prive.png" group-title="AS | ENGLISH",ENGLISH - AND PRIVE HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2077315593.m3u8
+#EXTINF:-1 tvg-id="animalplanet.in" tvg-name="ENGLISH - ANIMAL PLANET WORLD HD" tvg-logo="https://go4.pw/ASIA/INDIAN/AnimalPlanetWorldHD.png" group-title="AS | ENGLISH",ENGLISH - ANIMAL PLANET WORLD HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1130537616.m3u8
+#EXTINF:-1 tvg-name="ENGLISH - BLOOMBERG INDIA" tvg-logo="https://go4.pw/ASIA/INDIAN/BLOOMBERGINDIA.png" group-title="AS | ENGLISH",ENGLISH - BLOOMBERG INDIA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/247863682.m3u8
+#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="ENGLISH - CARTOON NETWORK" tvg-logo="https://go4.pw/ASIA/INDIAN/CARTOONNETWORK.png" group-title="AS | ENGLISH",ENGLISH - CARTOON NETWORK
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2115552910.m3u8
+#EXTINF:-1 tvg-id="cnbctv18primehd.in" tvg-name="ENGLISH - CNBC TV18 PRIME NEWS HD" tvg-logo="https://go4.pw/ASIA/INDIAN/cnbc-tv18.png" group-title="AS | ENGLISH",ENGLISH - CNBC TV18 PRIME NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/454550135.m3u8
+#EXTINF:-1 tvg-id="colorsinfinityhd.in" tvg-name="ENGLISH - COLORS INFINITY HD" tvg-logo="https://go4.pw/ASIA/INDIAN/Colors_Infinityhd.png" group-title="AS | ENGLISH",ENGLISH - COLORS INFINITY HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2098395523.m3u8
+#EXTINF:-1 tvg-id="comedycentralhd.in" tvg-name="ENGLISH - COMEDY CENTRAL HD" tvg-logo="https://go4.pw/ASIA/INDIAN/COMEDYCENTRALHD.png" group-title="AS | ENGLISH",ENGLISH - COMEDY CENTRAL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/865304933.m3u8
+#EXTINF:-1 tvg-name="ENGLISH - DISCOVERY WORLD HD" tvg-logo="https://go4.pw/ASIA/INDIAN/DISCOVERYWORLDHD.png" group-title="AS | ENGLISH",ENGLISH - DISCOVERY WORLD HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1270168369.m3u8
+#EXTINF:-1 tvg-name="ENGLISH - DISNEY INTERNATIONAL HD" tvg-logo="https://go4.pw/ASIA/INDIAN/DISNEYINTERNATIONALHD.png" group-title="AS | ENGLISH",ENGLISH - DISNEY INTERNATIONAL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1533831885.m3u8
+#EXTINF:-1 tvg-id="etnow.in" tvg-name="ENGLISH - ET NOW HD" tvg-logo="https://go4.pw/ASIA/INDIAN/ETNOWHD.png" group-title="AS | ENGLISH",ENGLISH - ET NOW HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1002494827.m3u8
+#EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="ENGLISH - FOX LIFE HD" tvg-logo="https://go4.pw/ASIA/INDIAN/FOXLIFE.png" group-title="AS | ENGLISH",ENGLISH - FOX LIFE HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1767117451.m3u8
+#EXTINF:-1 tvg-id="hbo.in" tvg-name="ENGLISH - HBO INDIA HD" tvg-logo="https://go4.pw/ASIA/INDIAN/HBOINDIAHD.png" group-title="AS | ENGLISH",ENGLISH - HBO INDIA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1433455057.m3u8
+#EXTINF:-1 tvg-id="historytv18.in" tvg-name="ENGLISH - HISTORY TV18 HD" tvg-logo="https://go4.pw/ASIA/INDIAN/HISTORYTV18HD.png" group-title="AS | ENGLISH",ENGLISH - HISTORY TV18 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1930060261.m3u8
+#EXTINF:-1 tvg-id="mnplushd.in" tvg-name="ENGLISH - MN PLUS HD" tvg-logo="https://go4.pw/ASIA/INDIAN/MNPLUSHD.png" group-title="AS | ENGLISH",ENGLISH - MN PLUS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1275878062.m3u8
+#EXTINF:-1 tvg-id="mnx.in" tvg-name="ENGLISH - MNX HD" tvg-logo="https://go4.pw/India/MNX .png" group-title="AS | ENGLISH",ENGLISH - MNX HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1794831089.m3u8
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="ENGLISH - MOVIES NOW HD" tvg-logo="https://go4.pw/ASIA/INDIAN/MOVIESNOWHD.png" group-title="AS | ENGLISH",ENGLISH - MOVIES NOW HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1192901379.m3u8
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="ENGLISH - NAT GEO WILD HD ◉" tvg-logo="https://go4.pw/ASIA/INDIAN/NATGEOWILDHDD.png" group-title="AS | ENGLISH",ENGLISH - NAT GEO WILD HD ◉
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/654866536.m3u8
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="ENGLISH - NATIONAL GEOGRAPHIC HD" tvg-logo="https://go4.pw/ASIA/INDIAN/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="AS | ENGLISH",ENGLISH - NATIONAL GEOGRAPHIC HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1952466400.m3u8
+#EXTINF:-1 tvg-id="sonybbcearth.in" tvg-name="ENGLISH - SONY BBC EARTH ENGLISH HD" tvg-logo="https://go4.pw/ASIA/INDIAN/SONYBBCEARTHENGLISHHD.png" group-title="AS | ENGLISH",ENGLISH - SONY BBC EARTH ENGLISH HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1541878564.m3u8
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="ENGLISH - STAR MOVIES SELECT HD" tvg-logo="https://go4.pw/ASIA/INDIAN/StarMoviesSelectHD.png" group-title="AS | ENGLISH",ENGLISH - STAR MOVIES SELECT HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1249439823.m3u8
+#EXTINF:-1 tvg-id="theqindia.in" tvg-name="ENGLISH - THE QYOU" tvg-logo="https://go4.pw/ASIA/INDIAN/THEQYOU.png" group-title="AS | ENGLISH",ENGLISH - THE QYOU
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1121499279.m3u8
+#EXTINF:-1 tvg-id="tlchdworld.in" tvg-name="ENGLISH - TLC WORLD HD" tvg-logo="https://go4.pw/ASIA/INDIAN/TLCWORLDHD.png" group-title="AS | ENGLISH",ENGLISH - TLC WORLD HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/510008007.m3u8
+#EXTINF:-1 tvg-id="travelxphd.in" tvg-name="ENGLISH - TRAVEL XP HD" tvg-logo="https://go4.pw/ASIA/INDIAN/TRAVELXPHD.png" group-title="AS | ENGLISH",ENGLISH - TRAVEL XP HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1028656781.m3u8
+#EXTINF:-1 tvg-id="vh1hd.in" tvg-name="ENGLISH - VH1 HD" tvg-logo="https://go4.pw/ASIA/INDIAN/VH1HD.png" group-title="AS | ENGLISH",ENGLISH - VH1 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1878406964.m3u8
+#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="ENGLISH - ZEE CAFE HD" tvg-logo="https://go4.pw/India/ZEE cafe.png" group-title="AS | ENGLISH",ENGLISH - ZEE CAFE HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2101595274.m3u8
+#EXTINF:-1 tvg-name="HINDI - TV ASIA FHD" tvg-logo="https://go4.pw/ASIA/TVASIA.png" group-title="AS | HINDI",HINDI - TV ASIA FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1630120291.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="##### HINDI - GENERAL #####" tvg-logo="https://go4.pw/FLAGS/flag_india.png" group-title="AS | HINDI",##### HINDI - GENERAL #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1049349929.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - INDIA TV" tvg-logo="https://go4.pw/India/_INDIA TV.png" group-title="AS | HINDI",HINDI - INDIA TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/980216943.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - INDIA TODAY" tvg-logo="https://go4.pw/ASIA/INDIA/INDIA_TODAY.png" group-title="AS | HINDI",HINDI - INDIA TODAY
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/775725098.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - INDIA NEWS RAJASTHAN" tvg-logo="https://go4.pw/India/INDIA_NEWS_RAJA.png" group-title="AS | HINDI",HINDI - INDIA NEWS RAJASTHAN
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/713983151.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NEWS 11 BHARAT" tvg-logo="https://go4.pw/ASIA/INDIA/NEWS_11_BHARAT.png" group-title="AS | HINDI",HINDI - NEWS 11 BHARAT
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/915535004.m3u8
+#EXTINF:-1 tvg-id="news18india.in" tvg-name="HINDI - NEWS 18 ASSAM" tvg-logo="https://go4.pw/ASIA/INDIAN/NEWS18ASSAM.png" group-title="AS | HINDI",HINDI - NEWS 18 ASSAM
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/537215573.m3u8
+#EXTINF:-1 tvg-id="news18india.in" tvg-name="HINDI - NEWS 18 INDIA" tvg-logo="https://go4.pw/ASIA/INDIA/News_18_India.png" group-title="AS | HINDI",HINDI - NEWS 18 INDIA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1491439603.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NEWS 18 UP TV HD" tvg-logo="https://go4.pw/ASIA/INDIA/NEWS_18_UP_TV_HD.png" group-title="AS | HINDI",HINDI - NEWS 18 UP TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1931807550.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - NEWS 18 GUJARATI SD" tvg-logo="https://go4.pw/India/NEWS 18 GUJARATI.png" group-title="AS | HINDI",IN - NEWS 18 GUJARATI SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/710265310.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NEWS INDIA 24x7 HD" tvg-logo="https://go4.pw/ASIA/INDIA/NEWS_INDIA 4x7HD.png" group-title="AS | HINDI",HINDI - NEWS INDIA 24x7 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/490116379.m3u8
+#EXTINF:-1 tvg-id="newsnation.in" tvg-name="HINDI - NEWS NATION" tvg-logo="https://go4.pw/ASIA/INDIA/news-nation.png" group-title="AS | HINDI",HINDI - NEWS NATION
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2005078533.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NEWS LIVE HD" tvg-logo="https://go4.pw/India/NEWS_LIVE.png" group-title="AS | HINDI",HINDI - NEWS LIVE HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/222549853.m3u8
+#EXTINF:-1 tvg-id="abpnews.in" tvg-name="HINDI - ABP NEWS INDIA" tvg-logo="https://go4.pw/India/ABP_NEWS .png" group-title="AS | HINDI",HINDI - ABP NEWS INDIA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1659163369.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ABP MAJHA MARATHI HD" tvg-logo="https://go4.pw/India/ABP_NEWS .png" group-title="AS | HINDI",IN - ABP MAJHA MARATHI HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1244870474.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - GEO NEWS" tvg-logo="https://go4.pw/India/GEO_NEWS.png" group-title="AS | HINDI",HINDI - GEO NEWS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1611015379.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DW NEWS HD" tvg-logo="https://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="AS | HINDI",HINDI - DW NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1942442750.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - E NEWS 24" tvg-logo="https://go4.pw/India/E_NEWS_24.png" group-title="AS | HINDI",HINDI - E NEWS 24
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1470932091.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - KASHISH NEWS" tvg-logo="https://go4.pw/India/KASHISH NEWS.png" group-title="AS | HINDI",HINDI - KASHISH NEWS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/655161847.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ATN Punjabi 5 HD" tvg-logo="https://go4.pw/India/ATN.png" group-title="AS | HINDI",HINDI - ATN Punjabi 5 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1165552523.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - JAMUNA TV HD" tvg-logo="https://go4.pw/ASIA/INDIA/JAMUNA.png" group-title="AS | HINDI",IN - JAMUNA TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1548896876.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - LOKSHAHI SD" tvg-logo="https://go4.pw/India/_LOKSHAHI.png" group-title="AS | HINDI",IN - LOKSHAHI SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/88226986.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - TV PUNJAB HD" tvg-logo="https://go4.pw/India/TV_PUNJAB.png" group-title="AS | HINDI",HINDI - TV PUNJAB HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1893186676.m3u8
+#EXTINF:-1 tvg-id="republictv.in" tvg-name="HINDI - Republic TV" tvg-logo="https://go4.pw/ASIA/INDIA/Republic_TV.png" group-title="AS | HINDI",HINDI - Republic TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1542328359.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - REPUBLIC BHARAT" tvg-logo="https://go4.pw/India/REPUBLIC BHARAT.png" group-title="AS | HINDI",HINDI - REPUBLIC BHARAT
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/840867584.m3u8
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="HINDI - SONY HD ◉" tvg-logo="https://go4.pw/India/Sony.png" group-title="AS | HINDI",HINDI - SONY HD ◉
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1365695265.m3u8
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="HINDI - SONY MAX HD" tvg-logo="https://go4.pw/India/Sonymx.png" group-title="AS | HINDI",HINDI - SONY MAX HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/237437877.m3u8
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="HINDI - SONY PIX HD" tvg-logo="https://go4.pw/India/Sonypix.png" group-title="AS | HINDI",HINDI - SONY PIX HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1192538228.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SONY BBC EARTH HD" tvg-logo="https://go4.pw/India/SONY_BBC_EARTH .png" group-title="AS | HINDI",HINDI - SONY BBC EARTH HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/253795701.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SONY TEN 4 HD" tvg-logo="https://go4.pw/India/sonysports4.png" group-title="AS | HINDI",HINDI - SONY TEN 4 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1108363871.m3u8
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="HINDI - SONY SAB HD ◉" tvg-logo="https://go4.pw/India/SONYSAB.png" group-title="AS | HINDI",HINDI - SONY SAB HD ◉
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/829079255.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SONY PAL" tvg-logo="https://go4.pw/India/SONY_PAL.png" group-title="AS | HINDI",HINDI - SONY PAL
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/572353623.m3u8
+#EXTINF:-1 tvg-id="sonywah.in" tvg-name="HINDI - SONY WAH" tvg-logo="https://go4.pw/India/SONY_wah.png" group-title="AS | HINDI",HINDI - SONY WAH
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/397959561.m3u8
+#EXTINF:-1 tvg-id="sonyyay.in" tvg-name="HINDI - SONY YAY" tvg-logo="https://go4.pw/India/SONY_yay.png" group-title="AS | HINDI",HINDI - SONY YAY
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/262237481.m3u8
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="HINDI - STAR GOLD HD" tvg-logo="https://go4.pw/India/star_golD.png" group-title="AS | HINDI",HINDI - STAR GOLD HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/921786079.m3u8
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="HINDI - STAR GOLD SELECT HD" tvg-logo="https://go4.pw/India/star_golDslct.png" group-title="AS | HINDI",HINDI - STAR GOLD SELECT HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/377650467.m3u8
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="HINDI - STAR PLUS HD ◉" tvg-logo="https://go4.pw/ASIA/INDIAN/STARPLUSHD.png" group-title="AS | HINDI",HINDI - STAR PLUS HD ◉
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1883370888.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - STAR UTSAV" tvg-logo="https://go4.pw/India/star_UTSAV.png" group-title="AS | HINDI",HINDI - STAR UTSAV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/778211502.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - STAR UTSAV MOVIES" tvg-logo="https://go4.pw/India/star_UTSAVMOV.png" group-title="AS | HINDI",HINDI - STAR UTSAV MOVIES
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1301893049.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - AND PICTURES HD" tvg-logo="https://go4.pw/ASIA/INDIA/and-picture.png" group-title="AS | HINDI",HINDI - AND PICTURES HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1874174005.m3u8
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="HINDI - AND TV HD ◉" tvg-logo="https://go4.pw/ASIA/INDIAN/ANDTVHD.png" group-title="AS | HINDI",HINDI - AND TV HD ◉
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/109131822.m3u8
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="HINDI - AND TV HD² ◉" tvg-logo="https://go4.pw/ASIA/INDIAN/ANDTVHD.png" group-title="AS | HINDI",HINDI - AND TV HD² ◉
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1647346766.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD NATIONAL" tvg-logo="https://go4.pw/India/DD_NATIONAL.png" group-title="AS | HINDI",HINDI - DD NATIONAL
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1120116627.m3u8
+#EXTINF:-1 tvg-id="ddrajasthan.in" tvg-name="HINDI - DD RAJASTHAN" tvg-logo="https://go4.pw/India/DD_RAJASTHAN.png" group-title="AS | HINDI",HINDI - DD RAJASTHAN
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/901745724.m3u8
+#EXTINF:-1 tvg-id="ddbihar.in" tvg-name="HINDI - DD BHARATI" tvg-logo="https://go4.pw/India/DD_BHARATI.png" group-title="AS | HINDI",HINDI - DD BHARATI
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1526556313.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD UTTAR PRADESH HD" tvg-logo="https://go4.pw/India/DD_UTTAR_PRADESH.png" group-title="AS | HINDI",HINDI - DD UTTAR PRADESH HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/106650416.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD BIHAR" tvg-logo="https://go4.pw/India/DD_BIHAR.png" group-title="AS | HINDI",HINDI - DD BIHAR
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2129005637.m3u8
+#EXTINF:-1 tvg-id="ddindia.in" tvg-name="HINDI - DD INDIA" tvg-logo="https://go4.pw/India/DD_INDIA.png" group-title="AS | HINDI",HINDI - DD INDIA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/102378337.m3u8
+#EXTINF:-1 tvg-id="ddnews.in" tvg-name="HINDI - DD NEWS" tvg-logo="https://go4.pw/India/DD_NEWS.png" group-title="AS | HINDI",HINDI - DD NEWS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1781825329.m3u8
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="HINDI - DD SPORTS" tvg-logo="https://go4.pw/ASIA/INDIA/dd-sports.png" group-title="AS | HINDI",HINDI - DD SPORTS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2141829921.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD UP" tvg-logo="https://go4.pw/ASIA/INDIA/dd-up-.png" group-title="AS | HINDI",HINDI - DD UP
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1211204243.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - MH ONE HD" tvg-logo="https://go4.pw/ASIA/INDIA/MH_ONE_HD.png" group-title="AS | HINDI",HINDI - MH ONE HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1030986087.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - HUM TV HD" tvg-logo="https://go4.pw/ASIA/INDIA/HUM_TV_EUROP_HD.png" group-title="AS | HINDI",HINDI - HUM TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/721430914.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - HUM TV EUROPE HD" tvg-logo="https://go4.pw/ASIA/INDIA/HUM_TV_EUROP_HD.png" group-title="AS | HINDI",HINDI - HUM TV EUROPE HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1431753284.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ETV TELENGANA HD" tvg-logo="https://go4.pw/ASIA/INDIA/ETV_ABHIRUCHI.png" group-title="AS | HINDI",HINDI - ETV TELENGANA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/215196667.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ETV ANDHRA PRADESH HD" tvg-logo="https://go4.pw/ASIA/INDIA/ETV_ABHIRUCHI.png" group-title="AS | HINDI",HINDI - ETV ANDHRA PRADESH HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1004155913.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ETV ABHIRUCHI" tvg-logo="https://go4.pw/ASIA/INDIA/ETV_ABHIRUCHI.png" group-title="AS | HINDI",HINDI - ETV ABHIRUCHI
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/474856058.m3u8
+#EXTINF:-1 tvg-id="vedic.in" tvg-name="HINDI - VEDIC TV" tvg-logo="https://go4.pw/ASIA/INDIA/Vedic-1.png" group-title="AS | HINDI",HINDI - VEDIC TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1214259424.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SHEMAROO TV" tvg-logo="https://go4.pw/ASIA/INDIA/SHEMAROO_TV.png" group-title="AS | HINDI",HINDI - SHEMAROO TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1491460770.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SAMAY RAJASTHAN" tvg-logo="https://go4.pw/ASIA/INDIA/SAMAY_RAJASTHAN.png" group-title="AS | HINDI",HINDI - SAMAY RAJASTHAN
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1043467582.m3u8
+#EXTINF:-1 tvg-id="peaceofmind.in" tvg-name="HINDI - PEACE OF MIND HD" tvg-logo="https://go4.pw/ASIA/INDIA/PEACE-OFMINd.png" group-title="AS | HINDI",HINDI - PEACE OF MIND HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1144594148.m3u8
+#EXTINF:-1 tvg-id="tarangtv.in" tvg-name="HINDI - TARANG TV" tvg-logo="https://go4.pw/ASIA/INDIA/tarang.png" group-title="AS | HINDI",HINDI - TARANG TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2053213799.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CNBC PRIME TV18 FHD" tvg-logo="https://go4.pw/EUROPE/PORTUGALVIP/CNBC.png" group-title="AS | HINDI",HINDI - CNBC PRIME TV18 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/190853731.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DY 365 HD" tvg-logo="https://go4.pw/India/DY 365 .png" group-title="AS | HINDI",HINDI - DY 365 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/407225545.m3u8
+#EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="HINDI - FOX LIFE HD" tvg-logo="https://go4.pw/ASIA/INDIA/Fox_Life.png" group-title="AS | HINDI",HINDI - FOX LIFE HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/433577917.m3u8
+#EXTINF:-1 tvg-id="zeetv.in" tvg-name="HINDI - ZEE TV HD ◉" tvg-logo="https://go4.pw/ASIA/INDIA/Zee_TV.png" group-title="AS | HINDI",HINDI - ZEE TV HD ◉
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/686865027.m3u8
+#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="HINDI - ZEE CINEMA HD" tvg-logo="https://go4.pw/ASIA/INDIAN/ZEECINEMAHD.png" group-title="AS | HINDI",HINDI - ZEE CINEMA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/518785805.m3u8
+#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="HINDI - ZEE CLASSIC" tvg-logo="https://go4.pw/ASIA/INDIA/Zeeclassic.png" group-title="AS | HINDI",HINDI - ZEE CLASSIC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/996668593.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ZEE ANMOL" tvg-logo="https://go4.pw/ASIA/INDIA/Zee_Anmol.png" group-title="AS | HINDI",HINDI - ZEE ANMOL
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/993299019.m3u8
+#EXTINF:-1 tvg-id="zeenews.in" tvg-name="HINDI - ZEE HINDUSTAN NEWS" tvg-logo="https://go4.pw/ASIA/INDIA/Zee_Hindustan.png" group-title="AS | HINDI",HINDI - ZEE HINDUSTAN NEWS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/979522703.m3u8
+#EXTINF:-1 tvg-id="zeenews.in" tvg-name="HINDI - ZEE NEWS" tvg-logo="https://go4.pw/ASIA/INDIAN/ZEENEWSBIHAR.png" group-title="AS | HINDI",HINDI - ZEE NEWS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1646872596.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ZEE NEWS BIHAR" tvg-logo="https://go4.pw/ASIA/INDIA/Zee_Bihar-1.png" group-title="AS | HINDI",HINDI - ZEE NEWS BIHAR
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1567225416.m3u8
+#EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="HINDI - ZEE RAJASTHAN" tvg-logo="https://go4.pw/ASIA/INDIA/Zee_Rajasthan.png" group-title="AS | HINDI",HINDI - ZEE RAJASTHAN
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2020097828.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ZEE CAFE FHD" tvg-logo="https://go4.pw/India/ZEE cafe.png" group-title="AS | HINDI",HINDI - ZEE CAFE FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2084329940.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ZEE BUSINESS" tvg-logo="https://go4.pw/ASIA/INDIA/zee-business.png" group-title="AS | HINDI",HINDI - ZEE BUSINESS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1914138114.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - B4U KADAK HD" tvg-logo="https://go4.pw/ASIA/INDIA/B4U_KADAK_HD.png" group-title="AS | HINDI",HINDI - B4U KADAK HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1450510803.m3u8
+#EXTINF:-1 tvg-id="enterr10.in" tvg-name="HINDI - ENTER 10 MOVIES" tvg-logo="https://go4.pw/ASIA/INDIAN/ENTER10MOVIES.png" group-title="AS | HINDI",HINDI - ENTER 10 MOVIES
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/531107651.m3u8
+#EXTINF:-1 tvg-id="b4umovies.in" tvg-name="HINDI - B4U MOVIES" tvg-logo="https://go4.pw/ASIA/INDIA/B4YOUMOVIES.png" group-title="AS | HINDI",HINDI - B4U MOVIES
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/8118235.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - MAHA MOVIES" tvg-logo="https://go4.pw/ASIA/INDIA/sky-star-movie.png" group-title="AS | HINDI",HINDI - MAHA MOVIES
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/855212389.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - COLORS ODIYA" tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | HINDI",HINDI - COLORS ODIYA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2016481280.m3u8
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="HINDI - COLORS HD ◉" tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | HINDI",HINDI - COLORS HD ◉
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1584924622.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - MY TV HD" tvg-logo="https://go4.pw/ASIA/INDIA/MY_TV.png" group-title="AS | HINDI",IN - MY TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/278324350.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ENTERR10 MOVIES" tvg-logo="https://go4.pw/ASIA/INDIA/ENTERR10_MOVIES.png" group-title="AS | HINDI",HINDI - ENTERR10 MOVIES
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1757126180.m3u8
+#EXTINF:-1 tvg-id="discovery.in" tvg-name="HINDI - DISCOVERY WORLD" tvg-logo="https://go4.pw/ASIA/INDIAN/DISCOVERYJEETHD.png" group-title="AS | HINDI",HINDI - DISCOVERY WORLD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1132009175.m3u8
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN - ANIMAL PLANET HD" tvg-logo="https://go4.pw/AUSTRALIA/Animal_Planet.png" group-title="AS | HINDI",IN - ANIMAL PLANET HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1819920841.m3u8
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="HINDI - NAT GEO WILD HD" tvg-logo="https://go4.pw/ASIA/INDIA/Nat_Geo_Wild.png" group-title="AS | HINDI",HINDI - NAT GEO WILD HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1339563633.m3u8
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="HINDI - NATIONAL GEOGRAPHIC HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="AS | HINDI",HINDI - NATIONAL GEOGRAPHIC HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/194438989.m3u8
+#EXTINF:-1 tvg-id="zing.in" tvg-name="HINDI - ZING" tvg-logo="https://go4.pw/India/zing.png" group-title="AS | HINDI",HINDI - ZING
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/577013310.m3u8
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="HINDI - 9X JALWA" tvg-logo="https://go4.pw/ASIA/INDIA/9X-JALWA.png" group-title="AS | HINDI",HINDI - 9X JALWA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2002791651.m3u8
+#EXTINF:-1 tvg-id="aajtakhd.in" tvg-name="HINDI - AAJ TAK HD" tvg-logo="https://go4.pw/ASIA/INDIAN/AAJTAK.png" group-title="AS | HINDI",HINDI - AAJ TAK HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2030039446.m3u8
+#EXTINF:-1 tvg-id="arihant.in" tvg-name="HINDI - ARIHANT" tvg-logo="https://go4.pw/ASIA/INDIAN/ARIHANT.png" group-title="AS | HINDI",HINDI - ARIHANT
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2082616704.m3u8
+#EXTINF:-1 tvg-id="bigmagic.in" tvg-name="HINDI - BIG MAGIC HD" tvg-logo="https://go4.pw/India/_BIG MAGIC .png" group-title="AS | HINDI",HINDI - BIG MAGIC HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1839918955.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - COMEDY ACTIVE" tvg-logo="https://go4.pw/ASIA/INDIA/comedy-active.png" group-title="AS | HINDI",HINDI - COMEDY ACTIVE
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1667328818.m3u8
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="HINDI - HISTORY TV18 HD" tvg-logo="https://go4.pw/India/Historytv18.png" group-title="AS | HINDI",HINDI - HISTORY TV18 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1927538451.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - GTV HD" tvg-logo="https://go4.pw/ASIA/INDIA/GTV.png" group-title="AS | HINDI",IN - GTV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1200719169.m3u8
+#EXTINF:-1 tvg-id="e24.in" tvg-name="HINDI - E 24" tvg-logo="https://go4.pw/ASIA/INDIAN/E24.png" group-title="AS | HINDI",HINDI - E 24
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1596751470.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - COOKING ACTIVE" tvg-logo="https://go4.pw/ASIA/INDIA/COOKING_ACTIVE.png" group-title="AS | HINDI",HINDI - COOKING ACTIVE
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/640199058.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - INVESTIGATION DISCOVERY HD" tvg-logo="https://go4.pw/EUROPE/UK/INVESTIGATIONDISCOVERY-1.png" group-title="AS | HINDI",HINDI - INVESTIGATION DISCOVERY HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/464283087.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - AWAKENING DEVOTIONAL HD" tvg-logo="https://go4.pw/ASIA/INDIA/AWAKENING_DEVOTIONAL_HD.png" group-title="AS | HINDI",HINDI - AWAKENING DEVOTIONAL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2011851978.m3u8
+#EXTINF:-1 tvg-id="epic.in" tvg-name="HINDI - EPIC HD" tvg-logo="https://go4.pw/India/EPIC.png" group-title="AS | HINDI",HINDI - EPIC HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1773726654.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SANSKAR TV" tvg-logo="https://go4.pw/ASIA/INDIA/Sanskarv2.png" group-title="AS | HINDI",HINDI - SANSKAR TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/549708732.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CHANNEL WIN" tvg-logo="https://go4.pw/ASIA/INDIA/Channel_Win.png" group-title="AS | HINDI",HINDI - CHANNEL WIN
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/977046181.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - STAR GOLD 2" tvg-logo="https://go4.pw/India/STARGOLD2.png" group-title="AS | HINDI",HINDI - STAR GOLD 2
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/826067411.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - AND EXPLORER HD" tvg-logo="https://go4.pw/India/&explorer.png" group-title="AS | HINDI",HINDI - AND EXPLORER HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1934339829.m3u8
+#EXTINF:-1 tvg-id="musicindia.in" tvg-name="HINDI - MUSIC INDIA" tvg-logo="https://go4.pw/India/MUSICINDIA.png" group-title="AS | HINDI",HINDI - MUSIC INDIA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1716102991.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - MINIPLEX HD" tvg-logo="https://go4.pw/ASIA/INDIA/miniplex-1.png" group-title="AS | HINDI",HINDI - MINIPLEX HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2110801841.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - MTV FHD" tvg-logo="https://go4.pw/PHILIPINES/MTV_Asia.png" group-title="AS | HINDI",HINDI - MTV FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/119673282.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - MTV HD" tvg-logo="https://go4.pw/PHILIPINES/MTV_Asia.png" group-title="AS | HINDI",HINDI - MTV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/277757838.m3u8
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="HINDI - ZOOM TV HD" tvg-logo="https://go4.pw/ASIA/INDIAN/ZOOMTVHD.png" group-title="AS | HINDI",HINDI - ZOOM TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/220459117.m3u8
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="HINDI - UTSAV BHARAT HD" tvg-logo="https://go4.pw/ASIA/INDIA/Utsav-Gold.png" group-title="AS | HINDI",HINDI - UTSAV BHARAT HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1314765867.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SHOWBOX MUSIC" tvg-logo="https://go4.pw/ASIA/INDIA/SHOWBOX_MUSIC.png" group-title="AS | HINDI",HINDI - SHOWBOX MUSIC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1240115044.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - 9X MUSIC" tvg-logo="https://go4.pw/ASIA/INDIA/9X_MUSIC.png" group-title="AS | HINDI",HINDI - 9X MUSIC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1564807742.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DISNEY JUNIOR" tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEYJUNIORHD.png" group-title="AS | HINDI",HINDI - DISNEY JUNIOR
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/428548553.m3u8
+#EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="HINDI - NICK PLUS HD" tvg-logo="https://go4.pw/ASIA/INDIAN/NICKPLUSHD.png" group-title="AS | HINDI",HINDI - NICK PLUS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/565927012.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NICK+ FHD" tvg-logo="https://go4.pw/ASIA/INDIA/NICK_JUNIOR.png" group-title="AS | HINDI",HINDI - NICK+ FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/621080745.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NICK+ FHD ENGLISH FHD" tvg-logo="https://go4.pw/ASIA/INDIA/NICK_JUNIOR.png" group-title="AS | HINDI",HINDI - NICK+ FHD ENGLISH FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/339310306.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NICK SONIC HD" tvg-logo="https://go4.pw/ASIA/INDIA/NICK_SONI_ HD.png" group-title="AS | HINDI",HINDI - NICK SONIC HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/482618367.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NICK HD TELUGU" tvg-logo="https://go4.pw/ASIA/INDIA/NICK_ JUNIOR.png" group-title="AS | HINDI",HINDI - NICK HD TELUGU
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/311760235.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NICK JUNIOR FHD TELUGU" tvg-logo="https://go4.pw/ASIA/INDIA/NICK_ JUNIOR.png" group-title="AS | HINDI",HINDI - NICK JUNIOR FHD TELUGU
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1947748526.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NICK JUNIOR FHD" tvg-logo="https://go4.pw/ASIA/INDIA/NICK_JUNIOR.png" group-title="AS | HINDI",HINDI - NICK JUNIOR FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/125574040.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NICK JUNIOR FHD GUJARATI" tvg-logo="https://go4.pw/ASIA/INDIA/NICK_JUNIOR.png" group-title="AS | HINDI",HINDI - NICK JUNIOR FHD GUJARATI
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1464090199.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ROMEDY NOW HD" tvg-logo="https://go4.pw/ASIA/INDIA/ROMEDY_NOW_HD.png" group-title="AS | HINDI",HINDI - ROMEDY NOW HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/908100887.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - POGO KIDS" tvg-logo="https://go4.pw/ASIA/INDIA/pogo.png" group-title="AS | HINDI",HINDI - POGO KIDS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/816670272.m3u8
+#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="HINDI - CARTOON NETWORK" tvg-logo="https://go4.pw/ASIA/INDIAN/CARTOONNETWORK.png" group-title="AS | HINDI",HINDI - CARTOON NETWORK
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/475981748.m3u8
+#EXTINF:-1 tvg-id="babytvhd.in" tvg-name="HINDI - BABY TV HDI" tvg-logo="https://go4.pw/ASIA/INDIAN/BABYTVHDi.png" group-title="AS | HINDI",HINDI - BABY TV HDI
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/211655527.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SONIC HD" tvg-logo="https://go4.pw/India/SONIC_HD.png" group-title="AS | HINDI",HINDI - SONIC HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/365497129.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DISCOVERY KIDS HD GUJARATI" tvg-logo="https://go4.pw/ASIA/INDIA/DISCOVERY_KIDS.png" group-title="AS | HINDI",HINDI - DISCOVERY KIDS HD GUJARATI
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2059309543.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - B4U BHOJPURI SD" tvg-logo="https://go4.pw/ASIA/INDIA/B4U.png" group-title="AS | HINDI",IN - B4U BHOJPURI SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/111428083.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - HUNGAMA KIDS" tvg-logo="https://go4.pw/ASIA/INDIA/HUNGAMA_KIDS.png" group-title="AS | HINDI",HINDI - HUNGAMA KIDS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/381339636.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - TATA SKY THEATRE FHD" tvg-logo="https://go4.pw/India/TATA.png" group-title="AS | HINDI",HINDI - TATA SKY THEATRE FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1466935181.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ANIMAL PLANET FHD MALAYALAM" tvg-logo="https://go4.pw/EUROPE/GERMANY/AnimalPlanet.png" group-title="AS | HINDI",IN - ANIMAL PLANET FHD MALAYALAM
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/214366405.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ZEE BOLLYWOOD CANADA HD" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE_BOLLYWOOD_CANADA.png" group-title="AS | HINDI",IN - ZEE BOLLYWOOD CANADA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/32480101.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ATN TV HD" tvg-logo="https://go4.pw/ASIA/INDIA/ATN_TV.png" group-title="AS | HINDI",IN - ATN TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1801915361.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - Aapka Colors HD" tvg-logo="https://go4.pw/ASIA/INDIA/Aapka-Colors.png" group-title="AS | HINDI",IN - Aapka Colors HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/881143112.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - 7S MUSIC SD" tvg-logo="https://go4.pw/ASIA/INDIA/7S_MUSIC.png" group-title="AS | HINDI",IN - 7S MUSIC SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1790217051.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - EK ONKAR HD" tvg-logo="https://go4.pw/ASIA/INDIA/VISION-PUNJAB-GURBANI.png" group-title="AS | HINDI",IN - EK ONKAR HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2056986006.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - NEPAL 1 HD" tvg-logo="https://go4.pw/ASIA/INDIA/NEPAL-1.png" group-title="AS | HINDI",IN - NEPAL 1 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1364587128.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ZEE SALAAM HD" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE_SALAAM.png" group-title="AS | HINDI",IN - ZEE SALAAM HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1452891415.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - BOOGLE BOLLYWOOD SD" tvg-logo="https://go4.pw/ASIA/INDIA/BOOGLE_BOLLYWOOD.png" group-title="AS | HINDI",IN - BOOGLE BOLLYWOOD SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2051212735.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - SADHNA PLUS SD" tvg-logo="https://go4.pw/ASIA/INDIA/SADHNA-PLUS.png" group-title="AS | HINDI",IN - SADHNA PLUS SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1972402329.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - NEWS 18 CHHATTISGARH SD" tvg-logo="https://go4.pw/ASIA/INDIA/News_18_India.png" group-title="AS | HINDI",IN - NEWS 18 CHHATTISGARH SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1333641610.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ZEE5 MUSIC CO HD" tvg-logo="https://go4.pw/India/ZEE5.png" group-title="AS | HINDI",IN - ZEE5 MUSIC CO HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/479083784.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - JANTANTRA NEWS HD" tvg-logo="https://go4.pw/ASIA/INDIA/JANTANTRA-NEWS.png" group-title="AS | HINDI",IN - JANTANTRA NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2142696985.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ABZY MOVIES SD" tvg-logo="https://go4.pw/India/ABZY.png" group-title="AS | HINDI",IN - ABZY MOVIES SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1121323325.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - MIRROR NOW" tvg-logo="https://go4.pw/ASIA/INDIA/MIRROR_NOW.png" group-title="AS | HINDI",HINDI - MIRROR NOW
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1921454458.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - PRARTHANA BHAWAN" tvg-logo="https://go4.pw/ASIA/INDIA/PRARTHANA_BHAWAN.png" group-title="AS | HINDI",HINDI - PRARTHANA BHAWAN
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1244809543.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ALANKAR TV" tvg-logo="https://go4.pw/ASIA/INDIA/ALANKAR.png" group-title="AS | HINDI",HINDI - ALANKAR TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/434214696.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - TARANG MUSIC" tvg-logo="https://go4.pw/ASIA/INDIA/TARANG_MUSIC.png" group-title="AS | HINDI",HINDI - TARANG MUSIC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2139448618.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NDTV PROFIT" tvg-logo="https://go4.pw/ASIA/INDIA/NDTV_PROFIT.png" group-title="AS | HINDI",HINDI - NDTV PROFIT
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1067789654.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DILLI AAJ TAKK" tvg-logo="https://go4.pw/ASIA/INDIA/DILLI_AAJ_TAKK.png" group-title="AS | HINDI",HINDI - DILLI AAJ TAKK
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/644125223.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DISNEY INTERNATIONAL HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEYJUNIORHD.png" group-title="AS | HINDI",HINDI - DISNEY INTERNATIONAL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/365505299.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD URDU" tvg-logo="https://go4.pw/ASIA/INDIA/DD-URDU.png" group-title="AS | HINDI",HINDI - DD URDU
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1720018694.m3u8
+#EXTINF:-1 tvg-name="MAL - SHALOM TV" tvg-logo="https://go4.pw/ASIA/SHALOM.png" group-title="AS | HINDI",MAL - SHALOM TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1734691904.m3u8
+#EXTINF:-1 tvg-name="IN - BANGLA TV HD" tvg-logo="https://go4.pw/India/BANGLA_TV.png" group-title="AS | HINDI",IN - BANGLA TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1925876712.m3u8
+#EXTINF:-1 tvg-name="HINDI - SUNTV SD" tvg-logo="https://go4.pw/ASIA/TAMIL/SUNTV.png" group-title="AS | HINDI",HINDI - SUNTV SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1983088431.m3u8
+#EXTINF:-1 tvg-name="IN - AAKAASH AATH" tvg-logo="https://go4.pw/ASIA/BANGLA/AAKAASH-BANGLA.png" group-title="AS | HINDI",IN - AAKAASH AATH
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1808083519.m3u8
+#EXTINF:-1 tvg-name="IN - CNN NEWS 18" tvg-logo="https://go4.pw/ASIA/INDIA/CNN-NEWS-18.png" group-title="AS | HINDI",IN - CNN NEWS 18
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/437696179.m3u8
+#EXTINF:-1 tvg-name="IN - DAIJI WORLD" tvg-logo="https://go4.pw/India/DAIJI.png" group-title="AS | HINDI",IN - DAIJI WORLD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/648319932.m3u8
+#EXTINF:-1 tvg-name="IN - HARYANA BEATS" tvg-logo="https://go4.pw/ASIA/INDIA/HARYANVI-HITS.png" group-title="AS | HINDI",IN - HARYANA BEATS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2042799792.m3u8
+#EXTINF:-1 tvg-name="HINDI - IN GOA 24X7" tvg-logo="https://go4.pw/ASIA/INDIA/in-goa.png" group-title="AS | HINDI",HINDI - IN GOA 24X7
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/372554065.m3u8
+#EXTINF:-1 tvg-name="IN - NAMMA TV" tvg-logo="https://go4.pw/ASIA/INDIA/NAMMA-TV.png" group-title="AS | HINDI",IN - NAMMA TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1160451610.m3u8
+#EXTINF:-1 tvg-name="IN - SHRI ASHTAVINAYAK MAHAGANPATI" tvg-logo="https://go4.pw/ASIA/INDIA/SHRI-MAHALAXMI-TEMPLE.png" group-title="AS | HINDI",IN - SHRI ASHTAVINAYAK MAHAGANPATI
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1965125346.m3u8
+#EXTINF:-1 tvg-name="IN - SHRI MAHALAXMI TEMPLE" tvg-logo="https://go4.pw/ASIA/INDIA/SHRI-MAHALAXMI-TEMPLE.png" group-title="AS | HINDI",IN - SHRI MAHALAXMI TEMPLE
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/640587708.m3u8
+#EXTINF:-1 tvg-name="IN - TARA NEWS" tvg-logo="https://go4.pw/India/taranews.png" group-title="AS | HINDI",IN - TARA NEWS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1228228733.m3u8
+#EXTINF:-1 tvg-name="IN - TATA PLAY ENGLISH IN TELUGU" tvg-logo="https://go4.pw/India/TATA.png" group-title="AS | HINDI",IN - TATA PLAY ENGLISH IN TELUGU
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2044576849.m3u8
+#EXTINF:-1 tvg-name="IN - VALAM TV HD" tvg-logo="https://go4.pw/India/VALAM.png" group-title="AS | HINDI",IN - VALAM TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/633712936.m3u8
+#EXTINF:-1 tvg-name="IN - WION" tvg-logo="https://go4.pw/ASIA/INDIA/WION.png" group-title="AS | HINDI",IN - WION
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1723738912.m3u8
+#EXTINF:-1 tvg-name="HINDI - & FLIX HD" tvg-logo="https://go4.pw/ASIA/INDIA/FLIX.png" group-title="AS | HINDI",HINDI - & FLIX HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1920840330.m3u8
+#EXTINF:-1 tvg-name="IN - AND PRIVE FHD" tvg-logo="https://go4.pw/India/&prive.png" group-title="AS | HINDI",IN - AND PRIVE FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/865036716.m3u8
+#EXTINF:-1 tvg-name="IN - AND EXPLORER HD" tvg-logo="https://go4.pw/India/&explorer.png" group-title="AS | HINDI",IN - AND EXPLORER HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/108225157.m3u8
+#EXTINF:-1 tvg-name="IN - AAJ TAK FHD" tvg-logo="https://go4.pw/ASIA/INDIA/AAJ-TAK.png" group-title="AS | HINDI",IN - AAJ TAK FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2006535261.m3u8
+#EXTINF:-1 tvg-name="HINDI - NTV TELUGU SD" tvg-logo="https://go4.pw/ASIA/INDIA/NTV-TELUGU.png" group-title="AS | HINDI",HINDI - NTV TELUGU SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/893081547.m3u8
+#EXTINF:-1 tvg-name="IN - ANIMAL PLANET FHD TELUGU" tvg-logo="https://go4.pw/EUROPE/GERMANY/AnimalPlanet.png" group-title="AS | HINDI",IN - ANIMAL PLANET FHD TELUGU
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2062743326.m3u8
+#EXTINF:-1 tvg-name="HINDI - POGO HD TELUGU" tvg-logo="https://go4.pw/ASIA/INDIA/pogo.png" group-title="AS | HINDI",HINDI - POGO HD TELUGU
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/680090817.m3u8
+#EXTINF:-1 tvg-name="HINDI - NAT GEO WILD FHD TELUGU" tvg-logo="https://go4.pw/EUROPE/ITALY/NATGEOWILD-1.png" group-title="AS | HINDI",HINDI - NAT GEO WILD FHD TELUGU
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/74035780.m3u8
+#EXTINF:-1 tvg-name="HINDI - CARTOON NETWORK HD TELUGU" tvg-logo="https://go4.pw/ASIA/INDIA/CARTOON-NETWORK-HD-TELUGU.png" group-title="AS | HINDI",HINDI - CARTOON NETWORK HD TELUGU
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/76343800.m3u8
+#EXTINF:-1 tvg-name="HINDI - MADANI TV BANGLA" tvg-logo="https://go4.pw/ASIA/INDIA/MADANI-TV-BANGLA.png" group-title="AS | HINDI",HINDI - MADANI TV BANGLA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1031275414.m3u8
+#EXTINF:-1 tvg-name="IN - SOMOY NEWS TV HD" tvg-logo="https://go4.pw/India/SOMOY.png" group-title="AS | HINDI",IN - SOMOY NEWS TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/773459169.m3u8
+#EXTINF:-1 tvg-name="HINDI - ITV MOVIE BANGLA FHD" tvg-logo="https://go4.pw/EUROPE/UK/ITV.png" group-title="AS | HINDI",HINDI - ITV MOVIE BANGLA FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/935395121.m3u8
+#EXTINF:-1 tvg-name="IN - INDEPENDENT NEWS HD" tvg-logo="https://go4.pw/ASIA/INDIA/INDEPENDENT-NEWS.png" group-title="AS | HINDI",IN - INDEPENDENT NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1760108685.m3u8
+#EXTINF:-1 tvg-name="IN - DBC NEWS HD" tvg-logo="https://go4.pw/ASIA/INDIA/DBC-NEWS.png" group-title="AS | HINDI",IN - DBC NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/231138074.m3u8
+#EXTINF:-1 tvg-name="IN - CHANNEL I HD" tvg-logo="https://go4.pw/ASIA/INDIA/CHANNEL-I.png" group-title="AS | HINDI",IN - CHANNEL I HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/468282584.m3u8
+#EXTINF:-1 tvg-name="IN - CHANNEL 9 HD" tvg-logo="https://go4.pw/India/CHANNEL 9.png" group-title="AS | HINDI",IN - CHANNEL 9 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1017693114.m3u8
+#EXTINF:-1 tvg-name="HINDI - AMAR BANGAL" tvg-logo="https://go4.pw/ASIA/INDIA/AMA-BANGAL.jpg" group-title="AS | HINDI",HINDI - AMAR BANGAL
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1958712497.m3u8
+#EXTINF:-1 tvg-name="IN - SADHNA" tvg-logo="https://go4.pw/India/SA.png" group-title="AS | HINDI",IN - SADHNA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/695172464.m3u8
+#EXTINF:-1 tvg-name="IN - TV9 BHARATVARSH HD" tvg-logo="https://go4.pw/ASIA/INDIA/TV9-BHARATVARSH.png" group-title="AS | HINDI",IN - TV9 BHARATVARSH HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1953169103.m3u8
+#EXTINF:-1 tvg-name="HINDI - NICK HD GUJARATI" tvg-logo="https://go4.pw/ASIA/INDIA/NICK-HD-GUJARATI.png" group-title="AS | HINDI",HINDI - NICK HD GUJARATI
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1369972593.m3u8
+#EXTINF:-1 tvg-name="IN - VANDE GUJARAT 1" tvg-logo="https://go4.pw/India/VANDE.png" group-title="AS | HINDI",IN - VANDE GUJARAT 1
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/242001943.m3u8
+#EXTINF:-1 tvg-name="IN - VANDE GUJARAT 2" tvg-logo="https://go4.pw/India/VANDE.png" group-title="AS | HINDI",IN - VANDE GUJARAT 2
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1196068874.m3u8
+#EXTINF:-1 tvg-name="IN - VANDE GUJARAT 3" tvg-logo="https://go4.pw/India/VANDE.png" group-title="AS | HINDI",IN - VANDE GUJARAT 3
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1666472474.m3u8
+#EXTINF:-1 tvg-name="IN - VANDE GUJARAT 5" tvg-logo="https://go4.pw/India/VANDE.png" group-title="AS | HINDI",IN - VANDE GUJARAT 5
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1530155841.m3u8
+#EXTINF:-1 tvg-name="IN - VANDE GUJARAT 6" tvg-logo="https://go4.pw/India/VANDE.png" group-title="AS | HINDI",IN - VANDE GUJARAT 6
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/55562439.m3u8
+#EXTINF:-1 tvg-name="IN - VANDE GUJARAT 7" tvg-logo="https://go4.pw/India/VANDE.png" group-title="AS | HINDI",IN - VANDE GUJARAT 7
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/699397959.m3u8
+#EXTINF:-1 tvg-name="IN - VANDE GUJARAT 8" tvg-logo="https://go4.pw/India/VANDE.png" group-title="AS | HINDI",IN - VANDE GUJARAT 8
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1783863193.m3u8
+#EXTINF:-1 tvg-name="IN - VANDE GUJARAT 9" tvg-logo="https://go4.pw/India/VANDE.png" group-title="AS | HINDI",IN - VANDE GUJARAT 9
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/498835459.m3u8
+#EXTINF:-1 tvg-name="IN - VANDE GUJARAT 10" tvg-logo="https://go4.pw/India/VANDE.png" group-title="AS | HINDI",IN - VANDE GUJARAT 10
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/465619349.m3u8
+#EXTINF:-1 tvg-name="IN - VANDE GUJARAT 11" tvg-logo="https://go4.pw/India/VANDE.png" group-title="AS | HINDI",IN - VANDE GUJARAT 11
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/529734256.m3u8
+#EXTINF:-1 tvg-name="IN - VANDE GUJARAT 12" tvg-logo="https://go4.pw/India/VANDE.png" group-title="AS | HINDI",IN - VANDE GUJARAT 12
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/841494333.m3u8
+#EXTINF:-1 tvg-name="IN - VANDE GUJARAT 13" tvg-logo="https://go4.pw/India/VANDE.png" group-title="AS | HINDI",IN - VANDE GUJARAT 13
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/728407308.m3u8
+#EXTINF:-1 tvg-name="IN - VANDE GUJARAT 14" tvg-logo="https://go4.pw/India/VANDE.png" group-title="AS | HINDI",IN - VANDE GUJARAT 14
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/334027894.m3u8
+#EXTINF:-1 tvg-name="IN - VANDE GUJARAT 15" tvg-logo="https://go4.pw/India/VANDE.png" group-title="AS | HINDI",IN - VANDE GUJARAT 15
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1687122999.m3u8
+#EXTINF:-1 tvg-name="HINDI - FAKT MARATHI HD" tvg-logo="https://go4.pw/ASIA/INDIA/FAKT-MARATHI.png" group-title="AS | HINDI",HINDI - FAKT MARATHI HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/71518506.m3u8
+#EXTINF:-1 tvg-name="HINDI - PUNJABI TV HD" tvg-logo="https://go4.pw/ASIA/INDIA/VISION-PUNJAB-GURBANI.png" group-title="AS | HINDI",HINDI - PUNJABI TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/596570418.m3u8
+#EXTINF:-1 tvg-name="HINDI - VISION PUNJAB GURBANI HD" tvg-logo="https://go4.pw/ASIA/INDIA/VISION-PUNJAB-GURBANI.png" group-title="AS | HINDI",HINDI - VISION PUNJAB GURBANI HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1990994438.m3u8
+#EXTINF:-1 tvg-name="HINDI - 3 TAMIL TV HD" tvg-logo="https://go4.pw/ASIA/INDIA/3-TAMIL-TV.png" group-title="AS | HINDI",HINDI - 3 TAMIL TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1464041748.m3u8
+#EXTINF:-1 tvg-name="IN - VAANAVIL HD" tvg-logo="https://go4.pw/ASIA/INDIA/VAANAVIL.png" group-title="AS | HINDI",IN - VAANAVIL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2091840876.m3u8
+#EXTINF:-1 tvg-name="IN - BHARAT SAMACHAR HD" tvg-logo="https://go4.pw/ASIA/INDIA/BHARAT-SAMACHAR.png" group-title="AS | HINDI",IN - BHARAT SAMACHAR HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/817616909.m3u8
+#EXTINF:-1 tvg-name="IN - DD YADAGIRI HD" tvg-logo="https://go4.pw/ASIA/INDIA/DD-YADAGIRI.png" group-title="AS | HINDI",IN - DD YADAGIRI HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1206292728.m3u8
+#EXTINF:-1 tvg-name="IN - 9X TASHAN HD" tvg-logo="https://go4.pw/ASIA/INDIA/9-TASHAN-HD.png" group-title="AS | HINDI",IN - 9X TASHAN HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1551383290.m3u8
+#EXTINF:-1 tvg-name="IN - SADHNA TV DEVOTIONAL HD" tvg-logo="https://go4.pw/India/SADHNA.png" group-title="AS | HINDI",IN - SADHNA TV DEVOTIONAL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/201632517.m3u8
+#EXTINF:-1 tvg-name="HINDI -  9XM HD" tvg-logo="https://go4.pw/ASIA/INDIA/9-M.png" group-title="AS | HINDI",HINDI -  9XM HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1368262400.m3u8
+#EXTINF:-1 tvg-name="IN - SANSAD TV SD" tvg-logo="https://go4.pw/ASIA/INDIA/SANSAD-TV.png" group-title="AS | HINDI",IN - SANSAD TV SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2147027692.m3u8
+#EXTINF:-1 tvg-name="IN - NEWS 18 ODIA SD" tvg-logo="https://go4.pw/ASIA/INDIA/NEWS-18-ODIA.png" group-title="AS | HINDI",IN - NEWS 18 ODIA SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/899109722.m3u8
+#EXTINF:-1 tvg-name="IN - JONACK TV SD" tvg-logo="https://go4.pw/India/JONACK.png" group-title="AS | HINDI",IN - JONACK TV SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/787977631.m3u8
+#EXTINF:-1 tvg-name="IN - SKY NEWS SD" tvg-logo="https://go4.pw/ASIA/INDIA/SKY-NEWS.png" group-title="AS | HINDI",IN - SKY NEWS SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2086170104.m3u8
+#EXTINF:-1 tvg-name="IN - CHANNEL-S HD" tvg-logo="https://go4.pw/ASIA/INDIA/CHANNEL-S.png" group-title="AS | HINDI",IN - CHANNEL-S HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1008013502.m3u8
+#EXTINF:-1 tvg-name="IN - HAREKRSNA HD" tvg-logo="https://go4.pw/India/HAREKRSNA.png" group-title="AS | HINDI",IN - HAREKRSNA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/85686810.m3u8
+#EXTINF:-1 tvg-name="IN - KRISHNA VANI DEVOTIONAL HD" tvg-logo="https://go4.pw/ASIA/INDIA/KRISHNA-VANI-DEVOTIONAL.png" group-title="AS | HINDI",IN - KRISHNA VANI DEVOTIONAL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1368375452.m3u8
+#EXTINF:-1 tvg-name="IN - DD KISAN HD" tvg-logo="https://go4.pw/ASIA/INDIA/DD-KISAN.png" group-title="AS | HINDI",IN - DD KISAN HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1373839319.m3u8
+#EXTINF:-1 tvg-name="IN - JIO EVENTS FHD" tvg-logo="https://go4.pw/India/JIO.png" group-title="AS | HINDI",IN - JIO EVENTS FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/423882790.m3u8
+#EXTINF:-1 tvg-name="HINDI - WOW CINEMA" tvg-logo="https://go4.pw/India/WOW_CINEMA.png" group-title="AS | HINDI",HINDI - WOW CINEMA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1936612730.m3u8
+#EXTINF:-1 tvg-name="IN - BOISHAKHI TV" tvg-logo="https://go4.pw/India/BOISHAKHI_TV.png" group-title="AS | HINDI",IN - BOISHAKHI TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/773502763.m3u8
+#EXTINF:-1 tvg-name="HINDI - DISCOVERY KIDS HD TELUGU" tvg-logo="https://go4.pw/India/DISCOVERY.png" group-title="AS | HINDI",HINDI - DISCOVERY KIDS HD TELUGU
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/822773948.m3u8
+#EXTINF:-1 tvg-name="IN - TV5 MONDE HD" tvg-logo="https://go4.pw/India/TV5_MONDE.png" group-title="AS | HINDI",IN - TV5 MONDE HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/492785547.m3u8
+#EXTINF:-1 tvg-name="HINDI - COLORS FHD" tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | HINDI",HINDI - COLORS FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1815479520.m3u8
+#EXTINF:-1 tvg-name="##### GOLDTV 24/7 CHANNELS #####" tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="AS | HINDI",##### GOLDTV 24/7 CHANNELS #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/673351370.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - GOOD TIMES HD" tvg-logo="https://go4.pw/ASIA/INDIA/GOOD_TIMES_HD.png" group-title="AS | HINDI",HINDI - GOOD TIMES HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/793971805.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - DABANGG HD" tvg-logo="https://go4.pw/ASIA/INDIA/DABANGG.png" group-title="AS | HINDI",IN - DABANGG HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1804277358.m3u8
+#EXTINF:-1 tvg-id="aastha.in" tvg-name="HINDI - AASTHA" tvg-logo="https://go4.pw/ASIA/INDIA/AASTHA.png" group-title="AS | HINDI",HINDI - AASTHA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/291344523.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - AASTHA BHAJAN" tvg-logo="https://go4.pw/ASIA/INDIA/AASTHA.png" group-title="AS | HINDI",HINDI - AASTHA BHAJAN
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/599194510.m3u8
+#EXTINF:-1 tvg-id="bflixmovies.in" tvg-name="HINDI - B-FLIX MOVIES" tvg-logo="https://go4.pw/ASIA/INDIA/and-flix.png" group-title="AS | HINDI",HINDI - B-FLIX MOVIES
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/100664823.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DISCOVERY WORLD HD" tvg-logo="https://go4.pw/ASIA/INDIA/DISCOVERY-WORLD-HD-1.png" group-title="AS | HINDI",HINDI - DISCOVERY WORLD HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1760357616.m3u8
+#EXTINF:-1 tvg-name="HINDI - MOVIES ACTIVE" tvg-logo="https://go4.pw/ASIA/INDIAN/MOVIESACTIVE.png" group-title="AS | HINDI",HINDI - MOVIES ACTIVE
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/729309624.m3u8
+#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="HINDI - MTV PLUS HD" tvg-logo="https://go4.pw/ASIA/INDIA/Mtv.png" group-title="AS | HINDI",HINDI - MTV PLUS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1619407986.m3u8
+#EXTINF:-1 tvg-id="news18biharjharkhand.in" tvg-name="HINDI - NEWS 18 BIHAR" tvg-logo="https://go4.pw/ASIA/INDIA/NEWS-18-BIHAR.png" group-title="AS | HINDI",HINDI - NEWS 18 BIHAR
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/937043484.m3u8
+#EXTINF:-1 tvg-id="news18biharjharkhand.in" tvg-name="HINDI - NEWS 18 RAJASTHAN" tvg-logo="https://go4.pw/India/NEWS 18 RAJASTHAN.png" group-title="AS | HINDI",HINDI - NEWS 18 RAJASTHAN
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/467102883.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NEWS STATE" tvg-logo="https://go4.pw/ASIA/INDIAN/NEWSSTATE.png" group-title="AS | HINDI",HINDI - NEWS STATE
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/702509459.m3u8
+#EXTINF:-1 tvg-id="parastv.in" tvg-name="HINDI - PARAS TV" tvg-logo="https://go4.pw/ASIA/INDIA/pardesitv.png" group-title="AS | HINDI",HINDI - PARAS TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/437906395.m3u8
+#EXTINF:-1 tvg-id="utvhd.in" tvg-name="HINDI - UTV HD" tvg-logo="https://go4.pw/ASIA/INDIA/utv.png" group-title="AS | HINDI",HINDI - UTV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1894090720.m3u8
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="HINDI - ZEE ANMOL CINEMA" tvg-logo="https://go4.pw/ASIA/INDIAN/ZEEANMOLCINEMA.png" group-title="AS | HINDI",HINDI - ZEE ANMOL CINEMA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1602599901.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ZEE NEWS MP/CHATTISGARH" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE-NEWS-MPCHATTISGARH.png" group-title="AS | HINDI",HINDI - ZEE NEWS MP/CHATTISGARH
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1297989924.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ZEE NEWS UP" tvg-logo="https://go4.pw/India/ZEE NEWS UP.png" group-title="AS | HINDI",HINDI - ZEE NEWS UP
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1862424371.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - Disney" tvg-logo="https://go4.pw/ASIA/INDIA/disney.png" group-title="AS | HINDI",HINDI - Disney
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2114779061.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="ENGLISH - WION NEWS" tvg-logo="https://go4.pw/ASIA/INDIA/WION_news_.png" group-title="AS | HINDI",ENGLISH - WION NEWS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1493921100.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD KASHIR HD" tvg-logo="https://go4.pw/ASIA/INDIA/DD_KASHIR_HD.png" group-title="AS | HINDI",HINDI - DD KASHIR HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1804422085.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - DD NORTH EAST HD" tvg-logo="https://go4.pw/ASIA/INDIA/DD_UTTAR_PRADESH_HD.png" group-title="AS | HINDI",HINDI - DD NORTH EAST HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/228180684.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - MH ONE SHRADDHA HD" tvg-logo="https://go4.pw/ASIA/INDIA/MH_ONE_HD.png" group-title="AS | HINDI",HINDI - MH ONE SHRADDHA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1305809190.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - HINDU DHARMAM HD" tvg-logo="https://go4.pw/ASIA/INDIA/HINDU-DHARMAM.png" group-title="AS | HINDI",HINDI - HINDU DHARMAM HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/698490782.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NORTH EAST LIVE HD" tvg-logo="https://go4.pw/ASIA/INDIA/NORTH_EAST_LIVE_HD.png" group-title="AS | HINDI",HINDI - NORTH EAST LIVE HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/421821509.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - NEWS STATE MP CG" tvg-logo="https://go4.pw/ASIA/INDIA/NEWS_STATE_MPCG.png" group-title="AS | HINDI",HINDI - NEWS STATE MP CG
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/921294371.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CLUBBING TV FHD" tvg-logo="https://go4.pw/ASIA/INDIA/Clubbing_TV.png" group-title="AS | HINDI",HINDI - CLUBBING TV FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1752061189.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - INDIA NEWS MP CH HD" tvg-logo="https://go4.pw/ASIA/INDIA/INDIA_NEWS_MP_CH_HD.png" group-title="AS | HINDI",HINDI - INDIA NEWS MP CH HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1743949162.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - SANSAD TV HD" tvg-logo="https://go4.pw/ASIA/INDIA/SANSAD-TV.png" group-title="AS | HINDI",IN - SANSAD TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1556661812.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - PRIME NEWS HD" tvg-logo="https://go4.pw/ASIA/INDIA/PRIME_NEWS_HD.png" group-title="AS | HINDI",HINDI - PRIME NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2061287126.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - EURO NEWS HD" tvg-logo="https://go4.pw/germany/eurns.png" group-title="AS | HINDI",HINDI - EURO NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1671006483.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CNN INTL HD" tvg-logo="https://go4.pw/USA/CNN.png" group-title="AS | HINDI",HINDI - CNN INTL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1782527879.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SATSANG TV" tvg-logo="https://go4.pw/ASIA/INDIA/SATSANG_TV.png" group-title="AS | HINDI",HINDI - SATSANG TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2139033483.m3u8
+#EXTINF:-1 tvg-name="IN - KHUSBOO BANGLA" tvg-logo="https://go4.pw/India/KHUSBOO BANGLA.png" group-title="AS | HINDI",IN - KHUSBOO BANGLA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1047036456.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - MOHONA TV HD" tvg-logo="https://go4.pw/ASIA/INDIA/MOHONA.png" group-title="AS | HINDI",IN - MOHONA TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/939619590.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SONIC HD GUJARATI" tvg-logo="https://go4.pw/ASIA/INDIA/SONIC_HD_GUJARATI.png" group-title="AS | HINDI",HINDI - SONIC HD GUJARATI
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/325865290.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - SAAM MARATHI HD" tvg-logo="https://go4.pw/ASIA/INDIA/SAAM_MARATHI.png" group-title="AS | HINDI",IN - SAAM MARATHI HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1958233051.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - NAMBIKKAI TV SD" tvg-logo="https://go4.pw/India/nambikkai.png" group-title="AS | HINDI",IN - NAMBIKKAI TV SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1911857209.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ZEE BOLLYWOOD SD" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE_BOLLYWOOD.png" group-title="AS | HINDI",IN - ZEE BOLLYWOOD SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1165369214.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - IDN LOKMAT" tvg-logo="https://go4.pw/India/IDN LOKMAT.png" group-title="AS | HINDI",HINDI - IDN LOKMAT
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1526158412.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ZEE NEWS MP" tvg-logo="https://go4.pw/India/ZEE NEWS MPCHATTISGARH.png" group-title="AS | HINDI",HINDI - ZEE NEWS MP
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/345133677.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - OM SHANTI" tvg-logo="https://go4.pw/ASIA/INDIA/OM_SHANTI.png" group-title="AS | HINDI",HINDI - OM SHANTI
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/690066770.m3u8
+#EXTINF:-1 tvg-name="KU - ARO DRAMA" tvg-logo="https://go4.pw/KURDISH/aro-logo.png" group-title="AS | HINDI",KU - ARO DRAMA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1594957632.m3u8
+#EXTINF:-1 tvg-name="IN - 4tv NEWS" tvg-logo="https://go4.pw/ASIA/INDIA/4tv-NEWS.png" group-title="AS | HINDI",IN - 4tv NEWS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/148903722.m3u8
+#EXTINF:-1 tvg-name="HINDI - ANB NEWS HD" tvg-logo="https://go4.pw/India/ANB NEWS.png" group-title="AS | HINDI",HINDI - ANB NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1170539893.m3u8
+#EXTINF:-1 tvg-name="IN - DD ODIA" tvg-logo="https://go4.pw/ASIA/INDIA/DD-ODIA.png" group-title="AS | HINDI",IN - DD ODIA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/748647186.m3u8
+#EXTINF:-1 tvg-name="IN - Discovery Turbo" tvg-logo="https://go4.pw/AMERICA/BRASIL/DISCOVERY-TURBOHD-1.png" group-title="AS | HINDI",IN - Discovery Turbo
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/846954613.m3u8
+#EXTINF:-1 tvg-name="IN - GLOBAL INDIA TV HD" tvg-logo="https://go4.pw/India/_INDIA TV.png" group-title="AS | HINDI",IN - GLOBAL INDIA TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/414888174.m3u8
+#EXTINF:-1 tvg-name="IN - INH 24X7" tvg-logo="https://go4.pw/India/_INH 24X7.png" group-title="AS | HINDI",IN - INH 24X7
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1974973745.m3u8
+#EXTINF:-1 tvg-name="IN - JANSETU NEWS HD" tvg-logo="https://go4.pw/India/JANSETU NEWS.png" group-title="AS | HINDI",IN - JANSETU NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1092494380.m3u8
+#EXTINF:-1 tvg-name="IN - LIVE PUNJABI HD" tvg-logo="https://go4.pw/India/punjabi news.png" group-title="AS | HINDI",IN - LIVE PUNJABI HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1471115818.m3u8
+#EXTINF:-1 tvg-name="IN - SUBHARTI TV" tvg-logo="https://go4.pw/India/SUBHARTI.png" group-title="AS | HINDI",IN - SUBHARTI TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/146525021.m3u8
+#EXTINF:-1 tvg-name="IN - SURYA SAMACHAR" tvg-logo="https://go4.pw/ASIA/INDIA/SURYA-SAMACHAR.png" group-title="AS | HINDI",IN - SURYA SAMACHAR
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1496999352.m3u8
+#EXTINF:-1 tvg-name="IN - AND PRIVE HD" tvg-logo="https://go4.pw/India/&prive.png" group-title="AS | HINDI",IN - AND PRIVE HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1181638396.m3u8
+#EXTINF:-1 tvg-name="IN - AND XPLOR FHD" tvg-logo="https://go4.pw/ASIA/INDIA/AND-XPLOR.png" group-title="AS | HINDI",IN - AND XPLOR FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/929304701.m3u8
+#EXTINF:-1 tvg-name="IN - TV5 KANNADA HD" tvg-logo="https://go4.pw/India/tv5 kannada.png" group-title="AS | HINDI",IN - TV5 KANNADA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1758961781.m3u8
+#EXTINF:-1 tvg-name="IN - HM TV HD" tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/HMTV.png" group-title="AS | HINDI",IN - HM TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1230972187.m3u8
+#EXTINF:-1 tvg-name="HINDI - GAAN BANGLA-MUSIC HD" tvg-logo="https://go4.pw/ASIA/INDIA/GAAN-BANGLA-MUSIC.png" group-title="AS | HINDI",HINDI - GAAN BANGLA-MUSIC HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/338256216.m3u8
+#EXTINF:-1 tvg-name="IN - ATN ISLAMIC TV HD" tvg-logo="https://go4.pw/India/ATN ISLAMIC TV.png" group-title="AS | HINDI",IN - ATN ISLAMIC TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/202033337.m3u8
+#EXTINF:-1 tvg-name="IN - EKATTOR TV HD" tvg-logo="https://go4.pw/ASIA/INDIA/EKATTOR-TV.png" group-title="AS | HINDI",IN - EKATTOR TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/240880375.m3u8
+#EXTINF:-1 tvg-name="IN - CHANNEL 24" tvg-logo="https://go4.pw/ASIA/INDIA/CHANNEL-24.png" group-title="AS | HINDI",IN - CHANNEL 24
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2034220111.m3u8
+#EXTINF:-1 tvg-name="IN - ANIMAL PLANET FHD GUJARATI" tvg-logo="https://go4.pw/EUROPE/GERMANY/AnimalPlanet.png" group-title="AS | HINDI",IN - ANIMAL PLANET FHD GUJARATI
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/532538599.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZEE 24 KALAK GUJRATI HD" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE-24-KALAK-GUJRATI.png" group-title="AS | HINDI",HINDI - ZEE 24 KALAK GUJRATI HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1773767053.m3u8
+#EXTINF:-1 tvg-name="IN - VANDE GUJARAT 4" tvg-logo="https://go4.pw/ASIA/INDIA/VANDE-GUJARAT.png" group-title="AS | HINDI",IN - VANDE GUJARAT 4
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/722628704.m3u8
+#EXTINF:-1 tvg-name="IN - VANDE GUJARAT 16" tvg-logo="https://go4.pw/ASIA/INDIA/VANDE-GUJARAT.png" group-title="AS | HINDI",IN - VANDE GUJARAT 16
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/727303040.m3u8
+#EXTINF:-1 tvg-name="IN - ZEE UTTAR PRADESH UTTARAKHAND SD" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE-UTTAR-PRADESH-UTTARAKHAND.png" group-title="AS | HINDI",IN - ZEE UTTAR PRADESH UTTARAKHAND SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1350160005.m3u8
+#EXTINF:-1 tvg-name="IN - BBC WORLD NEWS HD" tvg-logo="https://go4.pw/ASIA/INDIA/BBC-WORLD-NEWS.png" group-title="AS | HINDI",IN - BBC WORLD NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/463301924.m3u8
+#EXTINF:-1 tvg-name="HINDI - & FLIX FHD" tvg-logo="https://go4.pw/ASIA/INDIA/FLIX.png" group-title="AS | HINDI",HINDI - & FLIX FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2002573763.m3u8
+#EXTINF:-1 tvg-name="IN - APN NEWS SD" tvg-logo="https://go4.pw/ASIA/INDIA/APN-NEWS.png" group-title="AS | HINDI",IN - APN NEWS SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/355428494.m3u8
+#EXTINF:-1 tvg-name="IN - COLORS CINEPLEX BOLLYWOOD HD" tvg-logo="https://go4.pw/ASIA/INDIA/Colors-Cineplex.png" group-title="AS | HINDI",IN - COLORS CINEPLEX BOLLYWOOD HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2028165304.m3u8
+#EXTINF:-1 tvg-name="IN - COLORS ORIYA HD" tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | HINDI",IN - COLORS ORIYA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1539205442.m3u8
+#EXTINF:-1 tvg-name="HINDI - B4U PLUS" tvg-logo="https://go4.pw/India/_B4U PLUS.png" group-title="AS | HINDI",HINDI - B4U PLUS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1428279516.m3u8
+#EXTINF:-1 tvg-name="HINDI - B4U MUSIC" tvg-logo="https://go4.pw/ASIA/INDIA/b4u-music.png" group-title="AS | HINDI",HINDI - B4U MUSIC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/698254036.m3u8
+#EXTINF:-1 tvg-name="HINDI - B4U MOVIES" tvg-logo="https://go4.pw/ASIA/INDIA/B4YOUMOVIES.png" group-title="AS | HINDI",HINDI - B4U MOVIES
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1711582590.m3u8
+#EXTINF:-1 tvg-name="HINDI - PITAARA (BK)" tvg-logo="https://go4.pw/ASIA/PUMJABI/PITAARATV.png" group-title="AS | HINDI",HINDI - PITAARA (BK)
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/278773174.m3u8
+#EXTINF:-1 tvg-name="HINDI - SONY SAB" tvg-logo="https://go4.pw/India/SONYSAB.png" group-title="AS | HINDI",HINDI - SONY SAB
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/641005020.m3u8
+#EXTINF:-1 tvg-name="HINDI - SONY MAX 2" tvg-logo="https://go4.pw/ASIA/INDIA/Sony_Max_2.png" group-title="AS | HINDI",HINDI - SONY MAX 2
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1281278848.m3u8
+#EXTINF:-1 tvg-name="HINDI - SONY MAX" tvg-logo="https://go4.pw/India/Sonymx.png" group-title="AS | HINDI",HINDI - SONY MAX
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/314741575.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZEE TV" tvg-logo="https://go4.pw/ASIA/INDIA/Zee_TV.png" group-title="AS | HINDI",HINDI - ZEE TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1455180339.m3u8
+#EXTINF:-1 tvg-name="HINDI - COLORS GUJRATI" tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | HINDI",HINDI - COLORS GUJRATI
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/691423616.m3u8
+#EXTINF:-1 tvg-name="HINDI - COLORS FHD" tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | HINDI",HINDI - COLORS FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/656257804.m3u8
+#EXTINF:-1 tvg-name="HINDI - COLORS UK HD" tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | HINDI",HINDI - COLORS UK HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1358766127.m3u8
+#EXTINF:-1 tvg-name="HINDI - SONY TV FHD" tvg-logo="https://go4.pw/ASIA/INDIA/sony-hd.png" group-title="AS | HINDI",HINDI - SONY TV FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/897201943.m3u8
+#EXTINF:-1 tvg-name="HINDI - SONY MAX FHD" tvg-logo="https://go4.pw/India/Sonymx.png" group-title="AS | HINDI",HINDI - SONY MAX FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/742607909.m3u8
+#EXTINF:-1 tvg-name="HINDI - COLORS" tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | HINDI",HINDI - COLORS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/354250941.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | ZEE NEWS UP" tvg-logo="https://go4.pw/India/ZEE NEWS UP.png" group-title="AS | HINDI",HINDI - NEWS | ZEE NEWS UP
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1985539091.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | ZEE RAJASTHAN" tvg-logo="https://go4.pw/India/ZEE RAJASTHAN.png" group-title="AS | HINDI",HINDI - NEWS | ZEE RAJASTHAN
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/515505608.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | ZEE NEWS MP/CHATTISGARH" tvg-logo="https://go4.pw/India/ZEE NEWS MPCHATTISGARH.png" group-title="AS | HINDI",HINDI - NEWS | ZEE NEWS MP/CHATTISGARH
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1790186706.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | ZEE NEWS MP" tvg-logo="https://go4.pw/India/ZEE NEWS MP.png" group-title="AS | HINDI",HINDI - NEWS | ZEE NEWS MP
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/33853652.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | ZEE NEWS BIHAR" tvg-logo="https://go4.pw/India/ZEE NEWS BIHAR.png" group-title="AS | HINDI",HINDI - NEWS | ZEE NEWS BIHAR
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/512210323.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | ZEE HINDUSTAN" tvg-logo="https://go4.pw/ASIA/INDIA/Zee_Hindustan.png" group-title="AS | HINDI",HINDI - NEWS | ZEE HINDUSTAN
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1619778791.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | ZEE BUSINESS" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE-BUSINESS.png" group-title="AS | HINDI",HINDI - NEWS | ZEE BUSINESS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/392435218.m3u8
+#EXTINF:-1 tvg-name="IN - NEWS | WION NEWS" tvg-logo="https://go4.pw/India/WION.png" group-title="AS | HINDI",IN - NEWS | WION NEWS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1057505107.m3u8
+#EXTINF:-1 tvg-name="IN - NEWS | WION" tvg-logo="https://go4.pw/India/WION.png" group-title="AS | HINDI",IN - NEWS | WION
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/392659475.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | TV 5 MONDE" tvg-logo="https://go4.pw/EUROPE/FRANCE/Tv5 monde HD.png" group-title="AS | HINDI",HINDI - NEWS | TV 5 MONDE
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/802572032.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | TIMES NOW" tvg-logo="https://go4.pw/India/TIMES NOW.png" group-title="AS | HINDI",HINDI - NEWS | TIMES NOW
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/33992432.m3u8
+#EXTINF:-1 tvg-name="IN - NEWS | TIMES NOW NAVBHARAT" tvg-logo="https://go4.pw/India/TIMES NOW.png" group-title="AS | HINDI",IN - NEWS | TIMES NOW NAVBHARAT
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1202915358.m3u8
+#EXTINF:-1 tvg-name="IN - NEWS | TIMES NOW WORLD FHD" tvg-logo="https://go4.pw/India/TIMES NOW.png" group-title="AS | HINDI",IN - NEWS | TIMES NOW WORLD FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1697512041.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | ZEE NEWS" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE_NEWS.png" group-title="AS | HINDI",HINDI - NEWS | ZEE NEWS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1047847869.m3u8
+#EXTINF:-1 tvg-name="IN - NEWS | TV9 BHARATVARSH" tvg-logo="https://go4.pw/India/TV9 BHARATVARSH.png" group-title="AS | HINDI",IN - NEWS | TV9 BHARATVARSH
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1882888151.m3u8
+#EXTINF:-1 tvg-name="IN - NEWS | SURYA SAMACHAR" tvg-logo="https://go4.pw/India/" group-title="AS | HINDI",IN - NEWS | SURYA SAMACHAR
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/553098291.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | SUDARSHAN NEWS" tvg-logo="https://go4.pw/India/SUDARSHAN NEWS.png" group-title="AS | HINDI",HINDI - NEWS | SUDARSHAN NEWS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1567641747.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | SAMAY RAJASTHAN" tvg-logo="https://go4.pw/ASIA/INDIA/SAMAY_RAJASTHAN.png" group-title="AS | HINDI",HINDI - NEWS | SAMAY RAJASTHAN
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1228065227.m3u8
+#EXTINF:-1 tvg-name="IN - NEWS | SADHNA PLUS" tvg-logo="https://go4.pw/India/" group-title="AS | HINDI",IN - NEWS | SADHNA PLUS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/978106892.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | REPUBLIC TV" tvg-logo="https://go4.pw/India/UTSAV PLUS.png" group-title="AS | HINDI",HINDI - NEWS | REPUBLIC TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/933892289.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | REPUBLIC NEWS" tvg-logo="https://go4.pw/India/REPUBLIC BHARAT.png" group-title="AS | HINDI",HINDI - NEWS | REPUBLIC NEWS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1065403023.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | REPUBLIC BHARAT" tvg-logo="https://go4.pw/India/REPUBLIC BHARAT.png" group-title="AS | HINDI",HINDI - NEWS | REPUBLIC BHARAT
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1938297147.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | PRIME NEWS" tvg-logo="https://go4.pw/India/PRIME NEWS.png" group-title="AS | HINDI",HINDI - NEWS | PRIME NEWS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1644540974.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | NEWS X" tvg-logo="https://go4.pw/India/NEWS X.png" group-title="AS | HINDI",HINDI - NEWS | NEWS X
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1484541978.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | NEWS NATION" tvg-logo="https://go4.pw/ASIA/INDIA/news-nation.png" group-title="AS | HINDI",HINDI - NEWS | NEWS NATION
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1479450749.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | NEWS INDIA 24x7" tvg-logo="https://go4.pw/ASIA/INDIA/NEWS_INDIA 4x7HD.png" group-title="AS | HINDI",HINDI - NEWS | NEWS INDIA 24x7
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1044730722.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | NEWS 24" tvg-logo="https://go4.pw/ALBANIA/News 24.png" group-title="AS | HINDI",HINDI - NEWS | NEWS 24
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1760648098.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | NEWS 18 UP" tvg-logo="https://go4.pw/India/NEWS 18 UP.png" group-title="AS | HINDI",HINDI - NEWS | NEWS 18 UP
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/28051682.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | NEWS 18 RAJASTHAN" tvg-logo="https://go4.pw/India/NEWS 18 RAJASTHAN.png" group-title="AS | HINDI",HINDI - NEWS | NEWS 18 RAJASTHAN
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/968547703.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | NEWS 18 INDIA" tvg-logo="https://go4.pw/India/NEWS 18 INDIA.png" group-title="AS | HINDI",HINDI - NEWS | NEWS 18 INDIA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1906209807.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | NEWS 11 BHARAT" tvg-logo="https://go4.pw/India/NEWS 11 BHARAT.png" group-title="AS | HINDI",HINDI - NEWS | NEWS 11 BHARAT
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/965047217.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | NDTV PROFIT PRIME" tvg-logo="https://go4.pw/India/NDTV PROFIT PRIME.png" group-title="AS | HINDI",HINDI - NEWS | NDTV PROFIT PRIME
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/940830311.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | NDTV INDIA" tvg-logo="https://go4.pw/India/NDTV INDIA.png" group-title="AS | HINDI",HINDI - NEWS | NDTV INDIA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1003836744.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | NDTV 24x7" tvg-logo="https://go4.pw/India/NDTV 24X7.png" group-title="AS | HINDI",HINDI - NEWS | NDTV 24x7
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1664436499.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | MIRROR NOW" tvg-logo="https://go4.pw/ASIA/INDIA/MIRROR_NOW.png" group-title="AS | HINDI",HINDI - NEWS | MIRROR NOW
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2071830492.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | INDIA TODAY" tvg-logo="https://go4.pw/ASIA/INDIA/INDIA_TODAY.png" group-title="AS | HINDI",HINDI - NEWS | INDIA TODAY
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2086740633.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | INDIA NEWS UP" tvg-logo="https://go4.pw/India/INDIA NEWS UP.png" group-title="AS | HINDI",HINDI - NEWS | INDIA NEWS UP
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1819514603.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | INDIA TV" tvg-logo="https://go4.pw/India/_INDIA TV.png" group-title="AS | HINDI",HINDI - NEWS | INDIA TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/38309400.m3u8
+#EXTINF:-1 tvg-name="IN - NEWS | INH 24X7" tvg-logo="https://go4.pw/India/_INH 24X7.png" group-title="AS | HINDI",IN - NEWS | INH 24X7
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1668504000.m3u8
+#EXTINF:-1 tvg-name="HINDI - NEWS | IBC 24" tvg-logo="https://go4.pw/India/IBC 24.png" group-title="AS | HINDI",HINDI - NEWS | IBC 24
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/289181884.m3u8
+#EXTINF:-1 tvg-name="HINDI - SONY YAY HEVC" tvg-logo="https://go4.pw/India/SONY_yay.png" group-title="AS | HINDI",HINDI - SONY YAY HEVC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1456235893.m3u8
+#EXTINF:-1 tvg-name="HINDI - NDTV. N HEVC" tvg-logo="https://go4.pw/ASIA/INDIA/NDTV.png" group-title="AS | HINDI",HINDI - NDTV. N HEVC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1687009151.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZOOM TV HEVC" tvg-logo="https://go4.pw/ASIA/INDIAN/ZOOMTVHD.png" group-title="AS | HINDI",HINDI - ZOOM TV HEVC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1656847427.m3u8
+#EXTINF:-1 tvg-name="HINDI - NAT GEO WILD HEVC" tvg-logo="https://go4.pw/EUROPE/ITALY/NATGEOWILD-1.png" group-title="AS | HINDI",HINDI - NAT GEO WILD HEVC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/153576460.m3u8
+#EXTINF:-1 tvg-name="IN - AND FLIX HEVC" tvg-logo="https://go4.pw/ASIA/INDIA/AND-FLIX.png" group-title="AS | HINDI",IN - AND FLIX HEVC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/560412023.m3u8
+#EXTINF:-1 tvg-name="HINDI - AND PICTURES HEVC" tvg-logo="https://go4.pw/ASIA/INDIA/and-picture.png" group-title="AS | HINDI",HINDI - AND PICTURES HEVC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1825726437.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZEE BUSINESS HEVC" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE-BUSINESS.png" group-title="AS | HINDI",HINDI - ZEE BUSINESS HEVC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/683011583.m3u8
+#EXTINF:-1 tvg-name="HINDI - PUBLIC MUSIC HEVC" tvg-logo="https://go4.pw/ASIA/INDIA/PUBLIC-MUSIC.png" group-title="AS | HINDI",HINDI - PUBLIC MUSIC HEVC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1637943808.m3u8
+#EXTINF:-1 tvg-name="HINDI - BBC EARTH HEVC" tvg-logo="https://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="AS | HINDI",HINDI - BBC EARTH HEVC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1080917712.m3u8
+#EXTINF:-1 tvg-name="HINDI - CARTOON NETWORK HEVC" tvg-logo="https://go4.pw/ASIA/INDIA/CARTOON-NETWORK.png" group-title="AS | HINDI",HINDI - CARTOON NETWORK HEVC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1305057020.m3u8
+#EXTINF:-1 tvg-name="HINDI - DD BANGLA HEVC" tvg-logo="https://go4.pw/India/DD BANGLA .png" group-title="AS | HINDI",HINDI - DD BANGLA HEVC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/329100380.m3u8
+#EXTINF:-1 tvg-name="HINDI - HISTORY TV 18 HEVC" tvg-logo="https://go4.pw/India/Historytv18.png" group-title="AS | HINDI",HINDI - HISTORY TV 18 HEVC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1002450557.m3u8
+#EXTINF:-1 tvg-name="HINDI - THE Q ENTERTAINMENT" tvg-logo="https://go4.pw/India/THE Q ENTERTAINMENT.png" group-title="AS | HINDI",HINDI - THE Q ENTERTAINMENT
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1075259161.m3u8
+#EXTINF:-1 tvg-name="HINDI - SHEMAROO TV HD" tvg-logo="https://go4.pw/ASIA/INDIA/SHEMAROO_TV.png" group-title="AS | HINDI",HINDI - SHEMAROO TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/834327037.m3u8
+#EXTINF:-1 tvg-name="HINDI - MNX FHD" tvg-logo="https://go4.pw/India/MNX .png" group-title="AS | HINDI",HINDI - MNX FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1941523045.m3u8
+#EXTINF:-1 tvg-name="HINDI - MAHA MOVIE HD" tvg-logo="https://go4.pw/ASIA/TELEGU/MAAMOVIESHD.png" group-title="AS | HINDI",HINDI - MAHA MOVIE HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1343202253.m3u8
+#EXTINF:-1 tvg-name="HINDI - ETV CINEMA" tvg-logo="https://go4.pw/ASIA/TELEGU/ETVCINEMA.png" group-title="AS | HINDI",HINDI - ETV CINEMA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2114324990.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZING" tvg-logo="https://go4.pw/India/zing.png" group-title="AS | HINDI",HINDI - ZING
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/145455118.m3u8
+#EXTINF:-1 tvg-name="HINDI - ROMEDY NOW" tvg-logo="https://go4.pw/ASIA/INDIA/ROMEDY_NOW_HD.png" group-title="AS | HINDI",HINDI - ROMEDY NOW
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2063041979.m3u8
+#EXTINF:-1 tvg-name="HINDI - MANORANJAN" tvg-logo="https://go4.pw/ASIA/TELEGU/MAAMOVIESHD.png" group-title="AS | HINDI",HINDI - MANORANJAN
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/863841942.m3u8
+#EXTINF:-1 tvg-name="HINDI - MAA MOVIES" tvg-logo="https://go4.pw/ASIA/TELEGU/MAAMOVIESHD.png" group-title="AS | HINDI",HINDI - MAA MOVIES
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1637589955.m3u8
+#EXTINF:-1 tvg-name="IN - SHUBH CINEMA TV" tvg-logo="https://go4.pw/India/shubh cinema.png" group-title="AS | HINDI",IN - SHUBH CINEMA TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1875845548.m3u8
+#EXTINF:-1 tvg-name="IN - MANORANJAN GRAND" tvg-logo="https://go4.pw/ASIA/MANORAN.png" group-title="AS | HINDI",IN - MANORANJAN GRAND
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/669934263.m3u8
+#EXTINF:-1 tvg-name="HINDI - ENTER 10 HD" tvg-logo="https://go4.pw/EUROPE/SWEDEN/_OTT (8).png" group-title="AS | HINDI",HINDI - ENTER 10 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1059025212.m3u8
+#EXTINF:-1 tvg-name="HINDI - DISH CINE ACTIVE" group-title="AS | HINDI",HINDI - DISH CINE ACTIVE
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1997704013.m3u8
+#EXTINF:-1 tvg-name="HINDI - COMEDY ACTIVE" tvg-logo="https://go4.pw/India/COMEDY masala.png" group-title="AS | HINDI",HINDI - COMEDY ACTIVE
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/94943205.m3u8
+#EXTINF:-1 tvg-name="HINDI - CINEMA TV" tvg-logo="https://go4.pw/India/CINEMA TV.png" group-title="AS | HINDI",HINDI - CINEMA TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1475468663.m3u8
+#EXTINF:-1 tvg-name="HINDI - B4U MOVIES USA" tvg-logo="https://go4.pw/ASIA/INDIA/B4YOUMOVIES.png" group-title="AS | HINDI",HINDI - B4U MOVIES USA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1997048771.m3u8
+#EXTINF:-1 tvg-name="HINDI - B4U MOVIES INDIA" tvg-logo="https://go4.pw/ASIA/INDIA/B4YOUMOVIES.png" group-title="AS | HINDI",HINDI - B4U MOVIES INDIA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1439071811.m3u8
+#EXTINF:-1 tvg-name="HINDI - B4U KADAK" tvg-logo="https://go4.pw/ASIA/INDIA/B4U_KADAK_HD.png" group-title="AS | HINDI",HINDI - B4U KADAK
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1211604035.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZEE CLASSIC" tvg-logo="https://go4.pw/ASIA/INDIA/Zeeclassic.png" group-title="AS | HINDI",HINDI - ZEE CLASSIC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2087162716.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZEE CINEMA SD" tvg-logo="https://go4.pw/EUROPE/SWEDEN/_OTT (8).png" group-title="AS | HINDI",HINDI - ZEE CINEMA SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/594371304.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZEE CINEMA HD" tvg-logo="https://go4.pw/EUROPE/SWEDEN/_OTT (8).png" group-title="AS | HINDI",HINDI - ZEE CINEMA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1858869813.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZEE CINEMA FHD" tvg-logo="https://go4.pw/EUROPE/SWEDEN/_OTT (8).png" group-title="AS | HINDI",HINDI - ZEE CINEMA FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1611369093.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZEE CAFE HD" tvg-logo="https://go4.pw/India/ZEE cafe.png" group-title="AS | HINDI",HINDI - ZEE CAFE HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1435554294.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZEE ANMOL CINEMA" tvg-logo="https://go4.pw/ASIA/INDIAN/ZEEANMOLCINEMA.png" group-title="AS | HINDI",HINDI - ZEE ANMOL CINEMA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/271879949.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZEE ANMOL" tvg-logo="https://go4.pw/ASIA/INDIA/Zee_Anmol.png" group-title="AS | HINDI",HINDI - ZEE ANMOL
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/809378125.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZEE ACTION" tvg-logo="https://go4.pw/India/ZEE ACTION.png" group-title="AS | HINDI",HINDI - ZEE ACTION
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1582342320.m3u8
+#EXTINF:-1 tvg-name="HINDI - TATA SKY THEATRE FHD" tvg-logo="https://go4.pw/India/_TATA SKY THEATRE.png" group-title="AS | HINDI",HINDI - TATA SKY THEATRE FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/343456803.m3u8
+#EXTINF:-1 tvg-name="HINDI - STAR GOLD SELECT FHD" tvg-logo="https://go4.pw/India/star_golDslct.png" group-title="AS | HINDI",HINDI - STAR GOLD SELECT FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/461554775.m3u8
+#EXTINF:-1 tvg-name="HINDI - STAR GOLD 2" tvg-logo="https://go4.pw/India/STARGOLD2.png" group-title="AS | HINDI",HINDI - STAR GOLD 2
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/4892209.m3u8
+#EXTINF:-1 tvg-name="HINDI - STAR GOLD HD" tvg-logo="https://go4.pw/India/star_golD.png" group-title="AS | HINDI",HINDI - STAR GOLD HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/358836121.m3u8
+#EXTINF:-1 tvg-name="HINDI - STAR GOLD FHD" tvg-logo="https://go4.pw/India/star_golD.png" group-title="AS | HINDI",HINDI - STAR GOLD FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/547623992.m3u8
+#EXTINF:-1 tvg-name="HINDI - SONY WAH" tvg-logo="https://go4.pw/India/SONY_wah.png" group-title="AS | HINDI",HINDI - SONY WAH
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/287690048.m3u8
+#EXTINF:-1 tvg-name="HINDI - SONY PIX FHD" tvg-logo="https://go4.pw/India/Sonypix.png" group-title="AS | HINDI",HINDI - SONY PIX FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/316697561.m3u8
+#EXTINF:-1 tvg-name="HINDI - SONY MAX 2 HD" tvg-logo="https://go4.pw/ASIA/INDIA/Sony_Max_2.png" group-title="AS | HINDI",HINDI - SONY MAX 2 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1993744868.m3u8
+#EXTINF:-1 tvg-name="HINDI - SONY MAX 2" tvg-logo="https://go4.pw/ASIA/INDIA/Sony_Max_2.png" group-title="AS | HINDI",HINDI - SONY MAX 2
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/188613497.m3u8
+#EXTINF:-1 tvg-name="HINDI - SONY MAX HD" tvg-logo="https://go4.pw/India/Sonymx.png" group-title="AS | HINDI",HINDI - SONY MAX HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/114757554.m3u8
+#EXTINF:-1 tvg-name="HINDI - SONY MAX FHD" tvg-logo="https://go4.pw/India/Sonymx.png" group-title="AS | HINDI",HINDI - SONY MAX FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1580920692.m3u8
+#EXTINF:-1 tvg-name="HINDI - COLORS INFINITY FHD" tvg-logo="https://go4.pw/EUROPE/SWEDEN/_OTT (8).png" group-title="AS | HINDI",HINDI - COLORS INFINITY FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1636626154.m3u8
+#EXTINF:-1 tvg-name="HINDI - COLORS CINEPLEX SD" tvg-logo="https://go4.pw/EUROPE/SWEDEN/_OTT (8).png" group-title="AS | HINDI",HINDI - COLORS CINEPLEX SD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/817402103.m3u8
+#EXTINF:-1 tvg-name="HINDI - COLORS CINEPLEX FHD" tvg-logo="https://go4.pw/EUROPE/SWEDEN/_OTT (8).png" group-title="AS | HINDI",HINDI - COLORS CINEPLEX FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/495420356.m3u8
+#EXTINF:-1 tvg-name="HINDI - & PRIVE FHD" tvg-logo="https://go4.pw/EUROPE/SWEDEN/_OTT (8).png" group-title="AS | HINDI",HINDI - & PRIVE FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/97327603.m3u8
+#EXTINF:-1 tvg-name="HINDI - & PICTURES FHD" tvg-logo="https://go4.pw/EUROPE/SWEDEN/_OTT (8).png" group-title="AS | HINDI",HINDI - & PICTURES FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/50606282.m3u8
+#EXTINF:-1 tvg-name="HINDI - & PICTURES" tvg-logo="https://go4.pw/EUROPE/SWEDEN/_OTT (8).png" group-title="AS | HINDI",HINDI - & PICTURES
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1334382922.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZOOM TV" tvg-logo="https://go4.pw/ASIA/INDIAN/ZOOMTVHD.png" group-title="AS | HINDI",HINDI - ZOOM TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/929856724.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZOOM" tvg-logo="https://go4.pw/ASIA/INDIAN/ZOOMTVHD.png" group-title="AS | HINDI",HINDI - ZOOM
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/269664166.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZEE YUVA" tvg-logo="https://go4.pw/EUROPE/SWEDEN/_OTT (8).png" group-title="AS | HINDI",HINDI - ZEE YUVA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1022425402.m3u8
+#EXTINF:-1 tvg-name="IN - ZEE TV USA HD" tvg-logo="https://go4.pw/ASIA/INDIA/Zee_TV.png" group-title="AS | HINDI",IN - ZEE TV USA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2025701585.m3u8
+#EXTINF:-1 tvg-name="HINDI - ZEE TV" tvg-logo="https://go4.pw/ASIA/INDIA/Zee_TV.png" group-title="AS | HINDI",HINDI - ZEE TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1656902735.m3u8
+#EXTINF:-1 tvg-name="HINDI - VEDIC TV" tvg-logo="https://go4.pw/ASIA/INDIA/Vedic-1.png" group-title="AS | HINDI",HINDI - VEDIC TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/474679152.m3u8
+#EXTINF:-1 tvg-name="IN - ZEE SARTHAK" tvg-logo="https://go4.pw/India/ZEE SARTHAK.png" group-title="AS | HINDI",IN - ZEE SARTHAK
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/236018845.m3u8
+#EXTINF:-1 tvg-name="IN - VENDHAR NEWS" tvg-logo="https://go4.pw/India/VENDHAR NEWS.png" group-title="AS | HINDI",IN - VENDHAR NEWS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1403202161.m3u8
+#EXTINF:-1 tvg-name="HINDI - UTSAV PLUS" tvg-logo="https://go4.pw/India/UTSAV PLUS.png" group-title="AS | HINDI",HINDI - UTSAV PLUS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/201592320.m3u8
+#EXTINF:-1 tvg-name="IN - SUN TV" tvg-logo="https://go4.pw/ASIA/TAMIL/SUNTV.png" group-title="AS | HINDI",IN - SUN TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/589718458.m3u8
+#EXTINF:-1 tvg-name="HINDI - SUN MUSIC" tvg-logo="https://go4.pw/ASIA/INDIA/MUSIC.png" group-title="AS | HINDI",HINDI - SUN MUSIC
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1246969727.m3u8
+#EXTINF:-1 tvg-name="HINDI - STAR UTSAV" tvg-logo="https://go4.pw/India/star_UTSAV.png" group-title="AS | HINDI",HINDI - STAR UTSAV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/690616468.m3u8
+#EXTINF:-1 tvg-name="HINDI - STAR PLUS HD" tvg-logo="https://go4.pw/ASIA/INDIA/STAR-PLUS-INDIA.png" group-title="AS | HINDI",HINDI - STAR PLUS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/569214742.m3u8
+#EXTINF:-1 tvg-name="HINDI - STAR PLUS" tvg-logo="https://go4.pw/ASIA/INDIA/STAR-PLUS-INDIA.png" group-title="AS | HINDI",HINDI - STAR PLUS
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/616561050.m3u8
+#EXTINF:-1 tvg-name="HINDI - STAR MOVIES FHD" tvg-logo="https://go4.pw/PORTUGAL/2.png" group-title="AS | HINDI",HINDI - STAR MOVIES FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1733611506.m3u8
+#EXTINF:-1 tvg-name="HINDI - STAR GOLD 2 FHD" tvg-logo="https://go4.pw/India/STARGOLD2.png" group-title="AS | HINDI",HINDI - STAR GOLD 2 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1369187048.m3u8
+#EXTINF:-1 tvg-name="HINDI - STAR BHARAT UK" tvg-logo="https://go4.pw/India/_STAR BHARAT.png" group-title="AS | HINDI",HINDI - STAR BHARAT UK
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1387041560.m3u8
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="HINDI - STAR BHARAT UHD" tvg-logo="https://go4.pw/India/_STAR BHARAT.png" group-title="AS | HINDI",HINDI - STAR BHARAT UHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2059712168.m3u8
+#EXTINF:-1 tvg-name="HINDI - STAR BHARAT HD" tvg-logo="https://go4.pw/India/_STAR BHARAT.png" group-title="AS | HINDI",HINDI - STAR BHARAT HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/745320771.m3u8
+#EXTINF:-1 tvg-name="IN - STAR PRAVAH FHD" tvg-logo="https://go4.pw/India/STAR PRAVAH.png" group-title="AS | HINDI",IN - STAR PRAVAH FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1366098563.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SOHAM TV" tvg-logo="https://go4.pw/ASIA/INDIA/soham.png" group-title="AS | HINDI",HINDI - SOHAM TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/989711964.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - CINEPLEX HD" tvg-logo="https://go4.pw/ASIA/INDIAN/CINEPLEXHD.png" group-title="AS | HINDI",HINDI - CINEPLEX HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1511041955.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - & PICTURES" tvg-logo="https://go4.pw/ASIA/INDIA/&_PICTURES.png" group-title="AS | HINDI",HINDI - & PICTURES
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1013771624.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - COLORS RISHTEY FHD" tvg-logo="https://go4.pw/ASIA/INDIA/ColorsRisthey.png" group-title="AS | HINDI",HINDI - COLORS RISHTEY FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1046056779.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="IN - ATN MUSIC HD" tvg-logo="https://go4.pw/ASIA/INDIA/ATN_MUSIC.png" group-title="AS | HINDI",IN - ATN MUSIC HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1800800111.m3u8
+#EXTINF:-1 tvg-name="IN - ASIAN TV" tvg-logo="https://go4.pw/India/ASIAN TV.png" group-title="AS | HINDI",IN - ASIAN TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1200047767.m3u8
+#EXTINF:-1 tvg-name="IN - ASIANET HD" tvg-logo="https://go4.pw/ASIA/INDIA/ASIANET.png" group-title="AS | HINDI",IN - ASIANET HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1065740619.m3u8
+#EXTINF:-1 tvg-name="HINDI - WE TV" tvg-logo="https://go4.pw/EUROPE/SWEDEN/_OTT (8).png" group-title="AS | HINDI",HINDI - WE TV
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1905903383.m3u8
+#EXTINF:-1 tvg-name="HINDI - STAR JALSHA" tvg-logo="https://go4.pw/ASIA/INDIA/STAR-JALSHA.png" group-title="AS | HINDI",HINDI - STAR JALSHA
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1524373538.m3u8
+#EXTINF:-1 tvg-name="HINDI - FOOD FOOD HD" tvg-logo="https://go4.pw/India/_foodfood.png" group-title="AS | HINDI",HINDI - FOOD FOOD HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/776010951.m3u8
+#EXTINF:-1 tvg-name="HINDI - ASTRO CRICKET HD" tvg-logo="https://go4.pw/ASIA/astrocr.png" group-title="AS | HINDI",HINDI - ASTRO CRICKET HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1515267768.m3u8
+#EXTINF:-1 tvg-name="##### PK - PAKISTAN #####" tvg-logo="https://go4.pw/MAGFLAGS/PAKISTAN.png" group-title="AS | PAKISTAN",##### PK - PAKISTAN #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/68943378.m3u8
+#EXTINF:-1 tvg-name="##### PK - EU #####" tvg-logo="https://go4.pw/MAGFLAGS/PAKISTAN.png" group-title="AS | PAKISTAN",##### PK - EU #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1262704290.m3u8
+#EXTINF:-1 tvg-id="92News.pk" tvg-name="PK - EU| 92 NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/92NEWS.png" group-title="AS | PAKISTAN",PK - EU| 92 NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/529650273.m3u8
+#EXTINF:-1 tvg-id="GeoTV.pk" tvg-name="PK - EU| GEO TV HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/GEO-TV.png" group-title="AS | PAKISTAN",PK - EU| GEO TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/520084470.m3u8
+#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name="PK - EU| GEO NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/GEO-TV.png" group-title="AS | PAKISTAN",PK - EU| GEO NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/989728624.m3u8
+#EXTINF:-1 tvg-id="GeoKahani.pk" tvg-name="PK - EU| GEO KAHANI HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/Geo_Kahani.png" group-title="AS | PAKISTAN",PK - EU| GEO KAHANI HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1122032596.m3u8
+#EXTINF:-1 tvg-id="humtveurope.uk" tvg-name="PK - EU| HUM TV HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/Hum_TV.png" group-title="AS | PAKISTAN",PK - EU| HUM TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/942440764.m3u8
+#EXTINF:-1 tvg-name="PK - EU| HUM MASALA HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/MASALA.png" group-title="AS | PAKISTAN",PK - EU| HUM MASALA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2033336224.m3u8
+#EXTINF:-1 tvg-name="PK - EU| PEACE TV URDU HD" tvg-logo="https://go4.pw/ALBANIA/PEACE TV.png" group-title="AS | PAKISTAN",PK - EU| PEACE TV URDU HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1655198300.m3u8
+#EXTINF:-1 tvg-name="PK - EU| ISLAM CHANNEL URDU HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/uk-islam.png" group-title="AS | PAKISTAN",PK - EU| ISLAM CHANNEL URDU HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1921422827.m3u8
+#EXTINF:-1 tvg-name="PK - EU| ARY FAMILY HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - EU| ARY FAMILY HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/699011379.m3u8
+#EXTINF:-1 tvg-name="##### PK - UK #####" tvg-logo="https://go4.pw/MAGFLAGS/PAKISTAN.png" group-title="AS | PAKISTAN",##### PK - UK #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1715481279.m3u8
+#EXTINF:-1 tvg-name="PK - UK| HUM NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/Hum_TV.png" group-title="AS | PAKISTAN",PK - UK| HUM NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1547762241.m3u8
+#EXTINF:-1 tvg-name="PK - UK| ARY DIGITAL HD" tvg-logo="https://go4.pw//ASIA/PAKISTAN/UK ARY DIGITAL.png" group-title="AS | PAKISTAN",PK - UK| ARY DIGITAL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/477535904.m3u8
+#EXTINF:-1 tvg-name="PK - UK| HUM NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/Hum_TV.png" group-title="AS | PAKISTAN",PK - UK| HUM NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1289783217.m3u8
+#EXTINF:-1 tvg-id="dunyanews.pk" tvg-name="PK - UK| DUNYA NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/DUNYANEWS.png" group-title="AS | PAKISTAN",PK - UK| DUNYA NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2076671645.m3u8
+#EXTINF:-1 tvg-name="PK - UK| PEACE TV HD" tvg-logo="https://go4.pw/ALBANIA/PEACE TV.png" group-title="AS | PAKISTAN",PK - UK| PEACE TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/520926056.m3u8
+#EXTINF:-1 tvg-name="PK - UK| SAMAA HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/SAMAA.png" group-title="AS | PAKISTAN",PK - UK| SAMAA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1489271841.m3u8
+#EXTINF:-1 tvg-name="PK - UK| ISLAM CHANNEL HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/uk-islam.png" group-title="AS | PAKISTAN",PK - UK| ISLAM CHANNEL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1036970820.m3u8
+#EXTINF:-1 tvg-name="PK - UK| NOOR TV HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/NOORTV.png" group-title="AS | PAKISTAN",PK - UK| NOOR TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/392054473.m3u8
+#EXTINF:-1 tvg-name="PK - UK| IQRA TV HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/IQRATV.png" group-title="AS | PAKISTAN",PK - UK| IQRA TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2030710605.m3u8
+#EXTINF:-1 tvg-name="PK - UK| TAKBEER HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/TAKBEERTV.png" group-title="AS | PAKISTAN",PK - UK| TAKBEER HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/250864855.m3u8
+#EXTINF:-1 tvg-id="PTVGlobal.pk" tvg-name="PK - UK| PTV GLOBAL HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/PTV-GLOBAL.png" group-title="AS | PAKISTAN",PK - UK| PTV GLOBAL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/725768121.m3u8
+#EXTINF:-1 tvg-name="PK - UK| MADANI CHANNEL HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/MADANICHANNEL.png" group-title="AS | PAKISTAN",PK - UK| MADANI CHANNEL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/232482912.m3u8
+#EXTINF:-1 tvg-name="PK - UK| PEACE TV URDU HD" tvg-logo="https://go4.pw//ASIA/PAKISTAN/UK PEACE TV URDU.png" group-title="AS | PAKISTAN",PK - UK| PEACE TV URDU HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1267442322.m3u8
+#EXTINF:-1 tvg-name="PK - UK| AHLULBAYT TV HD" tvg-logo="https://go4.pw//ASIA/PAKISTAN/UK AHLULBAYT TV.png" group-title="AS | PAKISTAN",PK - UK| AHLULBAYT TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1256095635.m3u8
+#EXTINF:-1 tvg-name="PK - UK| EMAN CHANNEL HD" tvg-logo="https://go4.pw//ASIA/PAKISTAN/UK EMAN CHANNEL.png" group-title="AS | PAKISTAN",PK - UK| EMAN CHANNEL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/798763349.m3u8
+#EXTINF:-1 tvg-name="##### PK - NEWS #####" tvg-logo="https://go4.pw/MAGFLAGS/PAKISTAN.png" group-title="AS | PAKISTAN",##### PK - NEWS #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/58065712.m3u8
+#EXTINF:-1 tvg-id="geonews.pk" tvg-name="PK - GEO NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/GEO-TV.png" group-title="AS | PAKISTAN",PK - GEO NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1376612267.m3u8
+#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK - ARY NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1652443329.m3u8
+#EXTINF:-1 tvg-name="PK - BOL NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/BOL.png" group-title="AS | PAKISTAN",PK - BOL NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/467012300.m3u8
+#EXTINF:-1 tvg-name="PK - KTN NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/KTN-ENTERTAINMENT.png" group-title="AS | PAKISTAN",PK - KTN NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1718214623.m3u8
+#EXTINF:-1 tvg-name="PK - LAHORE NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/LAHORE-NEWS.png" group-title="AS | PAKISTAN",PK - LAHORE NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1693832623.m3u8
+#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK - PTV NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/359144437.m3u8
+#EXTINF:-1 tvg-name="PK - NEO NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/NEONEWS.png" group-title="AS | PAKISTAN",PK - NEO NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/281559280.m3u8
+#EXTINF:-1 tvg-name="PK - NEWS ONE HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/NEWSONE.png" group-title="AS | PAKISTAN",PK - NEWS ONE HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1105786295.m3u8
+#EXTINF:-1 tvg-name="PK - PUBLIC NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/PUBLIC.png" group-title="AS | PAKISTAN",PK - PUBLIC NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/73038978.m3u8
+#EXTINF:-1 tvg-name="PK - ROZE NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/ROZENEWS.png" group-title="AS | PAKISTAN",PK - ROZE NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1425963525.m3u8
+#EXTINF:-1 tvg-name="PK - SINDH NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/SINDH.png" group-title="AS | PAKISTAN",PK - SINDH NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1377329474.m3u8
+#EXTINF:-1 tvg-id="samaatv.pk" tvg-name="PK - SAAMA NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/SAMAA.png" group-title="AS | PAKISTAN",PK - SAAMA NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2048803482.m3u8
+#EXTINF:-1 tvg-name="PK - BOL NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/BOL.png" group-title="AS | PAKISTAN",PK - BOL NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1682231649.m3u8
+#EXTINF:-1 tvg-id="expressnews.pk" tvg-name="PK - EXPRESS NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/EXPRESS-NEWS.png" group-title="AS | PAKISTAN",PK - EXPRESS NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1475901483.m3u8
+#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK - 92 NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/92NEWS.png" group-title="AS | PAKISTAN",PK - 92 NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2045618401.m3u8
+#EXTINF:-1 tvg-name="PK - ABB TAKK NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/AAJTAK.png" group-title="AS | PAKISTAN",PK - ABB TAKK NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1776109033.m3u8
+#EXTINF:-1 tvg-name="PK - DAWN NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/DUNIA-TV.png" group-title="AS | PAKISTAN",PK - DAWN NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1037668183.m3u8
+#EXTINF:-1 tvg-name="PK - ABN NEWS HD" tvg-logo="https://go4.pw/ICELAND/ABN_NEWS.png" group-title="AS | PAKISTAN",PK - ABN NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1760422227.m3u8
+#EXTINF:-1 tvg-name="PK - GNN NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/GNN.png" group-title="AS | PAKISTAN",PK - GNN NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1742978931.m3u8
+#EXTINF:-1 tvg-name="PK - KHYBER NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/KHYBERNEWS.png" group-title="AS | PAKISTAN",PK - KHYBER NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2019106175.m3u8
+#EXTINF:-1 tvg-name="PK - KOHINOOR NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/KOHINOOR-TV.png" group-title="AS | PAKISTAN",PK - KOHINOOR NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1700034342.m3u8
+#EXTINF:-1 tvg-name="PK - CITY 41 NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/C-41.png" group-title="AS | PAKISTAN",PK - CITY 41 NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/732845477.m3u8
+#EXTINF:-1 tvg-name="PK - SUCH NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/SUCH.png" group-title="AS | PAKISTAN",PK - SUCH NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1882855411.m3u8
+#EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="PK - DUNYA NEWS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/DUNYANEWS.png" group-title="AS | PAKISTAN",PK - DUNYA NEWS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/430497702.m3u8
+#EXTINF:-1 tvg-name="PK - CAPITAL TV HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/SINDHA-TV.png" group-title="AS | PAKISTAN",PK - CAPITAL TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/94194163.m3u8
+#EXTINF:-1 tvg-name="PK - CITY 42 HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/CITY42.png" group-title="AS | PAKISTAN",PK - CITY 42 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1325597329.m3u8
+#EXTINF:-1 tvg-name="PK - SAMAA TV HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/SAMAA.png" group-title="AS | PAKISTAN",PK - SAMAA TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1076040934.m3u8
+#EXTINF:-1 tvg-name="PK - CHANNEL 24 HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/24_News.png" group-title="AS | PAKISTAN",PK - CHANNEL 24 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1605488177.m3u8
+#EXTINF:-1 tvg-name="PK - APNA CHANNEL HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/APNA.png" group-title="AS | PAKISTAN",PK - APNA CHANNEL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2041868929.m3u8
+#EXTINF:-1 tvg-name="##### PK - ENTERTAINMENT #####" tvg-logo="https://go4.pw/MAGFLAGS/PAKISTAN.png" group-title="AS | PAKISTAN",##### PK - ENTERTAINMENT #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/520519472.m3u8
+#EXTINF:-1 tvg-name="PK - GEO ENTERTAINMENT HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK - GEO ENTERTAINMENT HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/63672175.m3u8
+#EXTINF:-1 tvg-name="PK - EXPRESS ENTERTINMENT HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/EXPRESSENTERTINMENT.png" group-title="AS | PAKISTAN",PK - EXPRESS ENTERTINMENT HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2099906052.m3u8
+#EXTINF:-1 tvg-name="PK - AAJ ENTERTAINMENT HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/Aajentertainment.png" group-title="AS | PAKISTAN",PK - AAJ ENTERTAINMENT HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2097583907.m3u8
+#EXTINF:-1 tvg-name="PK - BOL ENTERTAINMENT HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/BOL.png" group-title="AS | PAKISTAN",PK - BOL ENTERTAINMENT HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/155123504.m3u8
+#EXTINF:-1 tvg-name="PK - ATV ENTERTAINMENT HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/ATV.png" group-title="AS | PAKISTAN",PK - ATV ENTERTAINMENT HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/919000863.m3u8
+#EXTINF:-1 tvg-name="PK - SINDH ENTERTAINMENT HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/SINDH.png" group-title="AS | PAKISTAN",PK - SINDH ENTERTAINMENT HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/940478886.m3u8
+#EXTINF:-1 tvg-name="PK - FILMAZIA ENTERTAINMENT HD" tvg-logo="https://go4.pw//ASIA/PAKISTAN/FILMAZIA ENTERTAINMENT.png" group-title="AS | PAKISTAN",PK - FILMAZIA ENTERTAINMENT HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/574190752.m3u8
+#EXTINF:-1 tvg-name="PK - SAB ENTERTAINMENT HD" tvg-logo="https://go4.pw/ASIA/SAB.png" group-title="AS | PAKISTAN",PK - SAB ENTERTAINMENT HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/284158270.m3u8
+#EXTINF:-1 tvg-name="PK - TV 2 DAY HD" tvg-logo="https://go4.pw/ASIA/TV-TODAY.png" group-title="AS | PAKISTAN",PK - TV 2 DAY HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/147516146.m3u8
+#EXTINF:-1 tvg-name="PK - CHANNEL 44 HD" tvg-logo="https://go4.pw/ASIA/4-4.png" group-title="AS | PAKISTAN",PK - CHANNEL 44 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1032542368.m3u8
+#EXTINF:-1 tvg-id="humsitaray.pk" tvg-name="PK - HUM SITARY HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/HUMSITARAY.png" group-title="AS | PAKISTAN",PK - HUM SITARY HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/664782657.m3u8
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK - HUM TV HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/Hum_TV.png" group-title="AS | PAKISTAN",PK - HUM TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/490403246.m3u8
+#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK - ARY DIGITAL HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY DIGITAL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2104356629.m3u8
+#EXTINF:-1 tvg-id="aryqtv.pk" tvg-name="PK - ARY QTV HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY QTV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1786089565.m3u8
+#EXTINF:-1 tvg-id="aryzindagi.pk" tvg-name="PK - ARY ZINDAGI HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY ZINDAGI HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1745347646.m3u8
+#EXTINF:-1 tvg-name="PK - CAPITAL TV WASHINGTON HD" tvg-logo="https://go4.pw//ASIA/PAKISTAN/CAPITALTVW.png" group-title="AS | PAKISTAN",PK - CAPITAL TV WASHINGTON HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/134448981.m3u8
+#EXTINF:-1 tvg-name="PK - LAHROE RANG HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/LAHROERANG.png" group-title="AS | PAKISTAN",PK - LAHROE RANG HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1530720322.m3u8
+#EXTINF:-1 tvg-id="ptvworld.pk" tvg-name="PK - PTV WORLD HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV WORLD HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1907421621.m3u8
+#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="PK - PTV GLOBAL HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/PTV-GLOBAL.png" group-title="AS | PAKISTAN",PK - PTV GLOBAL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1315336264.m3u8
+#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PK - PTV HOME HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV HOME HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1769599160.m3u8
+#EXTINF:-1 tvg-name="PK - PTV BOLAN HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV BOLAN HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/331753253.m3u8
+#EXTINF:-1 tvg-id="hummasala.pk" tvg-name="PK - MASALA TV HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/MASALA.png" group-title="AS | PAKISTAN",PK - MASALA TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1469742379.m3u8
+#EXTINF:-1 tvg-name="PK - K-21 HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/K-21.png" group-title="AS | PAKISTAN",PK - K-21 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/474496810.m3u8
+#EXTINF:-1 tvg-name="PK - HADI HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/HADI.png" group-title="AS | PAKISTAN",PK - HADI HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/427144820.m3u8
+#EXTINF:-1 tvg-name="PK - KASHISH TV HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/HASHISH-TV.png" group-title="AS | PAKISTAN",PK - KASHISH TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1731104377.m3u8
+#EXTINF:-1 tvg-name="PK - METRO ONE HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/METROONE.png" group-title="AS | PAKISTAN",PK - METRO ONE HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1891569444.m3u8
+#EXTINF:-1 tvg-name="PK - CHANNEL 24 HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/24_News.png" group-title="AS | PAKISTAN",PK - CHANNEL 24 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/240803065.m3u8
+#EXTINF:-1 tvg-name="PK - AHLEBAIT TV HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/AHLEBAIT.png" group-title="AS | PAKISTAN",PK - AHLEBAIT TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2129214317.m3u8
+#EXTINF:-1 tvg-name="PK - ARY FAMILY HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY FAMILY HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1384543881.m3u8
+#EXTINF:-1 tvg-name="PK - GTV HD" tvg-logo="https://go4.pw//ASIA/PAKISTAN/GTV HD.png" group-title="AS | PAKISTAN",PK - GTV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1811608729.m3u8
+#EXTINF:-1 tvg-name="PK - RAAVI HD" tvg-logo="https://go4.pw//ASIA/PAKISTAN/RAAVI.png" group-title="AS | PAKISTAN",PK - RAAVI HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1866562320.m3u8
+#EXTINF:-1 tvg-name="PK - GREEN ENT HD" tvg-logo="https://go4.pw//ASIA/PAKISTAN/GREEN ENT HD.png" group-title="AS | PAKISTAN",PK - GREEN ENT HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2033319814.m3u8
+#EXTINF:-1 tvg-name="PK - KOHENOOR TV HD" tvg-logo="https://go4.pw/ASIA/KN.png" group-title="AS | PAKISTAN",PK - KOHENOOR TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2010998928.m3u8
+#EXTINF:-1 tvg-id="GeoTez.pk" tvg-name="PK - GEO TEZZ HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK - GEO TEZZ HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/570920611.m3u8
+#EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK - GEO KAHANI HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/Geo_Kahani.png" group-title="AS | PAKISTAN",PK - GEO KAHANI HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1624515173.m3u8
+#EXTINF:-1 tvg-id="tvone.pk" tvg-name="PK - TV ONE HD" tvg-logo="https://go4.pw/INDONESIA/" group-title="AS | PAKISTAN",PK - TV ONE HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1901862802.m3u8
+#EXTINF:-1 tvg-id="urdu1.pk" tvg-name="PK - URDU 1 HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/URDU1.png" group-title="AS | PAKISTAN",PK - URDU 1 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/413363467.m3u8
+#EXTINF:-1 tvg-name="PK - LTN FAMILY HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/LTNFAMILY.png" group-title="AS | PAKISTAN",PK - LTN FAMILY HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/826104523.m3u8
+#EXTINF:-1 tvg-name="PK - KAY 2 HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/KAY-2.png" group-title="AS | PAKISTAN",PK - KAY 2 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/860643002.m3u8
+#EXTINF:-1 tvg-name="PK - A PLUS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/A-PLUS.png" group-title="AS | PAKISTAN",PK - A PLUS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/3222265.m3u8
+#EXTINF:-1 tvg-name="##### PK - RELIGIOUS #####" tvg-logo="https://go4.pw/MAGFLAGS/PAKISTAN.png" group-title="AS | PAKISTAN",##### PK - RELIGIOUS #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/592422706.m3u8
+#EXTINF:-1 tvg-name="PK - QURAN TV HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/QURAN.png" group-title="AS | PAKISTAN",PK - QURAN TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/10338955.m3u8
+#EXTINF:-1 tvg-name="PK - HIDAYAT TV  HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/hidayat-tv.png" group-title="AS | PAKISTAN",PK - HIDAYAT TV  HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1932551175.m3u8
+#EXTINF:-1 tvg-name="PK - MADANI CHANNEL HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/MADANICHANNEL.png" group-title="AS | PAKISTAN",PK - MADANI CHANNEL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/830811017.m3u8
+#EXTINF:-1 tvg-name="PK - PEACE TV ENGLISH HD" tvg-logo="https://go4.pw/ALBANIA/PEACE TV.png" group-title="AS | PAKISTAN",PK - PEACE TV ENGLISH HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1006089032.m3u8
+#EXTINF:-1 tvg-name="PK - MTA-MUSLIM TV HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/MTA-MUSLIM.png" group-title="AS | PAKISTAN",PK - MTA-MUSLIM TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/963367479.m3u8
+#EXTINF:-1 tvg-name="##### PK - SPORTS #####" tvg-logo="https://go4.pw/MAGFLAGS/PAKISTAN.png" group-title="AS | PAKISTAN",##### PK - SPORTS #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1188305686.m3u8
+#EXTINF:-1 tvg-name="PK - EUROSPORT HD" tvg-logo="https://go4.pw/EUROPE/NORWAY/EUROSPORT.png" group-title="AS | PAKISTAN",PK - EUROSPORT HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1462633378.m3u8
+#EXTINF:-1 tvg-name="PK - PTV SPORTS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV SPORTS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1786710871.m3u8
+#EXTINF:-1 tvg-name="PK - PTV SPORTS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV SPORTS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1055147786.m3u8
+#EXTINF:-1 tvg-name="PK - TEN SPORTS HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/TEN-SPORTS.png" group-title="AS | PAKISTAN",PK - TEN SPORTS HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1455389549.m3u8
+#EXTINF:-1 tvg-name="##### PK - DOCUMENTARY / LIFESTYLE #####" tvg-logo="https://go4.pw/MAGFLAGS/PAKISTAN.png" group-title="AS | PAKISTAN",##### PK - DOCUMENTARY / LIFESTYLE #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/669646074.m3u8
+#EXTINF:-1 tvg-name="PK - DISCOVER PAKISTAN HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/DP-Shadow-Logo.png" group-title="AS | PAKISTAN",PK - DISCOVER PAKISTAN HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1756823336.m3u8
+#EXTINF:-1 tvg-name="PK - ANIMAL PLANET HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/ANIMALPLANET.png" group-title="AS | PAKISTAN",PK - ANIMAL PLANET HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1199237193.m3u8
+#EXTINF:-1 tvg-name="PK - TLC HD WORLD HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/TLCHDWORLD.png" group-title="AS | PAKISTAN",PK - TLC HD WORLD HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/590535741.m3u8
+#EXTINF:-1 tvg-name="##### PK - KIDS #####" tvg-logo="https://go4.pw/MAGFLAGS/PAKISTAN.png" group-title="AS | PAKISTAN",##### PK - KIDS #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1340743350.m3u8
+#EXTINF:-1 tvg-name="PK - KIDS ZONE+ HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/KIDSZONE%2B.png" group-title="AS | PAKISTAN",PK - KIDS ZONE+ HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1949401922.m3u8
+#EXTINF:-1 tvg-name="PK - CARTOON NETWORK HD" tvg-logo="https://go4.pw/BEIN/BEINCARTONNETWORK-1.png" group-title="AS | PAKISTAN",PK - CARTOON NETWORK HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/589450136.m3u8
+#EXTINF:-1 tvg-name="##### PK - MOVIES / MUSIC #####" tvg-logo="https://go4.pw/MAGFLAGS/PAKISTAN.png" group-title="AS | PAKISTAN",##### PK - MOVIES / MUSIC #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1550556933.m3u8
+#EXTINF:-1 tvg-id="arymusik.pk" tvg-name="PK - ARY MUSIC HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY MUSIC HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1332969846.m3u8
+#EXTINF:-1 tvg-name="PK - FILMAX HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/Filmax.png" group-title="AS | PAKISTAN",PK - FILMAX HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1993654867.m3u8
+#EXTINF:-1 tvg-name="PK - FILM WORLD HD" tvg-logo="https://go4.pw/ASIA/FILM-WORLD.png" group-title="AS | PAKISTAN",PK - FILM WORLD HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1659394354.m3u8
+#EXTINF:-1 tvg-name="PK - 8XM HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/8XM.png" group-title="AS | PAKISTAN",PK - 8XM HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1238485617.m3u8
+#EXTINF:-1 tvg-name="PK - JALWA MUSIC HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/JALWA.png" group-title="AS | PAKISTAN",PK - JALWA MUSIC HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/85946327.m3u8
+#EXTINF:-1 tvg-name="PK - FILM WORLD HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/FILMWORLD.png" group-title="AS | PAKISTAN",PK - FILM WORLD HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1548682002.m3u8
+#EXTINF:-1 tvg-name="##### PK - REGIONAL / LOCAL #####" tvg-logo="https://go4.pw/MAGFLAGS/PAKISTAN.png" group-title="AS | PAKISTAN",##### PK - REGIONAL / LOCAL #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1584746887.m3u8
+#EXTINF:-1 tvg-name="PK - KTN TV HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/KTN-ENTERTAINMENT.png" group-title="AS | PAKISTAN",PK - KTN TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1857578930.m3u8
+#EXTINF:-1 tvg-name="PK - WASEEB TV HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/WASEEB.png" group-title="AS | PAKISTAN",PK - WASEEB TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2092942754.m3u8
+#EXTINF:-1 tvg-name="PK - ROHI TV HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/ROHI.png" group-title="AS | PAKISTAN",PK - ROHI TV HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1015615408.m3u8
+#EXTINF:-1 tvg-name="PK - AVT KHYBER HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/AVTKHYBER.png" group-title="AS | PAKISTAN",PK - AVT KHYBER HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/127539232.m3u8
+#EXTINF:-1 tvg-name="PK - PASHTO 1 HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/PASHTO.png" group-title="AS | PAKISTAN",PK - PASHTO 1 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2023144638.m3u8
+#EXTINF:-1 tvg-name="PK - Voice of South Asia HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/Voice-South Asia.png" group-title="AS | PAKISTAN",PK - Voice of South Asia HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1609724579.m3u8
+#EXTINF:-1 tvg-name="##### PK - GOLD TV 24/7 #####" tvg-logo="https://go4.pw/MAGFLAGS/PAKISTAN.png" group-title="AS | PAKISTAN",##### PK - GOLD TV 24/7 #####
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/717811831.m3u8
+#EXTINF:-1 tvg-name="PK - GOLD TV 24/7 | WARIS BAIG HD" tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="AS | PAKISTAN",PK - GOLD TV 24/7 | WARIS BAIG HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1800821011.m3u8
+#EXTINF:-1 tvg-name="PK - GOLD TV 24/7 | ARIF LOHAR HD" tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="AS | PAKISTAN",PK - GOLD TV 24/7 | ARIF LOHAR HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1265837681.m3u8
+#EXTINF:-1 tvg-name="PK - GOLD TV 24/7 | ARJUN RAMPAL HD" tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="AS | PAKISTAN",PK - GOLD TV 24/7 | ARJUN RAMPAL HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/863922270.m3u8
+#EXTINF:-1 tvg-name="PK - GOLD TV 24/7 | ARSHAD WARSI HD" tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="AS | PAKISTAN",PK - GOLD TV 24/7 | ARSHAD WARSI HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/765300493.m3u8
+#EXTINF:-1 tvg-name="PK - GOLD TV 24/7 | ASAD AMANAT ALI KHAN HD" tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="AS | PAKISTAN",PK - GOLD TV 24/7 | ASAD AMANAT ALI KHAN HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/898270471.m3u8
+#EXTINF:-1 tvg-name="PK - GOLD TV 24/7 | RESHMA HD" tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="AS | PAKISTAN",PK - GOLD TV 24/7 | RESHMA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1499101834.m3u8
+#EXTINF:-1 tvg-name="PK - GOLD TV 24/7 | AHMAD RUSHDI HD" tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="AS | PAKISTAN",PK - GOLD TV 24/7 | AHMAD RUSHDI HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1410077396.m3u8
+#EXTINF:-1 tvg-name="PK - GOLD TV 24/7 | HUMAIRA ARSHAD HD" tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="AS | PAKISTAN",PK - GOLD TV 24/7 | HUMAIRA ARSHAD HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/201203689.m3u8
+#EXTINF:-1 tvg-name="PK - GOLD TV 24/7 | INAYAT HUSSAIN BHATTI HD" tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="AS | PAKISTAN",PK - GOLD TV 24/7 | INAYAT HUSSAIN BHATTI HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/154427790.m3u8
+#EXTINF:-1 tvg-name="PK - GOLD TV 24/7 | RESHMA HD" tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="AS | PAKISTAN",PK - GOLD TV 24/7 | RESHMA HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1513890380.m3u8
+#EXTINF:-1 tvg-name="PK - CHANNEL 5" group-title="AS | PAKISTAN",PK - CHANNEL 5
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1636573205.m3u8
+#EXTINF:-1 tvg-name="PK - GEO SUPER HD" tvg-logo="https://go4.pw/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK - GEO SUPER HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/55790035.m3u8
+#EXTINF:-1 tvg-name="SPORTS - SPORTS 18 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/SPORTS 18 UK.png" group-title="AS | SPORTS",SPORTS - SPORTS 18 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1324730599.m3u8
+#EXTINF:-1 tvg-name="SPORTS - D SPORTS  FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/D SPORTS HD.png" group-title="AS | SPORTS",SPORTS - D SPORTS  FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/211263043.m3u8
+#EXTINF:-1 tvg-name="SPORTS - SONY SPORT TEN 5 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/SONY SPORT TEN 5 HD.png" group-title="AS | SPORTS",SPORTS - SONY SPORT TEN 5 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1080348426.m3u8
+#EXTINF:-1 tvg-name="SPORTS - STAR SPORTS 1 HD ENGLISH FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 1 HD HINDI.png" group-title="AS | SPORTS",SPORTS - STAR SPORTS 1 HD ENGLISH FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2052067106.m3u8
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="SPORTS - STAR SPORTS 1 HD HINDI FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 1 HD HINDI.png" group-title="AS | SPORTS",SPORTS - STAR SPORTS 1 HD HINDI FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1421338735.m3u8
+#EXTINF:-1 tvg-name="SPORTS - STAR SPORTS 2 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 2 HD.png" group-title="AS | SPORTS",SPORTS - STAR SPORTS 2 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1167313472.m3u8
+#EXTINF:-1 tvg-name="SPORTS - STAR SPORTS 3 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 3.png" group-title="AS | SPORTS",SPORTS - STAR SPORTS 3 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/31204982.m3u8
+#EXTINF:-1 tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 1 TELUGU.png" group-title="AS | SPORTS",SPORTS - STAR SPORTS SELECT 1 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/930994337.m3u8
+#EXTINF:-1 tvg-name="SPORTS - STAR SPORTS SELECT 2 HD" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 2 HD.png" group-title="AS | SPORTS",SPORTS - STAR SPORTS SELECT 2 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/658210024.m3u8
+#EXTINF:-1 tvg-name="SPORTS - TEN 1 HD" tvg-logo="https://go4.pw/ASIA/INDIAN/TEN 1 HD.png" group-title="AS | SPORTS",SPORTS - TEN 1 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/990689.m3u8
+#EXTINF:-1 tvg-name="SPORTS - TEN 2 HD" tvg-logo="https://go4.pw/ASIA/INDIAN/TEN 2 HD.png" group-title="AS | SPORTS",SPORTS - TEN 2 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/783543339.m3u8
+#EXTINF:-1 tvg-name="SPORTS - TEN 3 HD" tvg-logo="https://go4.pw/ASIA/INDIAN/TEN 3 HD.png" group-title="AS | SPORTS",SPORTS - TEN 3 HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/640199754.m3u8
+#EXTINF:-1 tvg-name="SPORTS - WILLOW CRICKET HD" tvg-logo="https://go4.pw/ASIA/INDIAN/WILLOW CRICKET HD.png" group-title="AS | SPORTS",SPORTS - WILLOW CRICKET HD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1076667196.m3u8
+#EXTINF:-1 tvg-name="SPORTS - DD SPORTS FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/DD SPORTS.png" group-title="AS | SPORTS",SPORTS - DD SPORTS FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/997304921.m3u8
+#EXTINF:-1 tvg-name="SPORTS - STAR SPORTS TAMIL FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS TAMIL.png" group-title="AS | SPORTS",SPORTS - STAR SPORTS TAMIL FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/2124881463.m3u8
+#EXTINF:-1 tvg-name="SPORTS - HUB SPORTS 1 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="AS | SPORTS",SPORTS - HUB SPORTS 1 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/4193144.m3u8
+#EXTINF:-1 tvg-name="SPORTS - HUB SPORTS 2 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="AS | SPORTS",SPORTS - HUB SPORTS 2 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1831327495.m3u8
+#EXTINF:-1 tvg-name="SPORTS - HUB SPORTS 3 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="AS | SPORTS",SPORTS - HUB SPORTS 3 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/83709278.m3u8
+#EXTINF:-1 tvg-name="SPORTS - HUB SPORTS 4 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="AS | SPORTS",SPORTS - HUB SPORTS 4 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1505109933.m3u8
+#EXTINF:-1 tvg-name="SPORTS - HUB SPORTS 5 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="AS | SPORTS",SPORTS - HUB SPORTS 5 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1876760519.m3u8
+#EXTINF:-1 tvg-name="SPORTS - STAR SPORTS 1 TELUGU FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 1 TELUGU .png" group-title="AS | SPORTS",SPORTS - STAR SPORTS 1 TELUGU FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/80862271.m3u8
+#EXTINF:-1 tvg-name="SPORTS - SPORTS 18 UK FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/SPORTS 18 UK.png" group-title="AS | SPORTS",SPORTS - SPORTS 18 UK FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/678531962.m3u8
+#EXTINF:-1 tvg-name="UK - NOW HK NOW SPORTS 1  FHD" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png" group-title="AS | SPORTS",UK - NOW HK NOW SPORTS 1  FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/295714775.m3u8
+#EXTINF:-1 tvg-name="UK - NOW HK NOW SPORTS 3 FHD" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png" group-title="AS | SPORTS",UK - NOW HK NOW SPORTS 3 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1290584550.m3u8
+#EXTINF:-1 tvg-name="UK - NOW HK NOW SPORTS 4 FHD" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png" group-title="AS | SPORTS",UK - NOW HK NOW SPORTS 4 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/837807108.m3u8
+#EXTINF:-1 tvg-name="UK - NOW HK NOW SPORTS 2 FHD" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png" group-title="AS | SPORTS",UK - NOW HK NOW SPORTS 2 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/425779478.m3u8
+#EXTINF:-1 tvg-name="UK - NOW HK NOW SPORTS 5 FHD" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png" group-title="AS | SPORTS",UK - NOW HK NOW SPORTS 5 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1589860509.m3u8
+#EXTINF:-1 tvg-name="UK - NOW HK NOW SPORTS 6 FHD" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png" group-title="AS | SPORTS",UK - NOW HK NOW SPORTS 6 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/629440923.m3u8
+#EXTINF:-1 tvg-name="UK - NOW HK NOW SPORTS 7 FHD" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png" group-title="AS | SPORTS",UK - NOW HK NOW SPORTS 7 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1935712945.m3u8
+#EXTINF:-1 tvg-name="SPORTS - SPORTS 18 2 FHD" group-title="AS | SPORTS",SPORTS - SPORTS 18 2 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1684795091.m3u8
+#EXTINF:-1 tvg-name="SPORTS - SPORTS 18 3 FHD" group-title="AS | SPORTS",SPORTS - SPORTS 18 3 FHD
+https://app.m3ueditor.com/serve/854fa9d701cc3f48/stream/1013305563.m3u8
