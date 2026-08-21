@@ -20,7 +20,7 @@ http://line.beemax.cc/live/CD786D/28C27D/63524.m3u8
 http://line.beemax.cc/live/CD786D/28C27D/112570.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMbHGcS/Aakash_Aath_Logo.png" tvg-name="Akash Bangla" group-title="Kolkata Bangla",Akash Bangla
 http://line.beemax.cc/live/CD786D/28C27D/108785.m3u8
-#EXTINF:-1 tvg-name="Tata Play Bangla Cinema HD" group-title="Kolkata Bangla",Tata Play Bangla Cinema HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgmRnCF97pyJ8foj88M6xsW_XfpYO4xvMEV4iwGpXzA&s=10" tvg-name="Tata Play Bangla Cinema HD" group-title="Kolkata Bangla",Tata Play Bangla Cinema HD
 http://line.beemax.cc/live/CD786D/28C27D/63329.m3u8
 
 #========== BANGLADESHI ==========
@@ -48,17 +48,17 @@ http://line.beemax.cc/live/CD786D/28C27D/108819.m3u8
 http://line.beemax.cc/live/CD786D/28C27D/108853.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMY8xJM/RTV.png" tvg-name="RTV" group-title="Bangladeshi",RTV
 http://line.beemax.cc/live/CD786D/28C27D/108833.m3u8
-#EXTINF:-1 tvg-name="News18 Bangla" group-title="Bangladeshi",News18 Bangla
+#EXTINF:-1 tvg-logo="" tvg-name="News18 Bangla" group-title="Bangladeshi",News18 Bangla
 http://line.beemax.cc/live/CD786D/28C27D/108838.m3u8
-#EXTINF:-1 tvg-name="News 24 HD" group-title="Bangladeshi",News 24 HD
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMYRTJJ/NEWS24.png" tvg-name="News 24 HD" group-title="Bangladeshi",News 24 HD
 http://line.beemax.cc/live/CD786D/28C27D/108849.m3u8
-#EXTINF:-1 tvg-name="Ananda TV" group-title="Bangladeshi",Ananda TV
+#EXTINF:-1 tvg-logo="" tvg-name="Ananda TV" group-title="Bangladeshi",Ananda TV
 http://line.beemax.cc/live/CD786D/28C27D/108878.m3u8
-#EXTINF:-1 tvg-name="Asian TV" group-title="Bangladeshi",Asian TV
+#EXTINF:-1 tvg-logo="" tvg-name="Asian TV" group-title="Bangladeshi",Asian TV
 http://line.beemax.cc/live/CD786D/28C27D/1440997.m3u8
-#EXTINF:-1 tvg-name="Bangla Vision" group-title="Bangladeshi",Bangla Vision
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMYRrfz/bangla_vision_tv.png" tvg-name="Bangla Vision" group-title="Bangladeshi",Bangla Vision
 http://line.beemax.cc/live/CD786D/28C27D/1441001.m3u8
-#EXTINF:-1 tvg-name="Ekushey" group-title="Bangladeshi",Ekushey
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMY8eMG/ekushe_etv.png" tvg-name="Ekushey" group-title="Bangladeshi",Ekushey
 http://line.beemax.cc/live/CD786D/28C27D/1441003.m3u8
 
 #========== SPORTS ==========
@@ -119,7 +119,7 @@ http://line.beemax.cc/live/CD786D/28C27D/63566.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMxwXm0/ZEE_TV.png" tvg-name="Zee TV" group-title="Hindi",Zee TV
 http://line.beemax.cc/live/CD786D/28C27D/63561.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMxwFhL/Colors_tv.png" tvg-name="Colors TV" group-title="Hindi",Colors TV
-http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/72156.ts
+http://line.beemax.cc/live/CD786D/28C27D/63445.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMxwOYG/_TV_HD.png" tvg-name="& TV" group-title="Hindi",& TV
 http://line.beemax.cc/live/CD786D/28C27D/63579.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABAmm/SONY_MAX_HD.png" tvg-name="Sony Max HD" group-title="Hindi",Sony Max HD
@@ -136,12 +136,11 @@ http://line.beemax.cc/live/CD786D/28C27D/63580.m3u8
 http://line.beemax.cc/live/CD786D/28C27D/63582.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCT2x0/Zee_Cinema_HD.png" tvg-name="Zee Cinema HD" group-title="Hindi",Zee Cinema HD
 http://line.beemax.cc/live/CD786D/28C27D/63581.m3u8
-#EXTINF:-1 tvg-name="Star Gold Select HD" group-title="Hindi",Star Gold Select HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/SGSHD.jpg" tvg-name="Star Gold Select HD" group-title="Hindi",Star Gold Select HD
 http://line.beemax.cc/live/CD786D/28C27D/63564.m3u8
-#EXTINF:-1 tvg-name="And Explorer HD" group-title="Hindi",And Explorer HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/%26xplor_HD_logo.png" tvg-name="And Explorer HD" group-title="Hindi",And Explorer HD
 http://line.beemax.cc/live/CD786D/28C27D/143805.m3u8
-#EXTINF:-1 tvg-name="Colors Gujarati" group-title="Hindi",Colors Gujarati
-http://line.beemax.cc/live/CD786D/28C27D/63445.m3u8
+
 
 #========== OTHER ==========
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMABjYC/Discovery_TV.png" tvg-name="Discovery" group-title="Other",Discovery
@@ -150,7 +149,7 @@ http://line.beemax.cc/live/CD786D/28C27D/63315.m3u8
 http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/34697.ts
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCTlu1/National_Geography.png" tvg-name="National Geography" group-title="Other",National Geography
 http://line.beemax.cc/live/CD786D/28C27D/63514.m3u8
-#EXTINF:-1 tvg-name="Animal Planet World HD" group-title="Other",Animal Planet World HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvydS_Ljc-XbPUYKeHgbtl5iyD1diFZmi39B9krgRnjUIkM9h_NsgpdE&s=10" group-title="Other",Animal Planet World HD
 http://line.beemax.cc/live/CD786D/28C27D/63521.m3u8
 
 #==========(extra group) ==========
