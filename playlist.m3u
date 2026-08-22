@@ -48,13 +48,13 @@ http://line.beemax.cc/live/CD786D/28C27D/108819.m3u8
 http://line.beemax.cc/live/CD786D/28C27D/108853.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMY8xJM/RTV.png" tvg-name="RTV" group-title="Bangladeshi",RTV
 http://line.beemax.cc/live/CD786D/28C27D/108833.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="News18 Bangla" group-title="Bangladeshi",News18 Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-name="News18 Bangla" group-title="Bangladeshi",News18 Bangla
 http://line.beemax.cc/live/CD786D/28C27D/108838.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMYRTJJ/NEWS24.png" tvg-name="News 24 HD" group-title="Bangladeshi",News 24 HD
 http://line.beemax.cc/live/CD786D/28C27D/108849.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="Ananda TV" group-title="Bangladeshi",Ananda TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RIRoi7ZMdgjx9Ep9pQho9z1NBEnrfHPLit9wg_HUOg&s=10" tvg-name="Ananda TV" group-title="Bangladeshi",Ananda TV
 http://line.beemax.cc/live/CD786D/28C27D/108878.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="Asian TV" group-title="Bangladeshi",Asian TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQifdxQUvYRQ4wAF4ErUL9lV_wftCQ9x7ugdYaq3FagixtwbK7VRRTj1M&s=10" tvg-name="Asian TV" group-title="Bangladeshi",Asian TV
 http://line.beemax.cc/live/CD786D/28C27D/1440997.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMYRrfz/bangla_vision_tv.png" tvg-name="Bangla Vision" group-title="Bangladeshi",Bangla Vision
 http://line.beemax.cc/live/CD786D/28C27D/1441001.m3u8
@@ -99,7 +99,7 @@ http://stream8k.store/live/UZQ2F7EPJ7MRCEX/sFYwq95wPL/1406508.ts
 
 #========== CARTOON ==========
 #EXTINF:-1 tvg-logo="https://i.im.ge/QM3FTK0/SUPER_HUNGAMA.png" tvg-name="Super Hungama" group-title="Cartoon",Super Hungama
-http://line.beemax.cc/live/CD786D/28C27D/1441461.m3u8
+http://line.gofast-tv.me:80/play/live.php?mac=00%3A1A%3A79%3A00%3A04%3A35&stream=1097624&extension=ts&play_token=UOJWkEFuE8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAB5oD/CARTOON_NETWORK.png" tvg-name="Cartoon Network" group-title="Cartoon",Cartoon Network
 http://line.beemax.cc/live/CD786D/28C27D/112886.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCTofP/Discovery_Kids.png" tvg-name="Discovery Kids" group-title="Cartoon",Discovery kids
