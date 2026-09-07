@@ -67,7 +67,7 @@ http://line.beemax.cc/live/CD786D/28C27D/756462.ts
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMbDazF/unite_sports_2.jpg" tvg-name="Unite8 Sports 2" group-title="Sports",Unite8 Sports 2
 http://line.lux-4k.cc/live/C69401/040F66/63547.ts
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMEGD74/FOX_SPORTS_CRICKET.png" tvg-name="Fox 501 Cricket" group-title="Sports",Fox 501 Cricket
-http://vca.easy747.com:80/live/donad220/8U01MGV/1405863.ts
+http://pro.testbestrest.one:80/play/live.php?mac=00%3A1A%3A79%3A5E%3AF0%3AF6&stream=852135&extension=ts
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4xn9/A_Sports.png" tvg-name="A Sports" group-title="Sports",A Sports
 http://line.lux-4k.cc/live/C69401/040F66/501756.ts
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMA4AQ6/Star_Sports_1_HD.png" tvg-name="Star Sports 1" group-title="Sports",Star Sports 1
@@ -102,6 +102,8 @@ http://line.lux-4k.cc/live/C69401/040F66/99708.ts
 http://line.lux-4k.cc/live/C69401/040F66/1441461.ts
 #EXTINF:-1 tvg-logo="https://i.im.ge/QM3FTK0/SUPER_HUNGAMA.png" tvg-name="Super Hungama" group-title="Cartoon",Super Hungama
 http://skyfilex.fun/live/22H1pUYT4/uevuKVCK81/66162.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QM3FTK0/SUPER_HUNGAMA.png" tvg-name="Super Hungama Test" group-title="Cartoon",Super Hungama Test
+http://pro.testbestrest.one:80/play/live.php?mac=00%3A1A%3A79%3A5E%3AF0%3AF6&stream=441060&extension=ts
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMAB5oD/CARTOON_NETWORK.png" tvg-name="Cartoon Network" group-title="Cartoon",Cartoon Network
 http://line.lux-4k.cc/live/C69401/040F66/112886.ts
 #EXTINF:-1 tvg-logo="https://i.im.ge/QMCTofP/Discovery_Kids.png" tvg-name="Discovery Kids" group-title="Cartoon",Discovery kids
